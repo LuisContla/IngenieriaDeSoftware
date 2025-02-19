@@ -1,0 +1,2 @@
+# Tarea 1.- Herramientas para el desarrollo de proyectos de Software
+Tarea 1 correspondiente al curso de Ingeniería de Software. El propósito de esta actividad fue que me familiarizara con algunas de las herramientas más utilizadas en el desarrollo de software. A través de su instalación y configuración, pude preparar mi entorno de trabajo para los proyectos que desarrollaremos durante el curso.
