@@ -2,7 +2,11 @@
 Repositorio donde se almacenarán todas las actividades del curso de Ingeniería de Software.
 
 ## Tareas
-1. [Tarea 1 - Introducción](./Tarea1/)
+ - [Tarea 1 - Herramientas para el desarrollo de proyectos de Software](./Tarea1/)
+ - [Tarea 3 - Login/Registro y Conexión con Base de Datos](./Tarea3/)
+
+## Prácticas
+ - Aún no se han creado prácticas
 
 ## ¿Cómo Iniciar las Aplicaciones?
 Primero debemos tener instalada la última versión de .NET que se puede encontrar [aquí](https://dotnet.microsoft.com/es-es/).

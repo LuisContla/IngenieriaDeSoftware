@@ -42,8 +42,7 @@
               "RelativeToolTip": "Assets\\styles.css",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2025-02-19T23:37:18.8Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-19T23:37:18.8Z"
             },
             {
               "$type": "Document",
@@ -68,8 +67,7 @@
               "RelativeToolTip": "Views\\Login\\Index.cshtml",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAAAwAAAAzAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-02-19T23:33:12.595Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-19T23:33:12.595Z"
             },
             {
               "$type": "Document",
@@ -93,8 +91,7 @@
               "RelativeToolTip": "Controllers\\LoginController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-19T23:30:46.989Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-19T23:30:46.989Z"
             }
           ]
         }
