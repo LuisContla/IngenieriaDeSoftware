@@ -6,9 +6,9 @@ using System.Web.Mvc;
 
 namespace Tarea_3.Controllers
 {
-    public class LoginController : Controller
+    public class HomeController : Controller
     {
-        // GET: Login
+        // GET: Home
         public ActionResult Index()
         {
             return View();

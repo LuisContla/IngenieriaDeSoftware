@@ -6,12 +6,19 @@ using System.Web.Mvc;
 
 namespace Tarea_3.Controllers
 {
-    public class RegisterController : Controller
+    public class AuthenticationController : Controller
     {
-        // GET: Register
-        public ActionResult Index()
+        
+        public ActionResult Login()
         {
             return View();
         }
+
+        public ActionResult Register()
+        {
+            return View();
+        }
+
+
     }
 }
