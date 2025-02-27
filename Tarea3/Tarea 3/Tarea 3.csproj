@@ -89,7 +89,6 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="Assets\forestbridge.jpg" />
-    <Content Include="Assets\home.css" />
     <Content Include="Assets\styles.css" />
     <Content Include="Assets\UserIcon.png" />
     <Content Include="Global.asax" />
@@ -111,6 +110,9 @@
     <Content Include="Views\Authentication\Login.cshtml" />
     <Content Include="Views\Authentication\Register.cshtml" />
     <Content Include="Views\Home\Index.cshtml" />
+    <Content Include="Views\Home\Users.cshtml" />
+    <Content Include="Views\Home\CreateUser.cshtml" />
+    <Content Include="Views\Home\EditUser.cshtml" />
     <None Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
     </None>

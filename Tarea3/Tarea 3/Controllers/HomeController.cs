@@ -13,5 +13,21 @@ namespace Tarea_3.Controllers
         {
             return View();
         }
+
+        public ActionResult Users()
+        {
+            return View();
+        }
+
+        public ActionResult CreateUser()
+        {
+            return View();
+        }
+        
+        public ActionResult EditUser()
+        {
+            return View();
+        }
+
     }
 }

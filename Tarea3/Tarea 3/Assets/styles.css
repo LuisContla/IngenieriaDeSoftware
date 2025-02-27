@@ -5,7 +5,9 @@
     --secundarioOscuro: #45699026;
 }
 
-body {
+/* ---------- ESTILOS DEL LOGIN ---------- */
+
+.login-body {
     background-color: var(--principal);
     font-family: 'Asap', sans-serif;
 }
@@ -95,8 +97,55 @@ body {
     }
 }
 
-a {
+.login-a {
     color: var(--principal);
     text-decoration: none;
     margin: 0px 3px 0px 3px;
+}
+
+/* ---------- ESTILOS DE LAS PÁGINAS ---------- */
+
+/* Principal */
+
+.home-body, .home-h1 {
+    font-family: "Raleway", sans-serif
+}
+
+.home-body, html {
+    height: 100%
+}
+
+.home-bgimg {
+    background-image: url('../Assets/forestbridge.jpg');
+    min-height: 100%;
+    background-position: center;
+    background-size: cover;
+}
+
+/* Usuarios */
+
+.users-container {
+    padding: 1rem 4rem 1rem 4rem;
+    text-align: center;
+    justify-items:center;
+}
+
+.users-h2{
+    margin: 1rem;
+    color: #FFFFFF;
+}
+
+.users-container-grid{
+    padding: 1.5rem;
+}
+
+.col{
+    margin-bottom: 1rem;
+}
+
+/* Crear y Editar Usuario */
+
+.create-users-container-grid {
+    padding: 1.5rem 4rem 1.5rem 4rem;
+    width: 70%;
 }

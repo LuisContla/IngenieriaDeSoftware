@@ -3,40 +3,28 @@
   "WorkspaceRootPath": "C:\\Users\\luisc\\Documents\\ESCOM\\8vo Semestre\\Ingenier\u00EDa de Software\\IngenieriaDeSoftware\\Tarea3\\Tarea 3\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{9D2C609D-3AF9-4F2C-AB80-61A71D06582B}|Tarea 3.csproj|c:\\users\\luisc\\documents\\escom\\8vo semestre\\ingenier\u00EDa de software\\ingenieriadesoftware\\tarea3\\tarea 3\\app_start\\routeconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9D2C609D-3AF9-4F2C-AB80-61A71D06582B}|Tarea 3.csproj|solutionrelative:app_start\\routeconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9D2C609D-3AF9-4F2C-AB80-61A71D06582B}|Tarea 3.csproj|C:\\Users\\luisc\\Documents\\ESCOM\\8vo Semestre\\Ingenier\u00EDa de Software\\IngenieriaDeSoftware\\Tarea3\\Tarea 3\\views\\home\\users.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9D2C609D-3AF9-4F2C-AB80-61A71D06582B}|Tarea 3.csproj|solutionrelative:views\\home\\users.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9D2C609D-3AF9-4F2C-AB80-61A71D06582B}|Tarea 3.csproj|c:\\users\\luisc\\documents\\escom\\8vo semestre\\ingenier\u00EDa de software\\ingenieriadesoftware\\tarea3\\tarea 3\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9D2C609D-3AF9-4F2C-AB80-61A71D06582B}|Tarea 3.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9D2C609D-3AF9-4F2C-AB80-61A71D06582B}|Tarea 3.csproj|c:\\users\\luisc\\documents\\escom\\8vo semestre\\ingenier\u00EDa de software\\ingenieriadesoftware\\tarea3\\tarea 3\\models\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9D2C609D-3AF9-4F2C-AB80-61A71D06582B}|Tarea 3.csproj|solutionrelative:models\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9D2C609D-3AF9-4F2C-AB80-61A71D06582B}|Tarea 3.csproj|c:\\users\\luisc\\documents\\escom\\8vo semestre\\ingenier\u00EDa de software\\ingenieriadesoftware\\tarea3\\tarea 3\\controllers\\authenticationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9D2C609D-3AF9-4F2C-AB80-61A71D06582B}|Tarea 3.csproj|solutionrelative:controllers\\authenticationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9D2C609D-3AF9-4F2C-AB80-61A71D06582B}|Tarea 3.csproj|c:\\users\\luisc\\documents\\escom\\8vo semestre\\ingenier\u00EDa de software\\ingenieriadesoftware\\tarea3\\tarea 3\\assets\\home.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
-      "RelativeMoniker": "D:0:0:{9D2C609D-3AF9-4F2C-AB80-61A71D06582B}|Tarea 3.csproj|solutionrelative:assets\\home.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+      "AbsoluteMoniker": "D:0:0:{9D2C609D-3AF9-4F2C-AB80-61A71D06582B}|Tarea 3.csproj|c:\\users\\luisc\\documents\\escom\\8vo semestre\\ingenier\u00EDa de software\\ingenieriadesoftware\\tarea3\\tarea 3\\views\\home\\edituser.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9D2C609D-3AF9-4F2C-AB80-61A71D06582B}|Tarea 3.csproj|solutionrelative:views\\home\\edituser.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{9D2C609D-3AF9-4F2C-AB80-61A71D06582B}|Tarea 3.csproj|c:\\users\\luisc\\documents\\escom\\8vo semestre\\ingenier\u00EDa de software\\ingenieriadesoftware\\tarea3\\tarea 3\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{9D2C609D-3AF9-4F2C-AB80-61A71D06582B}|Tarea 3.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9D2C609D-3AF9-4F2C-AB80-61A71D06582B}|Tarea 3.csproj|c:\\users\\luisc\\documents\\escom\\8vo semestre\\ingenier\u00EDa de software\\ingenieriadesoftware\\tarea3\\tarea 3\\views\\authentication\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{9D2C609D-3AF9-4F2C-AB80-61A71D06582B}|Tarea 3.csproj|solutionrelative:views\\authentication\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{9D2C609D-3AF9-4F2C-AB80-61A71D06582B}|Tarea 3.csproj|C:\\Users\\luisc\\Documents\\ESCOM\\8vo Semestre\\Ingenier\u00EDa de Software\\IngenieriaDeSoftware\\Tarea3\\Tarea 3\\views\\home\\createuser.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9D2C609D-3AF9-4F2C-AB80-61A71D06582B}|Tarea 3.csproj|solutionrelative:views\\home\\createuser.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9D2C609D-3AF9-4F2C-AB80-61A71D06582B}|Tarea 3.csproj|C:\\Users\\luisc\\Documents\\ESCOM\\8vo Semestre\\Ingenier\u00EDa de Software\\IngenieriaDeSoftware\\Tarea3\\Tarea 3\\assets\\styles.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "AbsoluteMoniker": "D:0:0:{9D2C609D-3AF9-4F2C-AB80-61A71D06582B}|Tarea 3.csproj|c:\\users\\luisc\\documents\\escom\\8vo semestre\\ingenier\u00EDa de software\\ingenieriadesoftware\\tarea3\\tarea 3\\assets\\styles.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
       "RelativeMoniker": "D:0:0:{9D2C609D-3AF9-4F2C-AB80-61A71D06582B}|Tarea 3.csproj|solutionrelative:assets\\styles.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9D2C609D-3AF9-4F2C-AB80-61A71D06582B}|Tarea 3.csproj|c:\\users\\luisc\\documents\\escom\\8vo semestre\\ingenier\u00EDa de software\\ingenieriadesoftware\\tarea3\\tarea 3\\views\\authentication\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{9D2C609D-3AF9-4F2C-AB80-61A71D06582B}|Tarea 3.csproj|solutionrelative:views\\authentication\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{9D2C609D-3AF9-4F2C-AB80-61A71D06582B}|Tarea 3.csproj|c:\\users\\luisc\\documents\\escom\\8vo semestre\\ingenier\u00EDa de software\\ingenieriadesoftware\\tarea3\\tarea 3\\views\\authentication\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9D2C609D-3AF9-4F2C-AB80-61A71D06582B}|Tarea 3.csproj|solutionrelative:views\\authentication\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -46,123 +34,84 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "home.css",
-              "DocumentMoniker": "C:\\Users\\luisc\\Documents\\ESCOM\\8vo Semestre\\Ingenier\u00EDa de Software\\IngenieriaDeSoftware\\Tarea3\\Tarea 3\\Assets\\home.css",
-              "RelativeDocumentMoniker": "Assets\\home.css",
-              "ToolTip": "C:\\Users\\luisc\\Documents\\ESCOM\\8vo Semestre\\Ingenier\u00EDa de Software\\IngenieriaDeSoftware\\Tarea3\\Tarea 3\\Assets\\home.css",
-              "RelativeToolTip": "Assets\\home.css",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAA4AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2025-02-24T02:44:29.732Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\luisc\\Documents\\ESCOM\\8vo Semestre\\Ingenier\u00EDa de Software\\IngenieriaDeSoftware\\Tarea3\\Tarea 3\\Views\\Home\\Index.cshtml",
-              "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
-              "ToolTip": "C:\\Users\\luisc\\Documents\\ESCOM\\8vo Semestre\\Ingenier\u00EDa de Software\\IngenieriaDeSoftware\\Tarea3\\Tarea 3\\Views\\Home\\Index.cshtml",
-              "RelativeToolTip": "Views\\Home\\Index.cshtml",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAsAAAA5AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-02-24T02:25:27.756Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "HomeController.cs",
-              "DocumentMoniker": "C:\\Users\\luisc\\Documents\\ESCOM\\8vo Semestre\\Ingenier\u00EDa de Software\\IngenieriaDeSoftware\\Tarea3\\Tarea 3\\Controllers\\HomeController.cs",
-              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
-              "ToolTip": "C:\\Users\\luisc\\Documents\\ESCOM\\8vo Semestre\\Ingenier\u00EDa de Software\\IngenieriaDeSoftware\\Tarea3\\Tarea 3\\Controllers\\HomeController.cs",
-              "RelativeToolTip": "Controllers\\HomeController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAUAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-24T02:25:18.393Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Register.cshtml",
-              "DocumentMoniker": "C:\\Users\\luisc\\Documents\\ESCOM\\8vo Semestre\\Ingenier\u00EDa de Software\\IngenieriaDeSoftware\\Tarea3\\Tarea 3\\Views\\Authentication\\Register.cshtml",
-              "RelativeDocumentMoniker": "Views\\Authentication\\Register.cshtml",
-              "ToolTip": "C:\\Users\\luisc\\Documents\\ESCOM\\8vo Semestre\\Ingenier\u00EDa de Software\\IngenieriaDeSoftware\\Tarea3\\Tarea 3\\Views\\Authentication\\Register.cshtml",
-              "RelativeToolTip": "Views\\Authentication\\Register.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAaAAAAAAAAAA==",
+              "Title": "EditUser.cshtml",
+              "DocumentMoniker": "C:\\Users\\luisc\\Documents\\ESCOM\\8vo Semestre\\Ingenier\u00EDa de Software\\IngenieriaDeSoftware\\Tarea3\\Tarea 3\\Views\\Home\\EditUser.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\EditUser.cshtml",
+              "ToolTip": "C:\\Users\\luisc\\Documents\\ESCOM\\8vo Semestre\\Ingenier\u00EDa de Software\\IngenieriaDeSoftware\\Tarea3\\Tarea 3\\Views\\Home\\EditUser.cshtml",
+              "RelativeToolTip": "Views\\Home\\EditUser.cshtml",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAADcAAABYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-02-24T02:24:00.729Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Login.cshtml",
-              "DocumentMoniker": "C:\\Users\\luisc\\Documents\\ESCOM\\8vo Semestre\\Ingenier\u00EDa de Software\\IngenieriaDeSoftware\\Tarea3\\Tarea 3\\Views\\Authentication\\Login.cshtml",
-              "RelativeDocumentMoniker": "Views\\Authentication\\Login.cshtml",
-              "ToolTip": "C:\\Users\\luisc\\Documents\\ESCOM\\8vo Semestre\\Ingenier\u00EDa de Software\\IngenieriaDeSoftware\\Tarea3\\Tarea 3\\Views\\Authentication\\Login.cshtml",
-              "RelativeToolTip": "Views\\Authentication\\Login.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAEAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-02-24T02:23:51.288Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "AuthenticationController.cs",
-              "DocumentMoniker": "C:\\Users\\luisc\\Documents\\ESCOM\\8vo Semestre\\Ingenier\u00EDa de Software\\IngenieriaDeSoftware\\Tarea3\\Tarea 3\\Controllers\\AuthenticationController.cs",
-              "RelativeDocumentMoniker": "Controllers\\AuthenticationController.cs",
-              "ToolTip": "C:\\Users\\luisc\\Documents\\ESCOM\\8vo Semestre\\Ingenier\u00EDa de Software\\IngenieriaDeSoftware\\Tarea3\\Tarea 3\\Controllers\\AuthenticationController.cs",
-              "RelativeToolTip": "Controllers\\AuthenticationController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-24T02:22:23.69Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "RouteConfig.cs",
-              "DocumentMoniker": "C:\\Users\\luisc\\Documents\\ESCOM\\8vo Semestre\\Ingenier\u00EDa de Software\\IngenieriaDeSoftware\\Tarea3\\Tarea 3\\App_Start\\RouteConfig.cs",
-              "RelativeDocumentMoniker": "App_Start\\RouteConfig.cs",
-              "ToolTip": "C:\\Users\\luisc\\Documents\\ESCOM\\8vo Semestre\\Ingenier\u00EDa de Software\\IngenieriaDeSoftware\\Tarea3\\Tarea 3\\App_Start\\RouteConfig.cs",
-              "RelativeToolTip": "App_Start\\RouteConfig.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAyAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-24T02:26:01.986Z",
+              "WhenOpened": "2025-02-27T00:40:15.351Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "Usuario.cs",
-              "DocumentMoniker": "C:\\Users\\luisc\\Documents\\ESCOM\\8vo Semestre\\Ingenier\u00EDa de Software\\IngenieriaDeSoftware\\Tarea3\\Tarea 3\\Models\\Usuario.cs",
-              "RelativeDocumentMoniker": "Models\\Usuario.cs",
-              "ToolTip": "C:\\Users\\luisc\\Documents\\ESCOM\\8vo Semestre\\Ingenier\u00EDa de Software\\IngenieriaDeSoftware\\Tarea3\\Tarea 3\\Models\\Usuario.cs",
-              "RelativeToolTip": "Models\\Usuario.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAYAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-24T02:20:20.282Z",
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\luisc\\Documents\\ESCOM\\8vo Semestre\\Ingenier\u00EDa de Software\\IngenieriaDeSoftware\\Tarea3\\Tarea 3\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\luisc\\Documents\\ESCOM\\8vo Semestre\\Ingenier\u00EDa de Software\\IngenieriaDeSoftware\\Tarea3\\Tarea 3\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABkAAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-27T00:40:04.693Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 5,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\luisc\\Documents\\ESCOM\\8vo Semestre\\Ingenier\u00EDa de Software\\IngenieriaDeSoftware\\Tarea3\\Tarea 3\\Views\\Authentication\\Login.cshtml",
+              "RelativeDocumentMoniker": "Views\\Authentication\\Login.cshtml",
+              "ToolTip": "C:\\Users\\luisc\\Documents\\ESCOM\\8vo Semestre\\Ingenier\u00EDa de Software\\IngenieriaDeSoftware\\Tarea3\\Tarea 3\\Views\\Authentication\\Login.cshtml",
+              "RelativeToolTip": "Views\\Authentication\\Login.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-27T00:39:52.743Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CreateUser.cshtml",
+              "DocumentMoniker": "C:\\Users\\luisc\\Documents\\ESCOM\\8vo Semestre\\Ingenier\u00EDa de Software\\IngenieriaDeSoftware\\Tarea3\\Tarea 3\\Views\\Home\\CreateUser.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\CreateUser.cshtml",
+              "ToolTip": "C:\\Users\\luisc\\Documents\\ESCOM\\8vo Semestre\\Ingenier\u00EDa de Software\\IngenieriaDeSoftware\\Tarea3\\Tarea 3\\Views\\Home\\CreateUser.cshtml",
+              "RelativeToolTip": "Views\\Home\\CreateUser.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAADUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-26T01:29:19.757Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "styles.css",
               "DocumentMoniker": "C:\\Users\\luisc\\Documents\\ESCOM\\8vo Semestre\\Ingenier\u00EDa de Software\\IngenieriaDeSoftware\\Tarea3\\Tarea 3\\Assets\\styles.css",
               "RelativeDocumentMoniker": "Assets\\styles.css",
               "ToolTip": "C:\\Users\\luisc\\Documents\\ESCOM\\8vo Semestre\\Ingenier\u00EDa de Software\\IngenieriaDeSoftware\\Tarea3\\Tarea 3\\Assets\\styles.css",
               "RelativeToolTip": "Assets\\styles.css",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAWAAAAAAAAAA==",
+              "ViewState": "AgIAAIcAAAAAAAAAAAAAAJQAAAAlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2025-02-19T23:37:18.8Z",
+              "WhenOpened": "2025-02-26T00:58:29.186Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Users.cshtml",
+              "DocumentMoniker": "C:\\Users\\luisc\\Documents\\ESCOM\\8vo Semestre\\Ingenier\u00EDa de Software\\IngenieriaDeSoftware\\Tarea3\\Tarea 3\\Views\\Home\\Users.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Users.cshtml",
+              "ToolTip": "C:\\Users\\luisc\\Documents\\ESCOM\\8vo Semestre\\Ingenier\u00EDa de Software\\IngenieriaDeSoftware\\Tarea3\\Tarea 3\\Views\\Home\\Users.cshtml",
+              "RelativeToolTip": "Views\\Home\\Users.cshtml",
+              "ViewState": "AgIAAGMAAAAAAAAAAAAcwG8AAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-26T00:43:09.798Z",
               "EditorCaption": ""
             }
           ]
