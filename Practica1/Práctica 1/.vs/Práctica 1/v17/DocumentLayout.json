@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\luisc\\Documents\\ESCOM\\8vo Semestre\\Ingenier\u00EDa de Software\\IngenieriaDeSoftware\\Practica1\\Pr\u00E1ctica 1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9DFBC6F7-F248-40AF-889C-D544AC59257F}|Pr\u00E1ctica 1.csproj|c:\\users\\luisc\\documents\\escom\\8vo semestre\\ingenier\u00EDa de software\\ingenieriadesoftware\\practica1\\pr\u00E1ctica 1\\views\\authentification\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9DFBC6F7-F248-40AF-889C-D544AC59257F}|Pr\u00E1ctica 1.csproj|solutionrelative:views\\authentification\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9DFBC6F7-F248-40AF-889C-D544AC59257F}|Pr\u00E1ctica 1.csproj|c:\\users\\luisc\\documents\\escom\\8vo semestre\\ingenier\u00EDa de software\\ingenieriadesoftware\\practica1\\pr\u00E1ctica 1\\views\\authentification\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9DFBC6F7-F248-40AF-889C-D544AC59257F}|Pr\u00E1ctica 1.csproj|solutionrelative:views\\authentification\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9DFBC6F7-F248-40AF-889C-D544AC59257F}|Pr\u00E1ctica 1.csproj|c:\\users\\luisc\\documents\\escom\\8vo semestre\\ingenier\u00EDa de software\\ingenieriadesoftware\\practica1\\pr\u00E1ctica 1\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9DFBC6F7-F248-40AF-889C-D544AC59257F}|Pr\u00E1ctica 1.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\luisc\\Documents\\ESCOM\\8vo Semestre\\Ingenier\u00EDa de Software\\IngenieriaDeSoftware\\Practica1\\Pr\u00E1ctica 1\\Views\\Authentification\\Login.cshtml",
+              "RelativeDocumentMoniker": "Views\\Authentification\\Login.cshtml",
+              "ToolTip": "C:\\Users\\luisc\\Documents\\ESCOM\\8vo Semestre\\Ingenier\u00EDa de Software\\IngenieriaDeSoftware\\Practica1\\Pr\u00E1ctica 1\\Views\\Authentification\\Login.cshtml",
+              "RelativeToolTip": "Views\\Authentification\\Login.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABUAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-08T00:59:35.377Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "C:\\Users\\luisc\\Documents\\ESCOM\\8vo Semestre\\Ingenier\u00EDa de Software\\IngenieriaDeSoftware\\Practica1\\Pr\u00E1ctica 1\\Views\\Authentification\\Register.cshtml",
+              "RelativeDocumentMoniker": "Views\\Authentification\\Register.cshtml",
+              "ToolTip": "C:\\Users\\luisc\\Documents\\ESCOM\\8vo Semestre\\Ingenier\u00EDa de Software\\IngenieriaDeSoftware\\Practica1\\Pr\u00E1ctica 1\\Views\\Authentification\\Register.cshtml",
+              "RelativeToolTip": "Views\\Authentification\\Register.cshtml",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAAABYAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-08T00:58:54.01Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\luisc\\Documents\\ESCOM\\8vo Semestre\\Ingenier\u00EDa de Software\\IngenieriaDeSoftware\\Practica1\\Pr\u00E1ctica 1\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\luisc\\Documents\\ESCOM\\8vo Semestre\\Ingenier\u00EDa de Software\\IngenieriaDeSoftware\\Practica1\\Pr\u00E1ctica 1\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-08T00:53:03.027Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

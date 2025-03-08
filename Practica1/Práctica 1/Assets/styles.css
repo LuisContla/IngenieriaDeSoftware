@@ -1,0 +1,151 @@
+﻿:root {
+    --principal: #399C8C;
+    --principalContraste: #2C7B6D;
+    --secundario: #02809033;
+    --secundarioOscuro: #45699026;
+}
+
+/* ---------- ESTILOS DEL LOGIN ---------- */
+
+.login-body {
+    background-color: var(--principal);
+    font-family: 'Asap', sans-serif;
+}
+
+.login {
+    overflow: hidden;
+    justify-items: center;
+    text-align: center;
+    background-color: white;
+    padding: 40px 30px 30px 30px;
+    border-radius: 10px;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    width: 400px;
+    transform: translate(-50%, -50%);
+    transition: transform 300ms, box-shadow 300ms;
+    box-shadow: 5px 10px 10px var(--secundario);
+}
+
+    .login::before,
+    .login::after {
+        content: '';
+        position: absolute;
+        width: 600px;
+        height: 600px;
+        border-top-left-radius: 40%;
+        border-top-right-radius: 45%;
+        border-bottom-left-radius: 35%;
+        border-bottom-right-radius: 40%;
+        z-index: -1;
+    }
+
+    .login::before {
+        left: 20%;
+        bottom: -100%;
+        background-color: var(--secundarioOscuro);
+        animation: wawes 6s infinite linear;
+    }
+
+    .login::after {
+        left: 25%;
+        bottom: -115%;
+        background-color: var(--secundario);
+        animation: wawes 7s infinite;
+    }
+
+    .login > input {
+        font-family: 'Asap', sans-serif;
+        display: block;
+        border-radius: 5px;
+        font-size: 16px;
+        background: white;
+        width: 100%;
+        border: 0;
+        padding: 10px 10px;
+        margin: 15px -10px;
+    }
+
+    .login > button {
+        font-family: 'Asap', sans-serif;
+        cursor: pointer;
+        color: #fff;
+        font-size: 16px;
+        text-transform: uppercase;
+        width: 150px;
+        border: 0;
+        padding: 10px 0;
+        margin-top: 10px;
+        margin-left: -5px;
+        border-radius: 5px;
+        background-color: var(--principal);
+        transition: background-color 300ms;
+    }
+
+        .login > button:hover {
+            background-color: var(--principalContraste);
+        }
+
+@keyframes wawes {
+    from {
+        transform: rotate(0);
+    }
+
+    to {
+        transform: rotate(360deg);
+    }
+}
+
+.login-a {
+    color: var(--principal);
+    text-decoration: none;
+    margin: 0px 3px 0px 3px;
+}
+
+/* ---------- ESTILOS DE LAS PÁGINAS ---------- */
+
+/* Principal */
+
+.home-body, .home-h1 {
+    font-family: "Raleway", sans-serif
+}
+
+.home-body, html {
+    height: 100%
+}
+
+.home-bgimg {
+    background-image: url('../Assets/forestbridge.jpg');
+    min-height: 100%;
+    background-position: center;
+    background-size: cover;
+}
+
+/* Usuarios */
+
+.users-container {
+    padding: 1rem 4rem 1rem 4rem;
+    text-align: center;
+    justify-items:center;
+}
+
+.users-h2{
+    margin: 1rem;
+    color: #FFFFFF;
+}
+
+.users-container-grid{
+    padding: 1.5rem;
+}
+
+.col{
+    margin-bottom: 1rem;
+}
+
+/* Crear y Editar Usuario */
+
+.create-users-container-grid {
+    padding: 1.5rem 4rem 1.5rem 4rem;
+    width: 70%;
+}
