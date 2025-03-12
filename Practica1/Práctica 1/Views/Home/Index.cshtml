@@ -1,31 +1,37 @@
-﻿
-@{
+﻿@{
+    ViewData["Title"] = "Bienvenido a la Biblioteca";
     Layout = null;
 }
 
 <!DOCTYPE html>
-<html>
+<html lang="es">
 <head>
-    <title>Página Principal</title>
     <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-    <link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
-    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Raleway">
-    <link rel="stylesheet" href="~/Assets/styles.css" />
-    <link rel="icon" href="~/Assets/UserIcon.png" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>@ViewData["Title"]</title>
+    <link rel="stylesheet" href="~/css/styles.css" asp-append-version="true" />
 </head>
-<body class="home-body">
-
-    <div class="home-bgimg w3-display-container w3-animate-opacity w3-text-white">
-        <div class="w3-display-topleft w3-padding-large w3-xlarge">
-            Logo
-        </div>
-        <div class="w3-display-middle">
-            <h1 class="w3-jumbo w3-animate-top home-h1">BIENVENIDO, USUARIO</h1>
-            <hr class="w3-border-grey" style="margin:auto;width:40%">
-            <p class="w3-large w3-center"><a href="/Home/Users">Gestionar Usuarios</a></p>
-        </div>
+<body>
+    <button class="logout-button" onclick="logout()">🔒 Cerrar Sesión</button>
+    <div class="container">
+        <h1>📚 Biblioteca Virtual</h1>
+        <h2 id="welcome-message">👋 ¡Bienvenido, Usuario!</h2>
+        <div class="option" onclick="window.location.href='/Home/Users'">👤 Gestionar Usuarios</div>
+        <div class="option" onclick="window.location.href='/Home/Books'">📖 Ver Libros Disponibles</div>
     </div>
+
+    <script>
+        // Simulación de obtener el nombre del usuario (puede venir de un backend o localStorage)
+        let usuario = localStorage.getItem("usuario") || "Usuario";
+        document.getElementById("welcome-message").textContent = `👋 ¡Bienvenido, ${usuario}!`;
+
+        // Función para cerrar sesión
+        function logout() {
+            alert("Sesión cerrada. ¡Hasta pronto!");
+            localStorage.removeItem("usuario"); // Borra el usuario almacenado
+            window.location.href = "/Auth/Login"; // Redirige al login
+        }
+    </script>
 
 </body>
 </html>

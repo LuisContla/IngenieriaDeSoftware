@@ -1,31 +1,83 @@
-﻿
-@{
+﻿@{
+    ViewData["Title"] = "Bienvenido a la Biblioteca";
     Layout = null;
 }
 
 <!DOCTYPE html>
-<html>
+<html lang="es">
 <head>
-    <title>Página Principal</title>
     <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-    <link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
-    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Raleway">
-    <link rel="stylesheet" href="~/Assets/styles.css" />
-    <link rel="icon" href="~/Assets/UserIcon.png" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>@ViewData["Title"]</title>
+    <style>
+        /* Estilos generales */
+        body {
+            font-family: 'Georgia', serif;
+            margin: 0;
+            padding: 0;
+            color: #fff;
+            background-color: #399C8C;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            height: 100vh;
+        }
+
+        /* Contenedor principal */
+        .container {
+            background: rgba(0, 0, 0, 0.7);
+            padding: 40px;
+            border-radius: 10px;
+            text-align: center;
+            box-shadow: 0px 0px 15px rgba(0, 0, 0, 0.3);
+        }
+
+        /* Cabecera */
+        header h1 {
+            font-size: 36px;
+            margin-bottom: 20px;
+        }
+
+        /* Nombre del usuario */
+        #username {
+            color: #f4c542;
+            font-weight: bold;
+        }
+
+        /* Mensaje */
+        .message {
+            font-size: 20px;
+            margin-top: 10px;
+            font-style: italic;
+        }
+
+        /* Botón de cerrar sesión */
+        button {
+            background-color: #d9534f;
+            color: white;
+            border: none;
+            padding: 10px 20px;
+            font-size: 16px;
+            cursor: pointer;
+            border-radius: 5px;
+            transition: background 0.3s;
+        }
+
+        button:hover {
+            background-color: #c9302c;
+        }
+    </style>
 </head>
-<body class="home-body">
-
-    <div class="home-bgimg w3-display-container w3-animate-opacity w3-text-white">
-        <div class="w3-display-topleft w3-padding-large w3-xlarge">
-            Logo
-        </div>
-        <div class="w3-display-middle">
-            <h1 class="w3-jumbo w3-animate-top home-h1">BIENVENIDO, USUARIO</h1>
-            <hr class="w3-border-grey" style="margin:auto;width:40%">
-            <p class="w3-large w3-center"><a href="/Home/Users">Gestionar Usuarios</a></p>
-        </div>
+<body>
+    <div class="container">
+        <header>
+            <h1>📖 Bienvenido, <span id="username">Usuario</span></h1>
+            <p class="message">Descubre nuevas historias y deja que los libros te transporten a otros mundos.</p>
+            <p class="message">PRÓXIMAMENTE...</p>
+        </header>
+        <main>
+            <button>Cerrar Sesión</button>
+        </main>
     </div>
-
 </body>
 </html>
