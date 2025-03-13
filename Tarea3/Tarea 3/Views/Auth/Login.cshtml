@@ -21,5 +21,23 @@
         <br /><br />
         <a href="/Auth/Register" class="login-a">Aún no tengo una cuenta</a>
     </form>
+
+    <script>
+        document.querySelector("form").addEventListener("submit", function(event) {
+            event.preventDefault(); // Evita el envío del formulario
+
+            let usuario = document.querySelector("input[type='text']").value;
+
+            if(usuario == "admin"){
+                // Redirigir a la página principal de administrador
+                window.location.href = "/Admin/Index";
+            }else{
+                // Redirigir a la página principal
+                window.location.href = "/Home/Index";
+            }
+            
+        });
+    </script>
+
 </body>
 </html>

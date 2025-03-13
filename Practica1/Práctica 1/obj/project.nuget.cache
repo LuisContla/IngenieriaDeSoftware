@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "LCpmxC0TVck=",
+  "dgSpecHash": "S5L9pMR/EqI=",
   "success": true,
-  "projectFilePath": "C:\\Users\\luisc\\Documents\\ESCOM\\8vo Semestre\\Ingeniería de Software\\Nuevo Práctica 1\\Práctica 1\\Práctica 1.csproj",
+  "projectFilePath": "C:\\Users\\luisc\\Documents\\ESCOM\\8vo Semestre\\Ingeniería de Software\\IngenieriaDeSoftware\\Practica1\\Práctica 1\\Práctica 1.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\luisc\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.21.0\\microsoft.visualstudio.azure.containers.tools.targets.1.21.0.nupkg.sha512"
   ],

@@ -105,11 +105,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\luisc\\Documents\\ESCOM\\8vo Semestre\\Ingeniería de Software\\Nuevo Práctica 1\\Práctica 1\\Práctica 1.csproj",
+      "projectUniqueName": "C:\\Users\\luisc\\Documents\\ESCOM\\8vo Semestre\\Ingeniería de Software\\IngenieriaDeSoftware\\Practica1\\Práctica 1\\Práctica 1.csproj",
       "projectName": "Práctica 1",
-      "projectPath": "C:\\Users\\luisc\\Documents\\ESCOM\\8vo Semestre\\Ingeniería de Software\\Nuevo Práctica 1\\Práctica 1\\Práctica 1.csproj",
+      "projectPath": "C:\\Users\\luisc\\Documents\\ESCOM\\8vo Semestre\\Ingeniería de Software\\IngenieriaDeSoftware\\Practica1\\Práctica 1\\Práctica 1.csproj",
       "packagesPath": "C:\\Users\\luisc\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\luisc\\Documents\\ESCOM\\8vo Semestre\\Ingeniería de Software\\Nuevo Práctica 1\\Práctica 1\\obj\\",
+      "outputPath": "C:\\Users\\luisc\\Documents\\ESCOM\\8vo Semestre\\Ingeniería de Software\\IngenieriaDeSoftware\\Practica1\\Práctica 1\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

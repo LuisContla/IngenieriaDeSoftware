@@ -97,3 +97,103 @@ C:\Users\luisc\Documents\ESCOM\8vo Semestre\Ingeniería de Software\Nuevo Práct
 C:\Users\luisc\Documents\ESCOM\8vo Semestre\Ingeniería de Software\Nuevo Práctica 1\Tarea 3\obj\Debug\net9.0\scopedcss\Views\Home\Shared\_Layout.cshtml.rz.scp.css
 C:\Users\luisc\Documents\ESCOM\8vo Semestre\Ingeniería de Software\Nuevo Práctica 1\Tarea 3\obj\Debug\net9.0\compressed\tc6mqq25l4-plkpi5ma1x.gz
 C:\Users\luisc\Documents\ESCOM\8vo Semestre\Ingeniería de Software\Nuevo Práctica 1\Tarea 3\obj\Debug\net9.0\compressed\x0e327b0sb-plkpi5ma1x.gz
+C:\Users\luisc\Documents\ESCOM\8vo Semestre\Ingeniería de Software\IngenieriaDeSoftware\Tarea3\Tarea 3\bin\Debug\net9.0\appsettings.Development.json
+C:\Users\luisc\Documents\ESCOM\8vo Semestre\Ingeniería de Software\IngenieriaDeSoftware\Tarea3\Tarea 3\bin\Debug\net9.0\appsettings.json
+C:\Users\luisc\Documents\ESCOM\8vo Semestre\Ingeniería de Software\IngenieriaDeSoftware\Tarea3\Tarea 3\bin\Debug\net9.0\Tarea 3.staticwebassets.endpoints.json
+C:\Users\luisc\Documents\ESCOM\8vo Semestre\Ingeniería de Software\IngenieriaDeSoftware\Tarea3\Tarea 3\bin\Debug\net9.0\Tarea 3.staticwebassets.runtime.json
+C:\Users\luisc\Documents\ESCOM\8vo Semestre\Ingeniería de Software\IngenieriaDeSoftware\Tarea3\Tarea 3\bin\Debug\net9.0\Tarea 3.exe
+C:\Users\luisc\Documents\ESCOM\8vo Semestre\Ingeniería de Software\IngenieriaDeSoftware\Tarea3\Tarea 3\bin\Debug\net9.0\Tarea 3.deps.json
+C:\Users\luisc\Documents\ESCOM\8vo Semestre\Ingeniería de Software\IngenieriaDeSoftware\Tarea3\Tarea 3\bin\Debug\net9.0\Tarea 3.runtimeconfig.json
+C:\Users\luisc\Documents\ESCOM\8vo Semestre\Ingeniería de Software\IngenieriaDeSoftware\Tarea3\Tarea 3\bin\Debug\net9.0\Tarea 3.dll
+C:\Users\luisc\Documents\ESCOM\8vo Semestre\Ingeniería de Software\IngenieriaDeSoftware\Tarea3\Tarea 3\bin\Debug\net9.0\Tarea 3.pdb
+C:\Users\luisc\Documents\ESCOM\8vo Semestre\Ingeniería de Software\IngenieriaDeSoftware\Tarea3\Tarea 3\obj\Debug\net9.0\Tarea 3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\luisc\Documents\ESCOM\8vo Semestre\Ingeniería de Software\IngenieriaDeSoftware\Tarea3\Tarea 3\obj\Debug\net9.0\Tarea 3.AssemblyInfoInputs.cache
+C:\Users\luisc\Documents\ESCOM\8vo Semestre\Ingeniería de Software\IngenieriaDeSoftware\Tarea3\Tarea 3\obj\Debug\net9.0\Tarea 3.AssemblyInfo.cs
+C:\Users\luisc\Documents\ESCOM\8vo Semestre\Ingeniería de Software\IngenieriaDeSoftware\Tarea3\Tarea 3\obj\Debug\net9.0\Tarea 3.csproj.CoreCompileInputs.cache
+C:\Users\luisc\Documents\ESCOM\8vo Semestre\Ingeniería de Software\IngenieriaDeSoftware\Tarea3\Tarea 3\obj\Debug\net9.0\Tarea 3.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\luisc\Documents\ESCOM\8vo Semestre\Ingeniería de Software\IngenieriaDeSoftware\Tarea3\Tarea 3\obj\Debug\net9.0\Tarea 3.RazorAssemblyInfo.cache
+C:\Users\luisc\Documents\ESCOM\8vo Semestre\Ingeniería de Software\IngenieriaDeSoftware\Tarea3\Tarea 3\obj\Debug\net9.0\Tarea 3.RazorAssemblyInfo.cs
+C:\Users\luisc\Documents\ESCOM\8vo Semestre\Ingeniería de Software\IngenieriaDeSoftware\Tarea3\Tarea 3\obj\Debug\net9.0\Tarea 3.sourcelink.json
+C:\Users\luisc\Documents\ESCOM\8vo Semestre\Ingeniería de Software\IngenieriaDeSoftware\Tarea3\Tarea 3\obj\Debug\net9.0\scopedcss\Views\Home\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\luisc\Documents\ESCOM\8vo Semestre\Ingeniería de Software\IngenieriaDeSoftware\Tarea3\Tarea 3\obj\Debug\net9.0\scopedcss\bundle\Tarea 3.styles.css
+C:\Users\luisc\Documents\ESCOM\8vo Semestre\Ingeniería de Software\IngenieriaDeSoftware\Tarea3\Tarea 3\obj\Debug\net9.0\scopedcss\projectbundle\Tarea 3.bundle.scp.css
+C:\Users\luisc\Documents\ESCOM\8vo Semestre\Ingeniería de Software\IngenieriaDeSoftware\Tarea3\Tarea 3\obj\Debug\net9.0\compressed\xc50egdowt-b9sayid5wm.gz
+C:\Users\luisc\Documents\ESCOM\8vo Semestre\Ingeniería de Software\IngenieriaDeSoftware\Tarea3\Tarea 3\obj\Debug\net9.0\compressed\5gjmchl7qk-3cupzqkxly.gz
+C:\Users\luisc\Documents\ESCOM\8vo Semestre\Ingeniería de Software\IngenieriaDeSoftware\Tarea3\Tarea 3\obj\Debug\net9.0\compressed\nop54csjyx-61n19gt1b8.gz
+C:\Users\luisc\Documents\ESCOM\8vo Semestre\Ingeniería de Software\IngenieriaDeSoftware\Tarea3\Tarea 3\obj\Debug\net9.0\compressed\19gjr4ipku-xtxxf3hu2r.gz
+C:\Users\luisc\Documents\ESCOM\8vo Semestre\Ingeniería de Software\IngenieriaDeSoftware\Tarea3\Tarea 3\obj\Debug\net9.0\compressed\maeg0a4s45-bqjiyaj88i.gz
+C:\Users\luisc\Documents\ESCOM\8vo Semestre\Ingeniería de Software\IngenieriaDeSoftware\Tarea3\Tarea 3\obj\Debug\net9.0\compressed\bly7183ddw-c2jlpeoesf.gz
+C:\Users\luisc\Documents\ESCOM\8vo Semestre\Ingeniería de Software\IngenieriaDeSoftware\Tarea3\Tarea 3\obj\Debug\net9.0\compressed\v8ntj6dy7e-erw9l3u2r3.gz
+C:\Users\luisc\Documents\ESCOM\8vo Semestre\Ingeniería de Software\IngenieriaDeSoftware\Tarea3\Tarea 3\obj\Debug\net9.0\compressed\925d6e2qqe-aexeepp0ev.gz
+C:\Users\luisc\Documents\ESCOM\8vo Semestre\Ingeniería de Software\IngenieriaDeSoftware\Tarea3\Tarea 3\obj\Debug\net9.0\compressed\zfn08yqk3k-d7shbmvgxk.gz
+C:\Users\luisc\Documents\ESCOM\8vo Semestre\Ingeniería de Software\IngenieriaDeSoftware\Tarea3\Tarea 3\obj\Debug\net9.0\compressed\o16rgepnr5-ausgxo2sd3.gz
+C:\Users\luisc\Documents\ESCOM\8vo Semestre\Ingeniería de Software\IngenieriaDeSoftware\Tarea3\Tarea 3\obj\Debug\net9.0\compressed\4su7789dw7-k8d9w2qqmf.gz
+C:\Users\luisc\Documents\ESCOM\8vo Semestre\Ingeniería de Software\IngenieriaDeSoftware\Tarea3\Tarea 3\obj\Debug\net9.0\compressed\kjzizkf6cn-cosvhxvwiu.gz
+C:\Users\luisc\Documents\ESCOM\8vo Semestre\Ingeniería de Software\IngenieriaDeSoftware\Tarea3\Tarea 3\obj\Debug\net9.0\compressed\ggxbm1t7pa-ub07r2b239.gz
+C:\Users\luisc\Documents\ESCOM\8vo Semestre\Ingeniería de Software\IngenieriaDeSoftware\Tarea3\Tarea 3\obj\Debug\net9.0\compressed\3ux049g64t-fvhpjtyr6v.gz
+C:\Users\luisc\Documents\ESCOM\8vo Semestre\Ingeniería de Software\IngenieriaDeSoftware\Tarea3\Tarea 3\obj\Debug\net9.0\compressed\rmu88l0otw-b7pk76d08c.gz
+C:\Users\luisc\Documents\ESCOM\8vo Semestre\Ingeniería de Software\IngenieriaDeSoftware\Tarea3\Tarea 3\obj\Debug\net9.0\compressed\5nslb7ds3g-fsbi9cje9m.gz
+C:\Users\luisc\Documents\ESCOM\8vo Semestre\Ingeniería de Software\IngenieriaDeSoftware\Tarea3\Tarea 3\obj\Debug\net9.0\compressed\5eo7cdglk1-rzd6atqjts.gz
+C:\Users\luisc\Documents\ESCOM\8vo Semestre\Ingeniería de Software\IngenieriaDeSoftware\Tarea3\Tarea 3\obj\Debug\net9.0\compressed\pal7cusnhu-ee0r1s7dh0.gz
+C:\Users\luisc\Documents\ESCOM\8vo Semestre\Ingeniería de Software\IngenieriaDeSoftware\Tarea3\Tarea 3\obj\Debug\net9.0\compressed\b03lzhgmp2-dxx9fxp4il.gz
+C:\Users\luisc\Documents\ESCOM\8vo Semestre\Ingeniería de Software\IngenieriaDeSoftware\Tarea3\Tarea 3\obj\Debug\net9.0\compressed\cwgjnfamjr-jd9uben2k1.gz
+C:\Users\luisc\Documents\ESCOM\8vo Semestre\Ingeniería de Software\IngenieriaDeSoftware\Tarea3\Tarea 3\obj\Debug\net9.0\compressed\b3bsmc88jf-khv3u5hwcm.gz
+C:\Users\luisc\Documents\ESCOM\8vo Semestre\Ingeniería de Software\IngenieriaDeSoftware\Tarea3\Tarea 3\obj\Debug\net9.0\compressed\phbagv6s0h-r4e9w2rdcm.gz
+C:\Users\luisc\Documents\ESCOM\8vo Semestre\Ingeniería de Software\IngenieriaDeSoftware\Tarea3\Tarea 3\obj\Debug\net9.0\compressed\ey2oysebsn-lcd1t2u6c8.gz
+C:\Users\luisc\Documents\ESCOM\8vo Semestre\Ingeniería de Software\IngenieriaDeSoftware\Tarea3\Tarea 3\obj\Debug\net9.0\compressed\p11tnp5nw2-c2oey78nd0.gz
+C:\Users\luisc\Documents\ESCOM\8vo Semestre\Ingeniería de Software\IngenieriaDeSoftware\Tarea3\Tarea 3\obj\Debug\net9.0\compressed\w2z6mkajus-tdbxkamptv.gz
+C:\Users\luisc\Documents\ESCOM\8vo Semestre\Ingeniería de Software\IngenieriaDeSoftware\Tarea3\Tarea 3\obj\Debug\net9.0\compressed\txrv0a054p-j5mq2jizvt.gz
+C:\Users\luisc\Documents\ESCOM\8vo Semestre\Ingeniería de Software\IngenieriaDeSoftware\Tarea3\Tarea 3\obj\Debug\net9.0\compressed\7wxztjofvz-06098lyss8.gz
+C:\Users\luisc\Documents\ESCOM\8vo Semestre\Ingeniería de Software\IngenieriaDeSoftware\Tarea3\Tarea 3\obj\Debug\net9.0\compressed\0j2y88gf8e-nvvlpmu67g.gz
+C:\Users\luisc\Documents\ESCOM\8vo Semestre\Ingeniería de Software\IngenieriaDeSoftware\Tarea3\Tarea 3\obj\Debug\net9.0\compressed\ekes5ulto9-s35ty4nyc5.gz
+C:\Users\luisc\Documents\ESCOM\8vo Semestre\Ingeniería de Software\IngenieriaDeSoftware\Tarea3\Tarea 3\obj\Debug\net9.0\compressed\5dhqaosa7i-pj5nd1wqec.gz
+C:\Users\luisc\Documents\ESCOM\8vo Semestre\Ingeniería de Software\IngenieriaDeSoftware\Tarea3\Tarea 3\obj\Debug\net9.0\compressed\t76iid6mnf-46ein0sx1k.gz
+C:\Users\luisc\Documents\ESCOM\8vo Semestre\Ingeniería de Software\IngenieriaDeSoftware\Tarea3\Tarea 3\obj\Debug\net9.0\compressed\qvcrv7qj1v-v0zj4ognzu.gz
+C:\Users\luisc\Documents\ESCOM\8vo Semestre\Ingeniería de Software\IngenieriaDeSoftware\Tarea3\Tarea 3\obj\Debug\net9.0\compressed\yov70se3i1-37tfw0ft22.gz
+C:\Users\luisc\Documents\ESCOM\8vo Semestre\Ingeniería de Software\IngenieriaDeSoftware\Tarea3\Tarea 3\obj\Debug\net9.0\compressed\6qmhfes0dn-hrwsygsryq.gz
+C:\Users\luisc\Documents\ESCOM\8vo Semestre\Ingeniería de Software\IngenieriaDeSoftware\Tarea3\Tarea 3\obj\Debug\net9.0\compressed\3cgavwawwm-pk9g2wxc8p.gz
+C:\Users\luisc\Documents\ESCOM\8vo Semestre\Ingeniería de Software\IngenieriaDeSoftware\Tarea3\Tarea 3\obj\Debug\net9.0\compressed\b1inenn30r-ft3s53vfgj.gz
+C:\Users\luisc\Documents\ESCOM\8vo Semestre\Ingeniería de Software\IngenieriaDeSoftware\Tarea3\Tarea 3\obj\Debug\net9.0\compressed\xmxv8lfr22-6cfz1n2cew.gz
+C:\Users\luisc\Documents\ESCOM\8vo Semestre\Ingeniería de Software\IngenieriaDeSoftware\Tarea3\Tarea 3\obj\Debug\net9.0\compressed\oydq66ksi2-6pdc2jztkx.gz
+C:\Users\luisc\Documents\ESCOM\8vo Semestre\Ingeniería de Software\IngenieriaDeSoftware\Tarea3\Tarea 3\obj\Debug\net9.0\compressed\gn4qnfk244-493y06b0oq.gz
+C:\Users\luisc\Documents\ESCOM\8vo Semestre\Ingeniería de Software\IngenieriaDeSoftware\Tarea3\Tarea 3\obj\Debug\net9.0\compressed\t1oluj7jxz-iovd86k7lj.gz
+C:\Users\luisc\Documents\ESCOM\8vo Semestre\Ingeniería de Software\IngenieriaDeSoftware\Tarea3\Tarea 3\obj\Debug\net9.0\compressed\332y2hvklt-vr1egmr9el.gz
+C:\Users\luisc\Documents\ESCOM\8vo Semestre\Ingeniería de Software\IngenieriaDeSoftware\Tarea3\Tarea 3\obj\Debug\net9.0\compressed\xca5iwky2b-kbrnm935zg.gz
+C:\Users\luisc\Documents\ESCOM\8vo Semestre\Ingeniería de Software\IngenieriaDeSoftware\Tarea3\Tarea 3\obj\Debug\net9.0\compressed\7gr8qea40y-jj8uyg4cgr.gz
+C:\Users\luisc\Documents\ESCOM\8vo Semestre\Ingeniería de Software\IngenieriaDeSoftware\Tarea3\Tarea 3\obj\Debug\net9.0\compressed\du7no5bwdv-y7v9cxd14o.gz
+C:\Users\luisc\Documents\ESCOM\8vo Semestre\Ingeniería de Software\IngenieriaDeSoftware\Tarea3\Tarea 3\obj\Debug\net9.0\compressed\b9zmleyi96-notf2xhcfb.gz
+C:\Users\luisc\Documents\ESCOM\8vo Semestre\Ingeniería de Software\IngenieriaDeSoftware\Tarea3\Tarea 3\obj\Debug\net9.0\compressed\87h55xyidj-h1s4sie4z3.gz
+C:\Users\luisc\Documents\ESCOM\8vo Semestre\Ingeniería de Software\IngenieriaDeSoftware\Tarea3\Tarea 3\obj\Debug\net9.0\compressed\ta59vprlmn-63fj8s7r0e.gz
+C:\Users\luisc\Documents\ESCOM\8vo Semestre\Ingeniería de Software\IngenieriaDeSoftware\Tarea3\Tarea 3\obj\Debug\net9.0\compressed\l5je1xe65l-0j3bgjxly4.gz
+C:\Users\luisc\Documents\ESCOM\8vo Semestre\Ingeniería de Software\IngenieriaDeSoftware\Tarea3\Tarea 3\obj\Debug\net9.0\compressed\5d5psl3jki-47otxtyo56.gz
+C:\Users\luisc\Documents\ESCOM\8vo Semestre\Ingeniería de Software\IngenieriaDeSoftware\Tarea3\Tarea 3\obj\Debug\net9.0\compressed\mebvn39k6d-4v8eqarkd7.gz
+C:\Users\luisc\Documents\ESCOM\8vo Semestre\Ingeniería de Software\IngenieriaDeSoftware\Tarea3\Tarea 3\obj\Debug\net9.0\compressed\mon5i9hqha-356vix0kms.gz
+C:\Users\luisc\Documents\ESCOM\8vo Semestre\Ingeniería de Software\IngenieriaDeSoftware\Tarea3\Tarea 3\obj\Debug\net9.0\compressed\motx9lc2ie-83jwlth58m.gz
+C:\Users\luisc\Documents\ESCOM\8vo Semestre\Ingeniería de Software\IngenieriaDeSoftware\Tarea3\Tarea 3\obj\Debug\net9.0\compressed\4ml09wpyhg-mrlpezrjn3.gz
+C:\Users\luisc\Documents\ESCOM\8vo Semestre\Ingeniería de Software\IngenieriaDeSoftware\Tarea3\Tarea 3\obj\Debug\net9.0\compressed\baxrm60sjd-lzl9nlhx6b.gz
+C:\Users\luisc\Documents\ESCOM\8vo Semestre\Ingeniería de Software\IngenieriaDeSoftware\Tarea3\Tarea 3\obj\Debug\net9.0\compressed\4ss1903qzg-ag7o75518u.gz
+C:\Users\luisc\Documents\ESCOM\8vo Semestre\Ingeniería de Software\IngenieriaDeSoftware\Tarea3\Tarea 3\obj\Debug\net9.0\compressed\fyrlhpemuo-x0q3zqp4vz.gz
+C:\Users\luisc\Documents\ESCOM\8vo Semestre\Ingeniería de Software\IngenieriaDeSoftware\Tarea3\Tarea 3\obj\Debug\net9.0\compressed\2wx605bdn3-0i3buxo5is.gz
+C:\Users\luisc\Documents\ESCOM\8vo Semestre\Ingeniería de Software\IngenieriaDeSoftware\Tarea3\Tarea 3\obj\Debug\net9.0\compressed\208oldrzg9-o1o13a6vjx.gz
+C:\Users\luisc\Documents\ESCOM\8vo Semestre\Ingeniería de Software\IngenieriaDeSoftware\Tarea3\Tarea 3\obj\Debug\net9.0\compressed\7gck059hgv-ttgo8qnofa.gz
+C:\Users\luisc\Documents\ESCOM\8vo Semestre\Ingeniería de Software\IngenieriaDeSoftware\Tarea3\Tarea 3\obj\Debug\net9.0\compressed\x83n63rjx6-2z0ns9nrw6.gz
+C:\Users\luisc\Documents\ESCOM\8vo Semestre\Ingeniería de Software\IngenieriaDeSoftware\Tarea3\Tarea 3\obj\Debug\net9.0\compressed\0ek4t4kko4-muycvpuwrr.gz
+C:\Users\luisc\Documents\ESCOM\8vo Semestre\Ingeniería de Software\IngenieriaDeSoftware\Tarea3\Tarea 3\obj\Debug\net9.0\compressed\dtdronmw0z-87fc7y1x7t.gz
+C:\Users\luisc\Documents\ESCOM\8vo Semestre\Ingeniería de Software\IngenieriaDeSoftware\Tarea3\Tarea 3\obj\Debug\net9.0\compressed\rneijlsou5-mlv21k5csn.gz
+C:\Users\luisc\Documents\ESCOM\8vo Semestre\Ingeniería de Software\IngenieriaDeSoftware\Tarea3\Tarea 3\obj\Debug\net9.0\compressed\tc6mqq25l4-plkpi5ma1x.gz
+C:\Users\luisc\Documents\ESCOM\8vo Semestre\Ingeniería de Software\IngenieriaDeSoftware\Tarea3\Tarea 3\obj\Debug\net9.0\compressed\x0e327b0sb-plkpi5ma1x.gz
+C:\Users\luisc\Documents\ESCOM\8vo Semestre\Ingeniería de Software\IngenieriaDeSoftware\Tarea3\Tarea 3\obj\Debug\net9.0\staticwebassets.build.json
+C:\Users\luisc\Documents\ESCOM\8vo Semestre\Ingeniería de Software\IngenieriaDeSoftware\Tarea3\Tarea 3\obj\Debug\net9.0\staticwebassets.development.json
+C:\Users\luisc\Documents\ESCOM\8vo Semestre\Ingeniería de Software\IngenieriaDeSoftware\Tarea3\Tarea 3\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+C:\Users\luisc\Documents\ESCOM\8vo Semestre\Ingeniería de Software\IngenieriaDeSoftware\Tarea3\Tarea 3\obj\Debug\net9.0\staticwebassets\msbuild.Tarea 3.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\luisc\Documents\ESCOM\8vo Semestre\Ingeniería de Software\IngenieriaDeSoftware\Tarea3\Tarea 3\obj\Debug\net9.0\staticwebassets\msbuild.Tarea 3.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\luisc\Documents\ESCOM\8vo Semestre\Ingeniería de Software\IngenieriaDeSoftware\Tarea3\Tarea 3\obj\Debug\net9.0\staticwebassets\msbuild.build.Tarea 3.props
+C:\Users\luisc\Documents\ESCOM\8vo Semestre\Ingeniería de Software\IngenieriaDeSoftware\Tarea3\Tarea 3\obj\Debug\net9.0\staticwebassets\msbuild.buildMultiTargeting.Tarea 3.props
+C:\Users\luisc\Documents\ESCOM\8vo Semestre\Ingeniería de Software\IngenieriaDeSoftware\Tarea3\Tarea 3\obj\Debug\net9.0\staticwebassets\msbuild.buildTransitive.Tarea 3.props
+C:\Users\luisc\Documents\ESCOM\8vo Semestre\Ingeniería de Software\IngenieriaDeSoftware\Tarea3\Tarea 3\obj\Debug\net9.0\staticwebassets.pack.json
+C:\Users\luisc\Documents\ESCOM\8vo Semestre\Ingeniería de Software\IngenieriaDeSoftware\Tarea3\Tarea 3\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt
+C:\Users\luisc\Documents\ESCOM\8vo Semestre\Ingeniería de Software\IngenieriaDeSoftware\Tarea3\Tarea 3\obj\Debug\net9.0\Tarea 3.dll
+C:\Users\luisc\Documents\ESCOM\8vo Semestre\Ingeniería de Software\IngenieriaDeSoftware\Tarea3\Tarea 3\obj\Debug\net9.0\refint\Tarea 3.dll
+C:\Users\luisc\Documents\ESCOM\8vo Semestre\Ingeniería de Software\IngenieriaDeSoftware\Tarea3\Tarea 3\obj\Debug\net9.0\Tarea 3.pdb
+C:\Users\luisc\Documents\ESCOM\8vo Semestre\Ingeniería de Software\IngenieriaDeSoftware\Tarea3\Tarea 3\obj\Debug\net9.0\Tarea 3.genruntimeconfig.cache
+C:\Users\luisc\Documents\ESCOM\8vo Semestre\Ingeniería de Software\IngenieriaDeSoftware\Tarea3\Tarea 3\obj\Debug\net9.0\ref\Tarea 3.dll
