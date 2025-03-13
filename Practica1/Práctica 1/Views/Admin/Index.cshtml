@@ -15,13 +15,14 @@
     <button class="logout-button" onclick="logout()">🔒 Cerrar Sesión</button>
     <div class="container">
         <h1>📚 Biblioteca Virtual</h1>
-        <h2 id="welcome-message">👋 ¡Bienvenido, Usuario!</h2>
-        <div class="option" onclick="window.location.href='/Home/Books'">📖 Ver Libros Disponibles</div>
+        <h2 id="welcome-message">👋 ¡Bienvenido, Administrador!</h2>
+        <div class="option" onclick="window.location.href='/Admin/Users'">👤 Gestionar Usuarios</div>
+        <div class="option" onclick="window.location.href='/Admin/Books'">📖 Gestionar Libros</div>
     </div>
 
     <script>
         // Simulación de obtener el nombre del usuario (puede venir de un backend o localStorage)
-        let usuario = localStorage.getItem("usuario") || "Usuario";
+        let usuario = localStorage.getItem("usuario") || "Administrador";
         document.getElementById("welcome-message").textContent = `👋 ¡Bienvenido, ${usuario}!`;
 
         // Función para cerrar sesión

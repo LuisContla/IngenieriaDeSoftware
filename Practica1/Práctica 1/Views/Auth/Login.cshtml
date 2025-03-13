@@ -33,8 +33,15 @@
                 localStorage.setItem("usuario", "Invitado"); // Valor por defecto si está vacío
             }
 
-            // Redirigir a la página principal
-            window.location.href = "/Home/Index";
+            if(usuario == "admin"){
+                // Redirigir a la página principal
+                window.location.href = "/Admin/Index";
+            }else{
+                // Redirigir a la página principal
+                window.location.href = "/Home/Index";
+            }
+
+            
         });
     </script>
 
