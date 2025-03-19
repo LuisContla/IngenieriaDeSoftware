@@ -71,23 +71,15 @@
 <body>
     <div class="container">
         <header>
-            <h1>📖 Bienvenido, Administrador <span id="username">Usuario</span></h1>
+            <h1>📖 Bienvenido, Administrador <span id="username">@ViewBag.UserName</span></h1>
             <p class="message">Descubre nuevas historias y deja que los libros te transporten a otros mundos.</p>
             <p class="message">PRÓXIMAMENTE...</p>
         </header>
         <main>
-            <button onclick="logout()">Cerrar Sesión</button>
+            <form method="post" action="@Url.Action("Logout", "Auth")">
+                <button type="submit">Cerrar sesión</button>
+            </form>
         </main>
     </div>
-
-    <script>
-        // Función para cerrar sesión
-        function logout() {
-            alert("Sesión cerrada. ¡Hasta pronto!");
-            localStorage.removeItem("usuario"); // Borra el usuario almacenado
-            window.location.href = "/Auth/Login"; // Redirige al login
-        }
-    </script>
-
 </body>
 </html>

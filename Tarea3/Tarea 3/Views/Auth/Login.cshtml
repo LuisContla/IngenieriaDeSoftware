@@ -1,4 +1,6 @@
-﻿@{
+﻿@model Tarea_3.Models.LoginViewModel
+
+@{
     ViewData["Title"] = "Login";
     Layout = null;
 }
@@ -13,31 +15,24 @@
     <link rel="icon" href="~/img/UserIcon.png" />
 </head>
 <body class="login-body">
-    <form class="login">
+
+    @{
+        var errorMessage = ViewBag.Error as string ?? ""; // Si ViewBag.Error es null, asigna una cadena vacía
+    }
+
+    @if (!string.IsNullOrEmpty(errorMessage))
+    {
+        <div class="alert alert-danger text-center">@errorMessage</div>
+    }
+
+    <form method="post" class="login">
         <h1>LOGIN</h1>
-        <input type="text" placeholder="Usuario">
-        <input type="password" placeholder="Contraseña">
-        <button>Iniciar Sesión</button>
+        <input type="text" name="Usuario" id="Usuario" placeholder="Usuario" required />
+        <input type="password" name="Contraseña" id="Contraseña" placeholder="Contraseña" required />
+        <button type="submit">Iniciar sesión</button>
         <br /><br />
         <a href="/Auth/Register" class="login-a">Aún no tengo una cuenta</a>
     </form>
-
-    <script>
-        document.querySelector("form").addEventListener("submit", function(event) {
-            event.preventDefault(); // Evita el envío del formulario
-
-            let usuario = document.querySelector("input[type='text']").value;
-
-            if(usuario == "admin"){
-                // Redirigir a la página principal de administrador
-                window.location.href = "/Admin/Index";
-            }else{
-                // Redirigir a la página principal
-                window.location.href = "/Home/Index";
-            }
-            
-        });
-    </script>
 
 </body>
 </html>

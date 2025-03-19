@@ -1,1 +1,22 @@
-[]
+[
+  {
+    "ContainingType": "Tarea_3.Controllers.PruebaController",
+    "Method": "Get",
+    "RelativePath": "api/prueba",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Tarea_3.Controllers.UsuariosController",
+    "Method": "GetUsuarios",
+    "RelativePath": "api/usuarios",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  }
+]

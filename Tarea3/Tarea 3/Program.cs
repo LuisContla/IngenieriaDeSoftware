@@ -1,29 +1,47 @@
+using Microsoft.AspNetCore.Authentication.Cookies;
+using Microsoft.EntityFrameworkCore;
+using Tarea_3.Data;
+
 var builder = WebApplication.CreateBuilder(args);
 
-// Add services to the container.
+// Configuración de la base de datos con Entity Framework
+builder.Services.AddDbContext<ApplicationDbContext>(options =>
+    options.UseSqlServer(builder.Configuration.GetConnectionString("DefaultConnection")));
+
+// Habilitar sesiones
+builder.Services.AddDistributedMemoryCache(); // Usa una caché en memoria para las sesiones
+builder.Services.AddSession(options =>
+{
+    options.IdleTimeout = TimeSpan.FromMinutes(30);  // Duración de la sesión
+    options.Cookie.HttpOnly = true;  // La cookie solo es accesible desde HTTP
+    options.Cookie.IsEssential = true;  // Necesario para el funcionamiento de sesiones
+});
+
+// Configuración de autenticación con cookies (aunque no lo usas directamente, pero se recomienda para proteger el acceso)
+builder.Services.AddAuthentication(CookieAuthenticationDefaults.AuthenticationScheme)
+    .AddCookie(options =>
+    {
+        options.LoginPath = "/Auth/Login"; // Redirige si no está autenticado
+        options.AccessDeniedPath = "/Auth/AccessDenied"; // Redirige si no tiene permisos
+    });
+
+// Agregar servicios para MVC
 builder.Services.AddControllersWithViews();
 
 var app = builder.Build();
 
-// Configure the HTTP request pipeline.
-if (!app.Environment.IsDevelopment())
-{
-    app.UseExceptionHandler("/Home/Error");
-    // The default HSTS value is 30 days. You may want to change this for production scenarios, see https://aka.ms/aspnetcore-hsts.
-    app.UseHsts();
-}
-
-app.UseHttpsRedirection();
+// Configuración de middleware
+app.UseStaticFiles();
 app.UseRouting();
 
+// Habilitar autenticación, autorización y sesiones en la aplicación
+app.UseAuthentication();
 app.UseAuthorization();
+app.UseSession(); // Habilita el manejo de sesiones
 
-app.MapStaticAssets();
-
+// Rutas del controlador
 app.MapControllerRoute(
     name: "default",
-    pattern: "{controller=Auth}/{action=Login}/{id?}")
-    .WithStaticAssets();
-
+    pattern: "{controller=Auth}/{action=Login}/{id?}");
 
 app.Run();
