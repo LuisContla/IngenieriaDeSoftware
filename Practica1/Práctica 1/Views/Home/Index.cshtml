@@ -12,25 +12,15 @@
     <link rel="stylesheet" href="~/css/styles.css" asp-append-version="true" />
 </head>
 <body>
-    <button class="logout-button" onclick="logout()">🔒 Cerrar Sesión</button>
+    <form method="post" action="@Url.Action("Logout", "Auth")">
+        <button class="logout-button" type="submit">🔒 Cerrar Sesión</button>
+    </form>
+
     <div class="container">
         <h1>📚 Biblioteca Virtual</h1>
-        <h2 id="welcome-message">👋 ¡Bienvenido, Usuario!</h2>
+        <h2 id="welcome-message">👋 ¡Bienvenido, Usuario @ViewBag.UserName!</h2>
         <div class="option" onclick="window.location.href='/Home/Books'">📖 Ver Libros Disponibles</div>
     </div>
-
-    <script>
-        // Simulación de obtener el nombre del usuario (puede venir de un backend o localStorage)
-        let usuario = localStorage.getItem("usuario") || "Usuario";
-        document.getElementById("welcome-message").textContent = `👋 ¡Bienvenido, ${usuario}!`;
-
-        // Función para cerrar sesión
-        function logout() {
-            alert("Sesión cerrada. ¡Hasta pronto!");
-            localStorage.removeItem("usuario"); // Borra el usuario almacenado
-            window.location.href = "/Auth/Login"; // Redirige al login
-        }
-    </script>
 
 </body>
 </html>

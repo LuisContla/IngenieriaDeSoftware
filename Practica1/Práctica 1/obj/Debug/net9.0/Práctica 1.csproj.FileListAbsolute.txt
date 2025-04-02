@@ -118,7 +118,6 @@ C:\Users\luisc\Documents\ESCOM\8vo Semestre\Ingeniería de Software\IngenieriaDe
 C:\Users\luisc\Documents\ESCOM\8vo Semestre\Ingeniería de Software\IngenieriaDeSoftware\Practica1\Práctica 1\obj\Debug\net9.0\scopedcss\bundle\Práctica 1.styles.css
 C:\Users\luisc\Documents\ESCOM\8vo Semestre\Ingeniería de Software\IngenieriaDeSoftware\Practica1\Práctica 1\obj\Debug\net9.0\scopedcss\projectbundle\Práctica 1.bundle.scp.css
 C:\Users\luisc\Documents\ESCOM\8vo Semestre\Ingeniería de Software\IngenieriaDeSoftware\Practica1\Práctica 1\obj\Debug\net9.0\compressed\8srbz84ovd-b9sayid5wm.gz
-C:\Users\luisc\Documents\ESCOM\8vo Semestre\Ingeniería de Software\IngenieriaDeSoftware\Practica1\Práctica 1\obj\Debug\net9.0\compressed\7086wf8yml-55n0ytmsvy.gz
 C:\Users\luisc\Documents\ESCOM\8vo Semestre\Ingeniería de Software\IngenieriaDeSoftware\Practica1\Práctica 1\obj\Debug\net9.0\compressed\c3mkdes4oh-61n19gt1b8.gz
 C:\Users\luisc\Documents\ESCOM\8vo Semestre\Ingeniería de Software\IngenieriaDeSoftware\Practica1\Práctica 1\obj\Debug\net9.0\compressed\vvgoc981d7-xtxxf3hu2r.gz
 C:\Users\luisc\Documents\ESCOM\8vo Semestre\Ingeniería de Software\IngenieriaDeSoftware\Practica1\Práctica 1\obj\Debug\net9.0\compressed\nphkxnowdz-bqjiyaj88i.gz
@@ -197,3 +196,56 @@ C:\Users\luisc\Documents\ESCOM\8vo Semestre\Ingeniería de Software\IngenieriaDe
 C:\Users\luisc\Documents\ESCOM\8vo Semestre\Ingeniería de Software\IngenieriaDeSoftware\Practica1\Práctica 1\obj\Debug\net9.0\Práctica 1.pdb
 C:\Users\luisc\Documents\ESCOM\8vo Semestre\Ingeniería de Software\IngenieriaDeSoftware\Practica1\Práctica 1\obj\Debug\net9.0\Práctica 1.genruntimeconfig.cache
 C:\Users\luisc\Documents\ESCOM\8vo Semestre\Ingeniería de Software\IngenieriaDeSoftware\Practica1\Práctica 1\obj\Debug\net9.0\ref\Práctica 1.dll
+C:\Users\luisc\Documents\ESCOM\8vo Semestre\Ingeniería de Software\IngenieriaDeSoftware\Practica1\Práctica 1\obj\Debug\net9.0\Práctica 1.csproj.AssemblyReference.cache
+C:\Users\luisc\Documents\ESCOM\8vo Semestre\Ingeniería de Software\IngenieriaDeSoftware\Practica1\Práctica 1\bin\Debug\net9.0\Azure.Core.dll
+C:\Users\luisc\Documents\ESCOM\8vo Semestre\Ingeniería de Software\IngenieriaDeSoftware\Practica1\Práctica 1\bin\Debug\net9.0\Azure.Identity.dll
+C:\Users\luisc\Documents\ESCOM\8vo Semestre\Ingeniería de Software\IngenieriaDeSoftware\Practica1\Práctica 1\bin\Debug\net9.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\luisc\Documents\ESCOM\8vo Semestre\Ingeniería de Software\IngenieriaDeSoftware\Practica1\Práctica 1\bin\Debug\net9.0\Microsoft.Data.SqlClient.dll
+C:\Users\luisc\Documents\ESCOM\8vo Semestre\Ingeniería de Software\IngenieriaDeSoftware\Practica1\Práctica 1\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\luisc\Documents\ESCOM\8vo Semestre\Ingeniería de Software\IngenieriaDeSoftware\Practica1\Práctica 1\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\luisc\Documents\ESCOM\8vo Semestre\Ingeniería de Software\IngenieriaDeSoftware\Practica1\Práctica 1\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\luisc\Documents\ESCOM\8vo Semestre\Ingeniería de Software\IngenieriaDeSoftware\Practica1\Práctica 1\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\luisc\Documents\ESCOM\8vo Semestre\Ingeniería de Software\IngenieriaDeSoftware\Practica1\Práctica 1\bin\Debug\net9.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\luisc\Documents\ESCOM\8vo Semestre\Ingeniería de Software\IngenieriaDeSoftware\Practica1\Práctica 1\bin\Debug\net9.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\luisc\Documents\ESCOM\8vo Semestre\Ingeniería de Software\IngenieriaDeSoftware\Practica1\Práctica 1\bin\Debug\net9.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\luisc\Documents\ESCOM\8vo Semestre\Ingeniería de Software\IngenieriaDeSoftware\Practica1\Práctica 1\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\luisc\Documents\ESCOM\8vo Semestre\Ingeniería de Software\IngenieriaDeSoftware\Practica1\Práctica 1\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\luisc\Documents\ESCOM\8vo Semestre\Ingeniería de Software\IngenieriaDeSoftware\Practica1\Práctica 1\bin\Debug\net9.0\Microsoft.Extensions.Logging.dll
+C:\Users\luisc\Documents\ESCOM\8vo Semestre\Ingeniería de Software\IngenieriaDeSoftware\Practica1\Práctica 1\bin\Debug\net9.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\luisc\Documents\ESCOM\8vo Semestre\Ingeniería de Software\IngenieriaDeSoftware\Practica1\Práctica 1\bin\Debug\net9.0\Microsoft.Extensions.Options.dll
+C:\Users\luisc\Documents\ESCOM\8vo Semestre\Ingeniería de Software\IngenieriaDeSoftware\Practica1\Práctica 1\bin\Debug\net9.0\Microsoft.Extensions.Primitives.dll
+C:\Users\luisc\Documents\ESCOM\8vo Semestre\Ingeniería de Software\IngenieriaDeSoftware\Practica1\Práctica 1\bin\Debug\net9.0\Microsoft.Identity.Client.dll
+C:\Users\luisc\Documents\ESCOM\8vo Semestre\Ingeniería de Software\IngenieriaDeSoftware\Practica1\Práctica 1\bin\Debug\net9.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\luisc\Documents\ESCOM\8vo Semestre\Ingeniería de Software\IngenieriaDeSoftware\Practica1\Práctica 1\bin\Debug\net9.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\luisc\Documents\ESCOM\8vo Semestre\Ingeniería de Software\IngenieriaDeSoftware\Practica1\Práctica 1\bin\Debug\net9.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\luisc\Documents\ESCOM\8vo Semestre\Ingeniería de Software\IngenieriaDeSoftware\Practica1\Práctica 1\bin\Debug\net9.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\luisc\Documents\ESCOM\8vo Semestre\Ingeniería de Software\IngenieriaDeSoftware\Practica1\Práctica 1\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\luisc\Documents\ESCOM\8vo Semestre\Ingeniería de Software\IngenieriaDeSoftware\Practica1\Práctica 1\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\luisc\Documents\ESCOM\8vo Semestre\Ingeniería de Software\IngenieriaDeSoftware\Practica1\Práctica 1\bin\Debug\net9.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\luisc\Documents\ESCOM\8vo Semestre\Ingeniería de Software\IngenieriaDeSoftware\Practica1\Práctica 1\bin\Debug\net9.0\Microsoft.SqlServer.Server.dll
+C:\Users\luisc\Documents\ESCOM\8vo Semestre\Ingeniería de Software\IngenieriaDeSoftware\Practica1\Práctica 1\bin\Debug\net9.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\luisc\Documents\ESCOM\8vo Semestre\Ingeniería de Software\IngenieriaDeSoftware\Practica1\Práctica 1\bin\Debug\net9.0\System.ClientModel.dll
+C:\Users\luisc\Documents\ESCOM\8vo Semestre\Ingeniería de Software\IngenieriaDeSoftware\Practica1\Práctica 1\bin\Debug\net9.0\System.Configuration.ConfigurationManager.dll
+C:\Users\luisc\Documents\ESCOM\8vo Semestre\Ingeniería de Software\IngenieriaDeSoftware\Practica1\Práctica 1\bin\Debug\net9.0\System.Drawing.Common.dll
+C:\Users\luisc\Documents\ESCOM\8vo Semestre\Ingeniería de Software\IngenieriaDeSoftware\Practica1\Práctica 1\bin\Debug\net9.0\System.Formats.Asn1.dll
+C:\Users\luisc\Documents\ESCOM\8vo Semestre\Ingeniería de Software\IngenieriaDeSoftware\Practica1\Práctica 1\bin\Debug\net9.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\luisc\Documents\ESCOM\8vo Semestre\Ingeniería de Software\IngenieriaDeSoftware\Practica1\Práctica 1\bin\Debug\net9.0\System.Memory.Data.dll
+C:\Users\luisc\Documents\ESCOM\8vo Semestre\Ingeniería de Software\IngenieriaDeSoftware\Practica1\Práctica 1\bin\Debug\net9.0\System.Runtime.Caching.dll
+C:\Users\luisc\Documents\ESCOM\8vo Semestre\Ingeniería de Software\IngenieriaDeSoftware\Practica1\Práctica 1\bin\Debug\net9.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\luisc\Documents\ESCOM\8vo Semestre\Ingeniería de Software\IngenieriaDeSoftware\Practica1\Práctica 1\bin\Debug\net9.0\System.Security.Permissions.dll
+C:\Users\luisc\Documents\ESCOM\8vo Semestre\Ingeniería de Software\IngenieriaDeSoftware\Practica1\Práctica 1\bin\Debug\net9.0\System.Text.Json.dll
+C:\Users\luisc\Documents\ESCOM\8vo Semestre\Ingeniería de Software\IngenieriaDeSoftware\Practica1\Práctica 1\bin\Debug\net9.0\System.Windows.Extensions.dll
+C:\Users\luisc\Documents\ESCOM\8vo Semestre\Ingeniería de Software\IngenieriaDeSoftware\Practica1\Práctica 1\bin\Debug\net9.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\luisc\Documents\ESCOM\8vo Semestre\Ingeniería de Software\IngenieriaDeSoftware\Practica1\Práctica 1\bin\Debug\net9.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\luisc\Documents\ESCOM\8vo Semestre\Ingeniería de Software\IngenieriaDeSoftware\Practica1\Práctica 1\bin\Debug\net9.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\luisc\Documents\ESCOM\8vo Semestre\Ingeniería de Software\IngenieriaDeSoftware\Practica1\Práctica 1\bin\Debug\net9.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\luisc\Documents\ESCOM\8vo Semestre\Ingeniería de Software\IngenieriaDeSoftware\Practica1\Práctica 1\bin\Debug\net9.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\luisc\Documents\ESCOM\8vo Semestre\Ingeniería de Software\IngenieriaDeSoftware\Practica1\Práctica 1\bin\Debug\net9.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\luisc\Documents\ESCOM\8vo Semestre\Ingeniería de Software\IngenieriaDeSoftware\Practica1\Práctica 1\bin\Debug\net9.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\luisc\Documents\ESCOM\8vo Semestre\Ingeniería de Software\IngenieriaDeSoftware\Practica1\Práctica 1\bin\Debug\net9.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\luisc\Documents\ESCOM\8vo Semestre\Ingeniería de Software\IngenieriaDeSoftware\Practica1\Práctica 1\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\luisc\Documents\ESCOM\8vo Semestre\Ingeniería de Software\IngenieriaDeSoftware\Practica1\Práctica 1\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\luisc\Documents\ESCOM\8vo Semestre\Ingeniería de Software\IngenieriaDeSoftware\Practica1\Práctica 1\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\luisc\Documents\ESCOM\8vo Semestre\Ingeniería de Software\IngenieriaDeSoftware\Practica1\Práctica 1\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\luisc\Documents\ESCOM\8vo Semestre\Ingeniería de Software\IngenieriaDeSoftware\Practica1\Práctica 1\obj\Debug\net9.0\Práctica 1.csproj.Up2Date
+C:\Users\luisc\Documents\ESCOM\8vo Semestre\Ingeniería de Software\IngenieriaDeSoftware\Practica1\Práctica 1\obj\Debug\net9.0\compressed\7086wf8yml-m3ldursiqp.gz

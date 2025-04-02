@@ -1,1 +1,12 @@
-[]
+[
+  {
+    "ContainingType": "Pr\u00E1ctica_1.Controllers.PruebaController",
+    "Method": "Get",
+    "RelativePath": "api/prueba",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  }
+]

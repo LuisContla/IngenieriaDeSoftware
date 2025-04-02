@@ -1,41 +1,51 @@
-using System.Diagnostics;
 using Microsoft.AspNetCore.Mvc;
-using Práctica_1.Models;
+using Práctica_1.Data;
 
 namespace Práctica_1.Controllers;
 
 public class HomeController : Controller
 {
-    private readonly ILogger<HomeController> _logger;
+    private readonly ApplicationDbContext _context;
 
-    public HomeController(ILogger<HomeController> logger)
+    public HomeController(ApplicationDbContext context)
     {
-        _logger = logger;
+        _context = context;
     }
 
     public IActionResult Index()
     {
-        return View();
-    }
+        var userId = HttpContext.Session.GetString("UsuarioId");
 
-    public IActionResult Users()
-    {
-        return View();
+        if (string.IsNullOrEmpty(userId))
+        {
+            // Si no hay un usuario logueado, redirige al login
+            return RedirectToAction("Login", "Auth");
+        }
+
+        // Buscar al usuario en la base de datos
+        var usuario = _context.Usuarios.FirstOrDefault(u => u.Id.ToString() == userId);
+
+        if (usuario == null)
+        {
+            return RedirectToAction("Login", "Auth");
+        }
+
+        // Pasar el nombre del usuario a la vista
+        ViewBag.UserName = usuario.Nombre;
+
+        return View(); // Regresa la vista principal
     }
 
     public IActionResult Books()
     {
-        return View();
-    }
+        var userId = HttpContext.Session.GetString("UsuarioId");
 
-    public IActionResult Privacy()
-    {
-        return View();
-    }
+        if (string.IsNullOrEmpty(userId))
+        {
+            // Si no hay un usuario logueado, redirige al login
+            return RedirectToAction("Login", "Auth");
+        }
 
-    [ResponseCache(Duration = 0, Location = ResponseCacheLocation.None, NoStore = true)]
-    public IActionResult Error()
-    {
-        return View(new ErrorViewModel { RequestId = Activity.Current?.Id ?? HttpContext.TraceIdentifier });
+        return View();
     }
 }
