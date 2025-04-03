@@ -1,5 +1,5 @@
-# ✏️ Práctica 1 - Plan de proyecto con base en los fundamentos de ingeniería de software
-Práctica 1 correspondiente al curso de Ingeniería de Software. Esta práctica es un sistema completamente separado del proyecto grupal y se enfoca exclusivamente en la implementación de un sistema de login y registro básico con autenticación y manejo de roles como fundación técnica para futuras expansiones.
+# ✏️ Práctica 2.- Modelo de Análisis
+Tarea 3 correspondiente al curso de Ingeniería de Software. El propósito de esta práctica es desarrollar el modelo de análisis de su sistema, implementando un caso de uso principal con autenticación, roles y permisos, además de integrar la funcionalidad de selección de temas (claro/oscuro). Esta práctica combina elementos de diseño (casos de uso) con implementación práctica (autenticación y roles).
 
 ## 🛠️ ¿Cómo Iniciar las Aplicación?
 
@@ -45,11 +45,11 @@ docker run -d -p 8080:8080 --name nombre-contenedor nombre-imagen
 Para este proyecto, mi sugerencia es usar los comandos anteriores de la siguiente manera:
 
    ```bash
-   docker build -t practica_1 .
+   docker build -t practica_2 .
    ```
 
    ```bash
-   docker run -d -p 8080:8080 --name practica_1_contenedor practica_1
+   docker run -d -p 8080:8080 --name practica-2_contenedor practica_2
    ```
 
 ### 3. Acceder a la Aplicación
