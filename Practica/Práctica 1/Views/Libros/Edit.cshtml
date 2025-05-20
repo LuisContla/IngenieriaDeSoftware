@@ -1,0 +1,53 @@
+﻿@model Práctica_1.Models.Libro
+
+@{
+    ViewBag.Title = "Editar Libro";
+    Layout = null;
+}
+
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>@ViewData["Title"]</title>
+    <link rel="stylesheet" href="~/css/styles.css" asp-append-version="true" />
+    <script src="~/js/theme-toggle.js"></script>
+</head>
+<body>
+    @* <button class="back-button" onclick="history.back()">⬅️ Volver</button> *@
+    <button id="modoToggle" class="mode-button mode-nonIndex">
+        <span id="modoIcono">🌙</span>
+    </button>
+    <div class="container">
+        <h2 class="mb-4">Editar libro</h2>
+
+        <form asp-action="Edit" method="post">
+            <input type="hidden" asp-for="Id" />
+
+            <div class="mb-3">
+                <label class="form-label">Título</label>
+                <input asp-for="Titulo" class="form-control" />
+            </div>
+            <div class="mb-3">
+                <label class="form-label">Autor</label>
+                <input asp-for="Autor" class="form-control" />
+            </div>
+            <div class="mb-3">
+                <label class="form-label">Descripción</label>
+                <textarea asp-for="Descripcion" class="form-control"></textarea>
+            </div>
+            <div class="mb-3">
+                <label class="form-label">URL de imagen</label>
+                <input asp-for="ImagenUrl" class="form-control" />
+            </div>
+
+            <button type="submit" class="btn btn-primary">✏️ Guardar cambios</button>
+            <a asp-controller="Admin" asp-action="Books" class="btn btn-secondary">❌ Cancelar</a>
+        </form>
+    </div>
+</body>
+</html>
+
+
+

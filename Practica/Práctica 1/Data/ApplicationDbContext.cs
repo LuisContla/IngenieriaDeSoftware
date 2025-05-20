@@ -10,7 +10,12 @@ namespace Práctica_1.Data
         {
         }
 
-        public DbSet<Usuario> Usuarios { get; set; } // Solo la tabla Usuarios
+        public DbSet<Usuario> Usuarios { get; set; }
+
+        public DbSet<Favorito> Favoritos { get; set; }
+
+        public DbSet<Libro> Libros { get; set; }
+
 
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {

@@ -1,0 +1,63 @@
+﻿@model Práctica_1.Models.PerfilViewModel
+
+@{
+    ViewBag.Title = "Mi Perfil";
+    Layout = null;
+}
+
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>@ViewData["Title"]</title>
+    <link rel="stylesheet" href="~/css/styles.css" asp-append-version="true" />
+    <script src="~/js/theme-toggle.js"></script>
+</head>
+<body>
+    <button class="back-button" onclick="window.location.href='/Home/Index'">🏠</button>
+    <button id="modoToggle" class="mode-button mode-nonIndex">
+        <span id="modoIcono">🌙</span>
+    </button>
+    <div class="container">
+        <h2 class="mb-4">Mi Perfil</h2>
+
+        <div class="card mb-4 shadow-sm">
+            <div class="card-body">
+                <h4 class="card-title">@Model.Usuario.Nombre</h4>
+                <p><strong>Correo:</strong> @Model.Usuario.Correo</p>
+                <p><strong>Rol:</strong> @(Model.Usuario.Rol == 1 ? "Administrador" : "Usuario")</p>
+
+                <a asp-action="EditarPerfil" class="btn btn-primary mt-3">✏️ Editar perfil</a>
+            </div>
+        </div>
+
+        <h3 class="mb-3">Mis Libros Favoritos</h3>
+
+        @if (Model.Favoritos.Count == 0)
+        {
+            <p class="text-muted">No has agregado libros a favoritos aún.</p>
+        }
+        else
+        {
+            <div class="grid">
+                @foreach (var fav in Model.Favoritos)
+                {
+                    <div class="book">
+                        @if (!string.IsNullOrEmpty(fav.Libro.ImagenUrl))
+                        {
+                            <img src="@fav.Libro.ImagenUrl" alt="@fav.Libro.Titulo">
+                        }
+                        <p>@fav.Libro.Titulo</p>
+                        <p>@fav.Libro.Autor</p>
+                        <p>@fav.Libro.Descripcion</p>
+                        <form asp-controller="Favoritos" asp-action="Eliminar" asp-route-id="@fav.Id" method="post" class="d-inline">
+                            <button type="submit" class="btn btn-quitarFavorito">💔 Quitar</button>
+                        </form>
+                    </div>
+                }
+            </div>
+        }
+    </div>
+</body>
+</html>

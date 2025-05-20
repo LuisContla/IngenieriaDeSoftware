@@ -18,6 +18,9 @@ namespace Práctica_1.Controllers
         {
             var userId = HttpContext.Session.GetString("UsuarioId");
 
+            if (userId != "1")
+                return View("AccessDenied");
+
             if (string.IsNullOrEmpty(userId))
             {
                 // Si no hay un usuario logueado, redirige al login
@@ -48,6 +51,9 @@ namespace Práctica_1.Controllers
         public async Task<IActionResult> Users()
         {
             var userId = HttpContext.Session.GetString("UsuarioId");
+
+            if (userId != "1")
+                return View("AccessDenied");
 
             if (string.IsNullOrEmpty(userId))
             {
@@ -182,35 +188,128 @@ namespace Práctica_1.Controllers
 
             return View(usuario); // Si hay errores de validación, regresa a la vista de edición
         }
-
-
-        public IActionResult Books()
+        public async Task<IActionResult> Books(string search, int page = 1, int pageSize = 14)
         {
-
             var userId = HttpContext.Session.GetString("UsuarioId");
 
+            if (userId != "1")
+                return View("AccessDenied");
+
             if (string.IsNullOrEmpty(userId))
-            {
-                // Si no hay un usuario logueado, redirige al login
                 return RedirectToAction("Login", "Auth");
-            }
 
-            // Buscar al usuario en la base de datos
-            var usuario = _context.Usuarios.FirstOrDefault(u => u.Id.ToString() == userId);
+            int usuarioId = int.Parse(userId);
 
-            if (usuario == null)
+            // Consulta base
+            var query = _context.Libros.AsQueryable();
+
+            // Aplicar filtro de búsqueda
+            if (!string.IsNullOrWhiteSpace(search))
             {
-                return RedirectToAction("Login", "Auth");
+                query = query.Where(l =>
+                    l.Titulo.Contains(search) ||
+                    l.Autor.Contains(search) ||
+                    l.Descripcion.Contains(search));
             }
 
-            // Verificar si el usuario es un administrador
-            if (usuario.Rol != 1)  // 1 significa Administrador
-            {
-                return RedirectToAction("Index", "Home"); // Si no es admin, redirige a la página principal
-            }
+            int totalLibros = await query.CountAsync();
 
-            return View();
+            var libros = await query
+                .OrderBy(l => l.Titulo)
+                .Skip((page - 1) * pageSize)
+                .Take(pageSize)
+                .ToListAsync();
+
+            // Libros favoritos del usuario
+            var favoritos = await _context.Favoritos
+                .Where(f => f.UsuarioId == usuarioId)
+                .Select(f => f.LibroId)
+                .ToListAsync();
+
+            ViewBag.Favoritos = favoritos;
+            ViewBag.CurrentPage = page;
+            ViewBag.TotalPages = (int)Math.Ceiling((double)totalLibros / pageSize);
+            ViewBag.Search = search;
+
+            return View(libros);
         }
+
+        public async Task<IActionResult> Perfil()
+        {
+            var userId = HttpContext.Session.GetString("UsuarioId");
+
+            if (userId != "1")
+                return View("AccessDenied");
+
+            if (string.IsNullOrEmpty(userId))
+                return RedirectToAction("Login", "Auth");
+
+            int usuarioId = int.Parse(userId);
+
+            var usuario = await _context.Usuarios.FindAsync(usuarioId);
+            if (usuario == null || usuario.Rol != 1)
+                return RedirectToAction("Index", "Home");
+
+            var favoritos = await _context.Favoritos
+                .Where(f => f.UsuarioId == usuarioId)
+                .Include(f => f.Libro)
+                .ToListAsync();
+
+            var viewModel = new PerfilViewModel
+            {
+                Usuario = usuario,
+                Favoritos = favoritos
+            };
+
+            return View("Perfil", viewModel);
+        }
+
+        [HttpGet]
+        public async Task<IActionResult> EditarPerfil()
+        {
+            var userId = HttpContext.Session.GetString("UsuarioId");
+
+            if (userId != "1")
+                return View("AccessDenied");
+
+            if (string.IsNullOrEmpty(userId))
+                return RedirectToAction("Login", "Auth");
+
+            var usuario = await _context.Usuarios.FindAsync(int.Parse(userId));
+            if (usuario == null)
+                return NotFound();
+
+            return View(usuario); // Usa una vista llamada EditarPerfil.cshtml
+        }
+
+        [HttpPost]
+        [ValidateAntiForgeryToken]
+        public async Task<IActionResult> EditarPerfil(Usuario modelo)
+        {
+            var sessionId = HttpContext.Session.GetString("UsuarioId");
+            if (sessionId == null || modelo.Id.ToString() != sessionId)
+                return Unauthorized();
+
+            var usuario = await _context.Usuarios.FindAsync(modelo.Id);
+            if (usuario == null)
+                return NotFound();
+
+            usuario.Nombre = modelo.Nombre;
+            usuario.Correo = modelo.Correo;
+
+            if (!string.IsNullOrWhiteSpace(modelo.Contraseña))
+            {
+                usuario.Contraseña = modelo.Contraseña; // Opcional: encriptar si fuera necesario
+            }
+
+            await _context.SaveChangesAsync();
+
+            if (usuario.Rol == 1)
+                return RedirectToAction("Perfil", "Admin");
+            else
+                return RedirectToAction("Perfil", "Home");
+        }
+
 
     }
 }

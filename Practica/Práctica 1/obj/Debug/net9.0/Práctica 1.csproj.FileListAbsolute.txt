@@ -249,3 +249,237 @@ C:\Users\luisc\Documents\ESCOM\8vo Semestre\Ingeniería de Software\IngenieriaDe
 C:\Users\luisc\Documents\ESCOM\8vo Semestre\Ingeniería de Software\IngenieriaDeSoftware\Practica1\Práctica 1\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
 C:\Users\luisc\Documents\ESCOM\8vo Semestre\Ingeniería de Software\IngenieriaDeSoftware\Practica1\Práctica 1\obj\Debug\net9.0\Práctica 1.csproj.Up2Date
 C:\Users\luisc\Documents\ESCOM\8vo Semestre\Ingeniería de Software\IngenieriaDeSoftware\Practica1\Práctica 1\obj\Debug\net9.0\compressed\7086wf8yml-m3ldursiqp.gz
+C:\Users\luisc\Documents\ESCOM\8vo Semestre\Ingeniería de Software\IngenieriaDeSoftware\Practica\Práctica 1\bin\Debug\net9.0\appsettings.Development.json
+C:\Users\luisc\Documents\ESCOM\8vo Semestre\Ingeniería de Software\IngenieriaDeSoftware\Practica\Práctica 1\bin\Debug\net9.0\appsettings.json
+C:\Users\luisc\Documents\ESCOM\8vo Semestre\Ingeniería de Software\IngenieriaDeSoftware\Practica\Práctica 1\bin\Debug\net9.0\Práctica 1.staticwebassets.endpoints.json
+C:\Users\luisc\Documents\ESCOM\8vo Semestre\Ingeniería de Software\IngenieriaDeSoftware\Practica\Práctica 1\bin\Debug\net9.0\Práctica 1.staticwebassets.runtime.json
+C:\Users\luisc\Documents\ESCOM\8vo Semestre\Ingeniería de Software\IngenieriaDeSoftware\Practica\Práctica 1\bin\Debug\net9.0\Práctica 1.exe
+C:\Users\luisc\Documents\ESCOM\8vo Semestre\Ingeniería de Software\IngenieriaDeSoftware\Practica\Práctica 1\bin\Debug\net9.0\Práctica 1.deps.json
+C:\Users\luisc\Documents\ESCOM\8vo Semestre\Ingeniería de Software\IngenieriaDeSoftware\Practica\Práctica 1\bin\Debug\net9.0\Práctica 1.runtimeconfig.json
+C:\Users\luisc\Documents\ESCOM\8vo Semestre\Ingeniería de Software\IngenieriaDeSoftware\Practica\Práctica 1\bin\Debug\net9.0\Práctica 1.dll
+C:\Users\luisc\Documents\ESCOM\8vo Semestre\Ingeniería de Software\IngenieriaDeSoftware\Practica\Práctica 1\bin\Debug\net9.0\Práctica 1.pdb
+C:\Users\luisc\Documents\ESCOM\8vo Semestre\Ingeniería de Software\IngenieriaDeSoftware\Practica\Práctica 1\bin\Debug\net9.0\Azure.Core.dll
+C:\Users\luisc\Documents\ESCOM\8vo Semestre\Ingeniería de Software\IngenieriaDeSoftware\Practica\Práctica 1\bin\Debug\net9.0\Azure.Identity.dll
+C:\Users\luisc\Documents\ESCOM\8vo Semestre\Ingeniería de Software\IngenieriaDeSoftware\Practica\Práctica 1\bin\Debug\net9.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\luisc\Documents\ESCOM\8vo Semestre\Ingeniería de Software\IngenieriaDeSoftware\Practica\Práctica 1\bin\Debug\net9.0\Microsoft.Data.SqlClient.dll
+C:\Users\luisc\Documents\ESCOM\8vo Semestre\Ingeniería de Software\IngenieriaDeSoftware\Practica\Práctica 1\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\luisc\Documents\ESCOM\8vo Semestre\Ingeniería de Software\IngenieriaDeSoftware\Practica\Práctica 1\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\luisc\Documents\ESCOM\8vo Semestre\Ingeniería de Software\IngenieriaDeSoftware\Practica\Práctica 1\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\luisc\Documents\ESCOM\8vo Semestre\Ingeniería de Software\IngenieriaDeSoftware\Practica\Práctica 1\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\luisc\Documents\ESCOM\8vo Semestre\Ingeniería de Software\IngenieriaDeSoftware\Practica\Práctica 1\bin\Debug\net9.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\luisc\Documents\ESCOM\8vo Semestre\Ingeniería de Software\IngenieriaDeSoftware\Practica\Práctica 1\bin\Debug\net9.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\luisc\Documents\ESCOM\8vo Semestre\Ingeniería de Software\IngenieriaDeSoftware\Practica\Práctica 1\bin\Debug\net9.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\luisc\Documents\ESCOM\8vo Semestre\Ingeniería de Software\IngenieriaDeSoftware\Practica\Práctica 1\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\luisc\Documents\ESCOM\8vo Semestre\Ingeniería de Software\IngenieriaDeSoftware\Practica\Práctica 1\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\luisc\Documents\ESCOM\8vo Semestre\Ingeniería de Software\IngenieriaDeSoftware\Practica\Práctica 1\bin\Debug\net9.0\Microsoft.Extensions.Logging.dll
+C:\Users\luisc\Documents\ESCOM\8vo Semestre\Ingeniería de Software\IngenieriaDeSoftware\Practica\Práctica 1\bin\Debug\net9.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\luisc\Documents\ESCOM\8vo Semestre\Ingeniería de Software\IngenieriaDeSoftware\Practica\Práctica 1\bin\Debug\net9.0\Microsoft.Extensions.Options.dll
+C:\Users\luisc\Documents\ESCOM\8vo Semestre\Ingeniería de Software\IngenieriaDeSoftware\Practica\Práctica 1\bin\Debug\net9.0\Microsoft.Extensions.Primitives.dll
+C:\Users\luisc\Documents\ESCOM\8vo Semestre\Ingeniería de Software\IngenieriaDeSoftware\Practica\Práctica 1\bin\Debug\net9.0\Microsoft.Identity.Client.dll
+C:\Users\luisc\Documents\ESCOM\8vo Semestre\Ingeniería de Software\IngenieriaDeSoftware\Practica\Práctica 1\bin\Debug\net9.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\luisc\Documents\ESCOM\8vo Semestre\Ingeniería de Software\IngenieriaDeSoftware\Practica\Práctica 1\bin\Debug\net9.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\luisc\Documents\ESCOM\8vo Semestre\Ingeniería de Software\IngenieriaDeSoftware\Practica\Práctica 1\bin\Debug\net9.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\luisc\Documents\ESCOM\8vo Semestre\Ingeniería de Software\IngenieriaDeSoftware\Practica\Práctica 1\bin\Debug\net9.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\luisc\Documents\ESCOM\8vo Semestre\Ingeniería de Software\IngenieriaDeSoftware\Practica\Práctica 1\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\luisc\Documents\ESCOM\8vo Semestre\Ingeniería de Software\IngenieriaDeSoftware\Practica\Práctica 1\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\luisc\Documents\ESCOM\8vo Semestre\Ingeniería de Software\IngenieriaDeSoftware\Practica\Práctica 1\bin\Debug\net9.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\luisc\Documents\ESCOM\8vo Semestre\Ingeniería de Software\IngenieriaDeSoftware\Practica\Práctica 1\bin\Debug\net9.0\Microsoft.SqlServer.Server.dll
+C:\Users\luisc\Documents\ESCOM\8vo Semestre\Ingeniería de Software\IngenieriaDeSoftware\Practica\Práctica 1\bin\Debug\net9.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\luisc\Documents\ESCOM\8vo Semestre\Ingeniería de Software\IngenieriaDeSoftware\Practica\Práctica 1\bin\Debug\net9.0\System.ClientModel.dll
+C:\Users\luisc\Documents\ESCOM\8vo Semestre\Ingeniería de Software\IngenieriaDeSoftware\Practica\Práctica 1\bin\Debug\net9.0\System.Configuration.ConfigurationManager.dll
+C:\Users\luisc\Documents\ESCOM\8vo Semestre\Ingeniería de Software\IngenieriaDeSoftware\Practica\Práctica 1\bin\Debug\net9.0\System.Drawing.Common.dll
+C:\Users\luisc\Documents\ESCOM\8vo Semestre\Ingeniería de Software\IngenieriaDeSoftware\Practica\Práctica 1\bin\Debug\net9.0\System.Formats.Asn1.dll
+C:\Users\luisc\Documents\ESCOM\8vo Semestre\Ingeniería de Software\IngenieriaDeSoftware\Practica\Práctica 1\bin\Debug\net9.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\luisc\Documents\ESCOM\8vo Semestre\Ingeniería de Software\IngenieriaDeSoftware\Practica\Práctica 1\bin\Debug\net9.0\System.Memory.Data.dll
+C:\Users\luisc\Documents\ESCOM\8vo Semestre\Ingeniería de Software\IngenieriaDeSoftware\Practica\Práctica 1\bin\Debug\net9.0\System.Runtime.Caching.dll
+C:\Users\luisc\Documents\ESCOM\8vo Semestre\Ingeniería de Software\IngenieriaDeSoftware\Practica\Práctica 1\bin\Debug\net9.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\luisc\Documents\ESCOM\8vo Semestre\Ingeniería de Software\IngenieriaDeSoftware\Practica\Práctica 1\bin\Debug\net9.0\System.Security.Permissions.dll
+C:\Users\luisc\Documents\ESCOM\8vo Semestre\Ingeniería de Software\IngenieriaDeSoftware\Practica\Práctica 1\bin\Debug\net9.0\System.Text.Json.dll
+C:\Users\luisc\Documents\ESCOM\8vo Semestre\Ingeniería de Software\IngenieriaDeSoftware\Practica\Práctica 1\bin\Debug\net9.0\System.Windows.Extensions.dll
+C:\Users\luisc\Documents\ESCOM\8vo Semestre\Ingeniería de Software\IngenieriaDeSoftware\Practica\Práctica 1\bin\Debug\net9.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\luisc\Documents\ESCOM\8vo Semestre\Ingeniería de Software\IngenieriaDeSoftware\Practica\Práctica 1\bin\Debug\net9.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\luisc\Documents\ESCOM\8vo Semestre\Ingeniería de Software\IngenieriaDeSoftware\Practica\Práctica 1\bin\Debug\net9.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\luisc\Documents\ESCOM\8vo Semestre\Ingeniería de Software\IngenieriaDeSoftware\Practica\Práctica 1\bin\Debug\net9.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\luisc\Documents\ESCOM\8vo Semestre\Ingeniería de Software\IngenieriaDeSoftware\Practica\Práctica 1\bin\Debug\net9.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\luisc\Documents\ESCOM\8vo Semestre\Ingeniería de Software\IngenieriaDeSoftware\Practica\Práctica 1\bin\Debug\net9.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\luisc\Documents\ESCOM\8vo Semestre\Ingeniería de Software\IngenieriaDeSoftware\Practica\Práctica 1\bin\Debug\net9.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\luisc\Documents\ESCOM\8vo Semestre\Ingeniería de Software\IngenieriaDeSoftware\Practica\Práctica 1\bin\Debug\net9.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\luisc\Documents\ESCOM\8vo Semestre\Ingeniería de Software\IngenieriaDeSoftware\Practica\Práctica 1\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\luisc\Documents\ESCOM\8vo Semestre\Ingeniería de Software\IngenieriaDeSoftware\Practica\Práctica 1\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\luisc\Documents\ESCOM\8vo Semestre\Ingeniería de Software\IngenieriaDeSoftware\Practica\Práctica 1\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\luisc\Documents\ESCOM\8vo Semestre\Ingeniería de Software\IngenieriaDeSoftware\Practica\Práctica 1\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\luisc\Documents\ESCOM\8vo Semestre\Ingeniería de Software\IngenieriaDeSoftware\Practica\Práctica 1\obj\Debug\net9.0\Práctica 1.csproj.AssemblyReference.cache
+C:\Users\luisc\Documents\ESCOM\8vo Semestre\Ingeniería de Software\IngenieriaDeSoftware\Practica\Práctica 1\obj\Debug\net9.0\Práctica 1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\luisc\Documents\ESCOM\8vo Semestre\Ingeniería de Software\IngenieriaDeSoftware\Practica\Práctica 1\obj\Debug\net9.0\Práctica 1.AssemblyInfoInputs.cache
+C:\Users\luisc\Documents\ESCOM\8vo Semestre\Ingeniería de Software\IngenieriaDeSoftware\Practica\Práctica 1\obj\Debug\net9.0\Práctica 1.AssemblyInfo.cs
+C:\Users\luisc\Documents\ESCOM\8vo Semestre\Ingeniería de Software\IngenieriaDeSoftware\Practica\Práctica 1\obj\Debug\net9.0\Práctica 1.csproj.CoreCompileInputs.cache
+C:\Users\luisc\Documents\ESCOM\8vo Semestre\Ingeniería de Software\IngenieriaDeSoftware\Practica\Práctica 1\obj\Debug\net9.0\Práctica 1.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\luisc\Documents\ESCOM\8vo Semestre\Ingeniería de Software\IngenieriaDeSoftware\Practica\Práctica 1\obj\Debug\net9.0\Práctica 1.RazorAssemblyInfo.cache
+C:\Users\luisc\Documents\ESCOM\8vo Semestre\Ingeniería de Software\IngenieriaDeSoftware\Practica\Práctica 1\obj\Debug\net9.0\Práctica 1.RazorAssemblyInfo.cs
+C:\Users\luisc\Documents\ESCOM\8vo Semestre\Ingeniería de Software\IngenieriaDeSoftware\Practica\Práctica 1\obj\Debug\net9.0\Práctica 1.sourcelink.json
+C:\Users\luisc\Documents\ESCOM\8vo Semestre\Ingeniería de Software\IngenieriaDeSoftware\Practica\Práctica 1\obj\Debug\net9.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\luisc\Documents\ESCOM\8vo Semestre\Ingeniería de Software\IngenieriaDeSoftware\Practica\Práctica 1\obj\Debug\net9.0\scopedcss\bundle\Práctica 1.styles.css
+C:\Users\luisc\Documents\ESCOM\8vo Semestre\Ingeniería de Software\IngenieriaDeSoftware\Practica\Práctica 1\obj\Debug\net9.0\scopedcss\projectbundle\Práctica 1.bundle.scp.css
+C:\Users\luisc\Documents\ESCOM\8vo Semestre\Ingeniería de Software\IngenieriaDeSoftware\Practica\Práctica 1\obj\Debug\net9.0\compressed\8srbz84ovd-b9sayid5wm.gz
+C:\Users\luisc\Documents\ESCOM\8vo Semestre\Ingeniería de Software\IngenieriaDeSoftware\Practica\Práctica 1\obj\Debug\net9.0\compressed\c3mkdes4oh-61n19gt1b8.gz
+C:\Users\luisc\Documents\ESCOM\8vo Semestre\Ingeniería de Software\IngenieriaDeSoftware\Practica\Práctica 1\obj\Debug\net9.0\compressed\nphkxnowdz-bqjiyaj88i.gz
+C:\Users\luisc\Documents\ESCOM\8vo Semestre\Ingeniería de Software\IngenieriaDeSoftware\Practica\Práctica 1\obj\Debug\net9.0\compressed\k6ziqogp2d-c2jlpeoesf.gz
+C:\Users\luisc\Documents\ESCOM\8vo Semestre\Ingeniería de Software\IngenieriaDeSoftware\Practica\Práctica 1\obj\Debug\net9.0\compressed\5sifbcu968-erw9l3u2r3.gz
+C:\Users\luisc\Documents\ESCOM\8vo Semestre\Ingeniería de Software\IngenieriaDeSoftware\Practica\Práctica 1\obj\Debug\net9.0\compressed\tzrxg8v8x3-aexeepp0ev.gz
+C:\Users\luisc\Documents\ESCOM\8vo Semestre\Ingeniería de Software\IngenieriaDeSoftware\Practica\Práctica 1\obj\Debug\net9.0\compressed\4dwbfasc0k-d7shbmvgxk.gz
+C:\Users\luisc\Documents\ESCOM\8vo Semestre\Ingeniería de Software\IngenieriaDeSoftware\Practica\Práctica 1\obj\Debug\net9.0\compressed\8zq2vzm0l8-ausgxo2sd3.gz
+C:\Users\luisc\Documents\ESCOM\8vo Semestre\Ingeniería de Software\IngenieriaDeSoftware\Practica\Práctica 1\obj\Debug\net9.0\compressed\h5jpf1zfs8-k8d9w2qqmf.gz
+C:\Users\luisc\Documents\ESCOM\8vo Semestre\Ingeniería de Software\IngenieriaDeSoftware\Practica\Práctica 1\obj\Debug\net9.0\compressed\ig3fb1dp8x-cosvhxvwiu.gz
+C:\Users\luisc\Documents\ESCOM\8vo Semestre\Ingeniería de Software\IngenieriaDeSoftware\Practica\Práctica 1\obj\Debug\net9.0\compressed\5db0epeaph-ub07r2b239.gz
+C:\Users\luisc\Documents\ESCOM\8vo Semestre\Ingeniería de Software\IngenieriaDeSoftware\Practica\Práctica 1\obj\Debug\net9.0\compressed\7449zk6rq8-fvhpjtyr6v.gz
+C:\Users\luisc\Documents\ESCOM\8vo Semestre\Ingeniería de Software\IngenieriaDeSoftware\Practica\Práctica 1\obj\Debug\net9.0\compressed\ecgdg9kmuw-b7pk76d08c.gz
+C:\Users\luisc\Documents\ESCOM\8vo Semestre\Ingeniería de Software\IngenieriaDeSoftware\Practica\Práctica 1\obj\Debug\net9.0\compressed\w1rtkfkmad-fsbi9cje9m.gz
+C:\Users\luisc\Documents\ESCOM\8vo Semestre\Ingeniería de Software\IngenieriaDeSoftware\Practica\Práctica 1\obj\Debug\net9.0\compressed\351w8bf2pn-rzd6atqjts.gz
+C:\Users\luisc\Documents\ESCOM\8vo Semestre\Ingeniería de Software\IngenieriaDeSoftware\Practica\Práctica 1\obj\Debug\net9.0\compressed\h4ucvxe164-ee0r1s7dh0.gz
+C:\Users\luisc\Documents\ESCOM\8vo Semestre\Ingeniería de Software\IngenieriaDeSoftware\Practica\Práctica 1\obj\Debug\net9.0\compressed\b96w9mglar-dxx9fxp4il.gz
+C:\Users\luisc\Documents\ESCOM\8vo Semestre\Ingeniería de Software\IngenieriaDeSoftware\Practica\Práctica 1\obj\Debug\net9.0\compressed\9fluzpkg78-jd9uben2k1.gz
+C:\Users\luisc\Documents\ESCOM\8vo Semestre\Ingeniería de Software\IngenieriaDeSoftware\Practica\Práctica 1\obj\Debug\net9.0\compressed\5dnvczcz3h-khv3u5hwcm.gz
+C:\Users\luisc\Documents\ESCOM\8vo Semestre\Ingeniería de Software\IngenieriaDeSoftware\Practica\Práctica 1\obj\Debug\net9.0\compressed\y2pth5nl9d-r4e9w2rdcm.gz
+C:\Users\luisc\Documents\ESCOM\8vo Semestre\Ingeniería de Software\IngenieriaDeSoftware\Practica\Práctica 1\obj\Debug\net9.0\compressed\gg5t6fkp0p-lcd1t2u6c8.gz
+C:\Users\luisc\Documents\ESCOM\8vo Semestre\Ingeniería de Software\IngenieriaDeSoftware\Practica\Práctica 1\obj\Debug\net9.0\compressed\gpl0fhmv8g-c2oey78nd0.gz
+C:\Users\luisc\Documents\ESCOM\8vo Semestre\Ingeniería de Software\IngenieriaDeSoftware\Practica\Práctica 1\obj\Debug\net9.0\compressed\0dw2eqwcaf-tdbxkamptv.gz
+C:\Users\luisc\Documents\ESCOM\8vo Semestre\Ingeniería de Software\IngenieriaDeSoftware\Practica\Práctica 1\obj\Debug\net9.0\compressed\6yrbmucpkn-j5mq2jizvt.gz
+C:\Users\luisc\Documents\ESCOM\8vo Semestre\Ingeniería de Software\IngenieriaDeSoftware\Practica\Práctica 1\obj\Debug\net9.0\compressed\u5gluix10s-06098lyss8.gz
+C:\Users\luisc\Documents\ESCOM\8vo Semestre\Ingeniería de Software\IngenieriaDeSoftware\Practica\Práctica 1\obj\Debug\net9.0\compressed\5u3rljf4us-nvvlpmu67g.gz
+C:\Users\luisc\Documents\ESCOM\8vo Semestre\Ingeniería de Software\IngenieriaDeSoftware\Practica\Práctica 1\obj\Debug\net9.0\compressed\jxie1qz8y8-s35ty4nyc5.gz
+C:\Users\luisc\Documents\ESCOM\8vo Semestre\Ingeniería de Software\IngenieriaDeSoftware\Practica\Práctica 1\obj\Debug\net9.0\compressed\svqgep8zqj-pj5nd1wqec.gz
+C:\Users\luisc\Documents\ESCOM\8vo Semestre\Ingeniería de Software\IngenieriaDeSoftware\Practica\Práctica 1\obj\Debug\net9.0\compressed\7a8vfkc2km-46ein0sx1k.gz
+C:\Users\luisc\Documents\ESCOM\8vo Semestre\Ingeniería de Software\IngenieriaDeSoftware\Practica\Práctica 1\obj\Debug\net9.0\compressed\0jyions6wj-v0zj4ognzu.gz
+C:\Users\luisc\Documents\ESCOM\8vo Semestre\Ingeniería de Software\IngenieriaDeSoftware\Practica\Práctica 1\obj\Debug\net9.0\compressed\08w764v4kz-37tfw0ft22.gz
+C:\Users\luisc\Documents\ESCOM\8vo Semestre\Ingeniería de Software\IngenieriaDeSoftware\Practica\Práctica 1\obj\Debug\net9.0\compressed\vbnyeo77bz-hrwsygsryq.gz
+C:\Users\luisc\Documents\ESCOM\8vo Semestre\Ingeniería de Software\IngenieriaDeSoftware\Practica\Práctica 1\obj\Debug\net9.0\compressed\k8k6u0b5k8-pk9g2wxc8p.gz
+C:\Users\luisc\Documents\ESCOM\8vo Semestre\Ingeniería de Software\IngenieriaDeSoftware\Practica\Práctica 1\obj\Debug\net9.0\compressed\jfwwd5hqzm-ft3s53vfgj.gz
+C:\Users\luisc\Documents\ESCOM\8vo Semestre\Ingeniería de Software\IngenieriaDeSoftware\Practica\Práctica 1\obj\Debug\net9.0\compressed\bzspvc44uu-6cfz1n2cew.gz
+C:\Users\luisc\Documents\ESCOM\8vo Semestre\Ingeniería de Software\IngenieriaDeSoftware\Practica\Práctica 1\obj\Debug\net9.0\compressed\2zpu1fb0s5-6pdc2jztkx.gz
+C:\Users\luisc\Documents\ESCOM\8vo Semestre\Ingeniería de Software\IngenieriaDeSoftware\Practica\Práctica 1\obj\Debug\net9.0\compressed\qiu72cdt4t-493y06b0oq.gz
+C:\Users\luisc\Documents\ESCOM\8vo Semestre\Ingeniería de Software\IngenieriaDeSoftware\Practica\Práctica 1\obj\Debug\net9.0\compressed\jst8867ads-iovd86k7lj.gz
+C:\Users\luisc\Documents\ESCOM\8vo Semestre\Ingeniería de Software\IngenieriaDeSoftware\Practica\Práctica 1\obj\Debug\net9.0\compressed\9ix627gle1-vr1egmr9el.gz
+C:\Users\luisc\Documents\ESCOM\8vo Semestre\Ingeniería de Software\IngenieriaDeSoftware\Practica\Práctica 1\obj\Debug\net9.0\compressed\8lg5vopw1a-kbrnm935zg.gz
+C:\Users\luisc\Documents\ESCOM\8vo Semestre\Ingeniería de Software\IngenieriaDeSoftware\Practica\Práctica 1\obj\Debug\net9.0\compressed\lly0iehm2u-jj8uyg4cgr.gz
+C:\Users\luisc\Documents\ESCOM\8vo Semestre\Ingeniería de Software\IngenieriaDeSoftware\Practica\Práctica 1\obj\Debug\net9.0\compressed\61bvetzyrd-y7v9cxd14o.gz
+C:\Users\luisc\Documents\ESCOM\8vo Semestre\Ingeniería de Software\IngenieriaDeSoftware\Practica\Práctica 1\obj\Debug\net9.0\compressed\anta8eqage-notf2xhcfb.gz
+C:\Users\luisc\Documents\ESCOM\8vo Semestre\Ingeniería de Software\IngenieriaDeSoftware\Practica\Práctica 1\obj\Debug\net9.0\compressed\yeq0iquuk8-h1s4sie4z3.gz
+C:\Users\luisc\Documents\ESCOM\8vo Semestre\Ingeniería de Software\IngenieriaDeSoftware\Practica\Práctica 1\obj\Debug\net9.0\compressed\dnf7buguib-63fj8s7r0e.gz
+C:\Users\luisc\Documents\ESCOM\8vo Semestre\Ingeniería de Software\IngenieriaDeSoftware\Practica\Práctica 1\obj\Debug\net9.0\compressed\mjxjsdzknw-0j3bgjxly4.gz
+C:\Users\luisc\Documents\ESCOM\8vo Semestre\Ingeniería de Software\IngenieriaDeSoftware\Practica\Práctica 1\obj\Debug\net9.0\compressed\3awuwlqtqr-47otxtyo56.gz
+C:\Users\luisc\Documents\ESCOM\8vo Semestre\Ingeniería de Software\IngenieriaDeSoftware\Practica\Práctica 1\obj\Debug\net9.0\compressed\se0472vao2-4v8eqarkd7.gz
+C:\Users\luisc\Documents\ESCOM\8vo Semestre\Ingeniería de Software\IngenieriaDeSoftware\Practica\Práctica 1\obj\Debug\net9.0\compressed\jymcek84od-356vix0kms.gz
+C:\Users\luisc\Documents\ESCOM\8vo Semestre\Ingeniería de Software\IngenieriaDeSoftware\Practica\Práctica 1\obj\Debug\net9.0\compressed\20b395byln-83jwlth58m.gz
+C:\Users\luisc\Documents\ESCOM\8vo Semestre\Ingeniería de Software\IngenieriaDeSoftware\Practica\Práctica 1\obj\Debug\net9.0\compressed\jr2h2t9aw1-mrlpezrjn3.gz
+C:\Users\luisc\Documents\ESCOM\8vo Semestre\Ingeniería de Software\IngenieriaDeSoftware\Practica\Práctica 1\obj\Debug\net9.0\compressed\i5mricpz8c-lzl9nlhx6b.gz
+C:\Users\luisc\Documents\ESCOM\8vo Semestre\Ingeniería de Software\IngenieriaDeSoftware\Practica\Práctica 1\obj\Debug\net9.0\compressed\kk3xg0na0l-ag7o75518u.gz
+C:\Users\luisc\Documents\ESCOM\8vo Semestre\Ingeniería de Software\IngenieriaDeSoftware\Practica\Práctica 1\obj\Debug\net9.0\compressed\c1vgmj3kco-x0q3zqp4vz.gz
+C:\Users\luisc\Documents\ESCOM\8vo Semestre\Ingeniería de Software\IngenieriaDeSoftware\Practica\Práctica 1\obj\Debug\net9.0\compressed\6f7msneebz-0i3buxo5is.gz
+C:\Users\luisc\Documents\ESCOM\8vo Semestre\Ingeniería de Software\IngenieriaDeSoftware\Practica\Práctica 1\obj\Debug\net9.0\compressed\5vb0sb1m58-o1o13a6vjx.gz
+C:\Users\luisc\Documents\ESCOM\8vo Semestre\Ingeniería de Software\IngenieriaDeSoftware\Practica\Práctica 1\obj\Debug\net9.0\compressed\rbanjrajss-ttgo8qnofa.gz
+C:\Users\luisc\Documents\ESCOM\8vo Semestre\Ingeniería de Software\IngenieriaDeSoftware\Practica\Práctica 1\obj\Debug\net9.0\compressed\09qc4rp6hn-2z0ns9nrw6.gz
+C:\Users\luisc\Documents\ESCOM\8vo Semestre\Ingeniería de Software\IngenieriaDeSoftware\Practica\Práctica 1\obj\Debug\net9.0\compressed\0q3stfvo59-muycvpuwrr.gz
+C:\Users\luisc\Documents\ESCOM\8vo Semestre\Ingeniería de Software\IngenieriaDeSoftware\Practica\Práctica 1\obj\Debug\net9.0\compressed\30nyy2cbh4-87fc7y1x7t.gz
+C:\Users\luisc\Documents\ESCOM\8vo Semestre\Ingeniería de Software\IngenieriaDeSoftware\Practica\Práctica 1\obj\Debug\net9.0\compressed\l02mdn0zmf-mlv21k5csn.gz
+C:\Users\luisc\Documents\ESCOM\8vo Semestre\Ingeniería de Software\IngenieriaDeSoftware\Practica\Práctica 1\obj\Debug\net9.0\compressed\gr5bwku88v-qxobfz05yl.gz
+C:\Users\luisc\Documents\ESCOM\8vo Semestre\Ingeniería de Software\IngenieriaDeSoftware\Practica\Práctica 1\obj\Debug\net9.0\compressed\o5l36a7hed-qxobfz05yl.gz
+C:\Users\luisc\Documents\ESCOM\8vo Semestre\Ingeniería de Software\IngenieriaDeSoftware\Practica\Práctica 1\obj\Debug\net9.0\staticwebassets.build.json
+C:\Users\luisc\Documents\ESCOM\8vo Semestre\Ingeniería de Software\IngenieriaDeSoftware\Practica\Práctica 1\obj\Debug\net9.0\staticwebassets.development.json
+C:\Users\luisc\Documents\ESCOM\8vo Semestre\Ingeniería de Software\IngenieriaDeSoftware\Practica\Práctica 1\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+C:\Users\luisc\Documents\ESCOM\8vo Semestre\Ingeniería de Software\IngenieriaDeSoftware\Practica\Práctica 1\obj\Debug\net9.0\staticwebassets\msbuild.Práctica 1.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\luisc\Documents\ESCOM\8vo Semestre\Ingeniería de Software\IngenieriaDeSoftware\Practica\Práctica 1\obj\Debug\net9.0\staticwebassets\msbuild.Práctica 1.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\luisc\Documents\ESCOM\8vo Semestre\Ingeniería de Software\IngenieriaDeSoftware\Practica\Práctica 1\obj\Debug\net9.0\staticwebassets\msbuild.build.Práctica 1.props
+C:\Users\luisc\Documents\ESCOM\8vo Semestre\Ingeniería de Software\IngenieriaDeSoftware\Practica\Práctica 1\obj\Debug\net9.0\staticwebassets\msbuild.buildMultiTargeting.Práctica 1.props
+C:\Users\luisc\Documents\ESCOM\8vo Semestre\Ingeniería de Software\IngenieriaDeSoftware\Practica\Práctica 1\obj\Debug\net9.0\staticwebassets\msbuild.buildTransitive.Práctica 1.props
+C:\Users\luisc\Documents\ESCOM\8vo Semestre\Ingeniería de Software\IngenieriaDeSoftware\Practica\Práctica 1\obj\Debug\net9.0\staticwebassets.pack.json
+C:\Users\luisc\Documents\ESCOM\8vo Semestre\Ingeniería de Software\IngenieriaDeSoftware\Practica\Práctica 1\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt
+C:\Users\luisc\Documents\ESCOM\8vo Semestre\Ingeniería de Software\IngenieriaDeSoftware\Practica\Práctica 1\obj\Debug\net9.0\Práctica 1.csproj.Up2Date
+C:\Users\luisc\Documents\ESCOM\8vo Semestre\Ingeniería de Software\IngenieriaDeSoftware\Practica\Práctica 1\obj\Debug\net9.0\Práctica 1.dll
+C:\Users\luisc\Documents\ESCOM\8vo Semestre\Ingeniería de Software\IngenieriaDeSoftware\Practica\Práctica 1\obj\Debug\net9.0\refint\Práctica 1.dll
+C:\Users\luisc\Documents\ESCOM\8vo Semestre\Ingeniería de Software\IngenieriaDeSoftware\Practica\Práctica 1\obj\Debug\net9.0\Práctica 1.pdb
+C:\Users\luisc\Documents\ESCOM\8vo Semestre\Ingeniería de Software\IngenieriaDeSoftware\Practica\Práctica 1\obj\Debug\net9.0\Práctica 1.genruntimeconfig.cache
+C:\Users\luisc\Documents\ESCOM\8vo Semestre\Ingeniería de Software\IngenieriaDeSoftware\Practica\Práctica 1\obj\Debug\net9.0\ref\Práctica 1.dll
+C:\Users\luisc\Documents\ESCOM\8vo Semestre\Ingeniería de Software\IngenieriaDeSoftware\Practica\Práctica 1\bin\Debug\net9.0\Humanizer.dll
+C:\Users\luisc\Documents\ESCOM\8vo Semestre\Ingeniería de Software\IngenieriaDeSoftware\Practica\Práctica 1\bin\Debug\net9.0\Microsoft.Build.Locator.dll
+C:\Users\luisc\Documents\ESCOM\8vo Semestre\Ingeniería de Software\IngenieriaDeSoftware\Practica\Práctica 1\bin\Debug\net9.0\Microsoft.CodeAnalysis.dll
+C:\Users\luisc\Documents\ESCOM\8vo Semestre\Ingeniería de Software\IngenieriaDeSoftware\Practica\Práctica 1\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\luisc\Documents\ESCOM\8vo Semestre\Ingeniería de Software\IngenieriaDeSoftware\Practica\Práctica 1\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\luisc\Documents\ESCOM\8vo Semestre\Ingeniería de Software\IngenieriaDeSoftware\Practica\Práctica 1\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\luisc\Documents\ESCOM\8vo Semestre\Ingeniería de Software\IngenieriaDeSoftware\Practica\Práctica 1\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+C:\Users\luisc\Documents\ESCOM\8vo Semestre\Ingeniería de Software\IngenieriaDeSoftware\Practica\Práctica 1\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+C:\Users\luisc\Documents\ESCOM\8vo Semestre\Ingeniería de Software\IngenieriaDeSoftware\Practica\Práctica 1\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\luisc\Documents\ESCOM\8vo Semestre\Ingeniería de Software\IngenieriaDeSoftware\Practica\Práctica 1\bin\Debug\net9.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\luisc\Documents\ESCOM\8vo Semestre\Ingeniería de Software\IngenieriaDeSoftware\Practica\Práctica 1\bin\Debug\net9.0\Mono.TextTemplating.dll
+C:\Users\luisc\Documents\ESCOM\8vo Semestre\Ingeniería de Software\IngenieriaDeSoftware\Practica\Práctica 1\bin\Debug\net9.0\System.CodeDom.dll
+C:\Users\luisc\Documents\ESCOM\8vo Semestre\Ingeniería de Software\IngenieriaDeSoftware\Practica\Práctica 1\bin\Debug\net9.0\System.Composition.AttributedModel.dll
+C:\Users\luisc\Documents\ESCOM\8vo Semestre\Ingeniería de Software\IngenieriaDeSoftware\Practica\Práctica 1\bin\Debug\net9.0\System.Composition.Convention.dll
+C:\Users\luisc\Documents\ESCOM\8vo Semestre\Ingeniería de Software\IngenieriaDeSoftware\Practica\Práctica 1\bin\Debug\net9.0\System.Composition.Hosting.dll
+C:\Users\luisc\Documents\ESCOM\8vo Semestre\Ingeniería de Software\IngenieriaDeSoftware\Practica\Práctica 1\bin\Debug\net9.0\System.Composition.Runtime.dll
+C:\Users\luisc\Documents\ESCOM\8vo Semestre\Ingeniería de Software\IngenieriaDeSoftware\Practica\Práctica 1\bin\Debug\net9.0\System.Composition.TypedParts.dll
+C:\Users\luisc\Documents\ESCOM\8vo Semestre\Ingeniería de Software\IngenieriaDeSoftware\Practica\Práctica 1\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\luisc\Documents\ESCOM\8vo Semestre\Ingeniería de Software\IngenieriaDeSoftware\Practica\Práctica 1\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\luisc\Documents\ESCOM\8vo Semestre\Ingeniería de Software\IngenieriaDeSoftware\Practica\Práctica 1\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\luisc\Documents\ESCOM\8vo Semestre\Ingeniería de Software\IngenieriaDeSoftware\Practica\Práctica 1\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\luisc\Documents\ESCOM\8vo Semestre\Ingeniería de Software\IngenieriaDeSoftware\Practica\Práctica 1\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\luisc\Documents\ESCOM\8vo Semestre\Ingeniería de Software\IngenieriaDeSoftware\Practica\Práctica 1\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\luisc\Documents\ESCOM\8vo Semestre\Ingeniería de Software\IngenieriaDeSoftware\Practica\Práctica 1\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\luisc\Documents\ESCOM\8vo Semestre\Ingeniería de Software\IngenieriaDeSoftware\Practica\Práctica 1\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\luisc\Documents\ESCOM\8vo Semestre\Ingeniería de Software\IngenieriaDeSoftware\Practica\Práctica 1\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\luisc\Documents\ESCOM\8vo Semestre\Ingeniería de Software\IngenieriaDeSoftware\Practica\Práctica 1\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\luisc\Documents\ESCOM\8vo Semestre\Ingeniería de Software\IngenieriaDeSoftware\Practica\Práctica 1\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\luisc\Documents\ESCOM\8vo Semestre\Ingeniería de Software\IngenieriaDeSoftware\Practica\Práctica 1\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\luisc\Documents\ESCOM\8vo Semestre\Ingeniería de Software\IngenieriaDeSoftware\Practica\Práctica 1\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\luisc\Documents\ESCOM\8vo Semestre\Ingeniería de Software\IngenieriaDeSoftware\Practica\Práctica 1\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\luisc\Documents\ESCOM\8vo Semestre\Ingeniería de Software\IngenieriaDeSoftware\Practica\Práctica 1\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\luisc\Documents\ESCOM\8vo Semestre\Ingeniería de Software\IngenieriaDeSoftware\Practica\Práctica 1\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\luisc\Documents\ESCOM\8vo Semestre\Ingeniería de Software\IngenieriaDeSoftware\Practica\Práctica 1\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\luisc\Documents\ESCOM\8vo Semestre\Ingeniería de Software\IngenieriaDeSoftware\Practica\Práctica 1\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\luisc\Documents\ESCOM\8vo Semestre\Ingeniería de Software\IngenieriaDeSoftware\Practica\Práctica 1\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\luisc\Documents\ESCOM\8vo Semestre\Ingeniería de Software\IngenieriaDeSoftware\Practica\Práctica 1\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\luisc\Documents\ESCOM\8vo Semestre\Ingeniería de Software\IngenieriaDeSoftware\Practica\Práctica 1\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\luisc\Documents\ESCOM\8vo Semestre\Ingeniería de Software\IngenieriaDeSoftware\Practica\Práctica 1\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\luisc\Documents\ESCOM\8vo Semestre\Ingeniería de Software\IngenieriaDeSoftware\Practica\Práctica 1\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\luisc\Documents\ESCOM\8vo Semestre\Ingeniería de Software\IngenieriaDeSoftware\Practica\Práctica 1\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\luisc\Documents\ESCOM\8vo Semestre\Ingeniería de Software\IngenieriaDeSoftware\Practica\Práctica 1\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\luisc\Documents\ESCOM\8vo Semestre\Ingeniería de Software\IngenieriaDeSoftware\Practica\Práctica 1\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\luisc\Documents\ESCOM\8vo Semestre\Ingeniería de Software\IngenieriaDeSoftware\Practica\Práctica 1\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\luisc\Documents\ESCOM\8vo Semestre\Ingeniería de Software\IngenieriaDeSoftware\Practica\Práctica 1\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\luisc\Documents\ESCOM\8vo Semestre\Ingeniería de Software\IngenieriaDeSoftware\Practica\Práctica 1\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\luisc\Documents\ESCOM\8vo Semestre\Ingeniería de Software\IngenieriaDeSoftware\Practica\Práctica 1\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\luisc\Documents\ESCOM\8vo Semestre\Ingeniería de Software\IngenieriaDeSoftware\Practica\Práctica 1\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\luisc\Documents\ESCOM\8vo Semestre\Ingeniería de Software\IngenieriaDeSoftware\Practica\Práctica 1\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\luisc\Documents\ESCOM\8vo Semestre\Ingeniería de Software\IngenieriaDeSoftware\Practica\Práctica 1\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\luisc\Documents\ESCOM\8vo Semestre\Ingeniería de Software\IngenieriaDeSoftware\Practica\Práctica 1\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\luisc\Documents\ESCOM\8vo Semestre\Ingeniería de Software\IngenieriaDeSoftware\Practica\Práctica 1\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\luisc\Documents\ESCOM\8vo Semestre\Ingeniería de Software\IngenieriaDeSoftware\Practica\Práctica 1\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\luisc\Documents\ESCOM\8vo Semestre\Ingeniería de Software\IngenieriaDeSoftware\Practica\Práctica 1\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\luisc\Documents\ESCOM\8vo Semestre\Ingeniería de Software\IngenieriaDeSoftware\Practica\Práctica 1\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\luisc\Documents\ESCOM\8vo Semestre\Ingeniería de Software\IngenieriaDeSoftware\Practica\Práctica 1\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\luisc\Documents\ESCOM\8vo Semestre\Ingeniería de Software\IngenieriaDeSoftware\Practica\Práctica 1\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\luisc\Documents\ESCOM\8vo Semestre\Ingeniería de Software\IngenieriaDeSoftware\Practica\Práctica 1\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\luisc\Documents\ESCOM\8vo Semestre\Ingeniería de Software\IngenieriaDeSoftware\Practica\Práctica 1\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\luisc\Documents\ESCOM\8vo Semestre\Ingeniería de Software\IngenieriaDeSoftware\Practica\Práctica 1\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\luisc\Documents\ESCOM\8vo Semestre\Ingeniería de Software\IngenieriaDeSoftware\Practica\Práctica 1\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\luisc\Documents\ESCOM\8vo Semestre\Ingeniería de Software\IngenieriaDeSoftware\Practica\Práctica 1\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\luisc\Documents\ESCOM\8vo Semestre\Ingeniería de Software\IngenieriaDeSoftware\Practica\Práctica 1\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\luisc\Documents\ESCOM\8vo Semestre\Ingeniería de Software\IngenieriaDeSoftware\Practica\Práctica 1\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\luisc\Documents\ESCOM\8vo Semestre\Ingeniería de Software\IngenieriaDeSoftware\Practica\Práctica 1\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\luisc\Documents\ESCOM\8vo Semestre\Ingeniería de Software\IngenieriaDeSoftware\Practica\Práctica 1\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\luisc\Documents\ESCOM\8vo Semestre\Ingeniería de Software\IngenieriaDeSoftware\Practica\Práctica 1\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\luisc\Documents\ESCOM\8vo Semestre\Ingeniería de Software\IngenieriaDeSoftware\Practica\Práctica 1\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\luisc\Documents\ESCOM\8vo Semestre\Ingeniería de Software\IngenieriaDeSoftware\Practica\Práctica 1\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\luisc\Documents\ESCOM\8vo Semestre\Ingeniería de Software\IngenieriaDeSoftware\Practica\Práctica 1\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\luisc\Documents\ESCOM\8vo Semestre\Ingeniería de Software\IngenieriaDeSoftware\Practica\Práctica 1\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\luisc\Documents\ESCOM\8vo Semestre\Ingeniería de Software\IngenieriaDeSoftware\Practica\Práctica 1\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\luisc\Documents\ESCOM\8vo Semestre\Ingeniería de Software\IngenieriaDeSoftware\Practica\Práctica 1\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\luisc\Documents\ESCOM\8vo Semestre\Ingeniería de Software\IngenieriaDeSoftware\Practica\Práctica 1\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\luisc\Documents\ESCOM\8vo Semestre\Ingeniería de Software\IngenieriaDeSoftware\Practica\Práctica 1\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\luisc\Documents\ESCOM\8vo Semestre\Ingeniería de Software\IngenieriaDeSoftware\Practica\Práctica 1\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\luisc\Documents\ESCOM\8vo Semestre\Ingeniería de Software\IngenieriaDeSoftware\Practica\Práctica 1\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\luisc\Documents\ESCOM\8vo Semestre\Ingeniería de Software\IngenieriaDeSoftware\Practica\Práctica 1\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\luisc\Documents\ESCOM\8vo Semestre\Ingeniería de Software\IngenieriaDeSoftware\Practica\Práctica 1\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\luisc\Documents\ESCOM\8vo Semestre\Ingeniería de Software\IngenieriaDeSoftware\Practica\Práctica 1\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\luisc\Documents\ESCOM\8vo Semestre\Ingeniería de Software\IngenieriaDeSoftware\Practica\Práctica 1\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\luisc\Documents\ESCOM\8vo Semestre\Ingeniería de Software\IngenieriaDeSoftware\Practica\Práctica 1\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\luisc\Documents\ESCOM\8vo Semestre\Ingeniería de Software\IngenieriaDeSoftware\Practica\Práctica 1\obj\Debug\net9.0\compressed\9jsvq18j1o-0w7506pt23.gz
+C:\Users\luisc\Documents\ESCOM\8vo Semestre\Ingeniería de Software\IngenieriaDeSoftware\Practica\Práctica 1\obj\Debug\net9.0\compressed\7086wf8yml-n0pjjo0z27.gz

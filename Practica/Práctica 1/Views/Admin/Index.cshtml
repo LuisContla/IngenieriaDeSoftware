@@ -10,18 +10,26 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>@ViewData["Title"]</title>
     <link rel="stylesheet" href="~/css/styles.css" asp-append-version="true" />
+    <script src="~/js/theme-toggle.js"></script>
 </head>
 <body>
     <form method="post" action="@Url.Action("Logout", "Auth")">
         <button class="logout-button" type="submit">🔒 Cerrar Sesión</button>
     </form>
 
+    <button id="modoToggle" class="mode-button">
+        <span id="modoIcono">🌙</span>
+    </button>
+
     <div class="container">
         <h1>📚 Biblioteca Virtual</h1>
         <h2 id="welcome-message-admin">👋 ¡Bienvenido, Administrador @ViewBag.UserName!</h2>
         <div class="option" onclick="window.location.href='/Admin/Users'">👤 Gestionar Usuarios</div>
         <div class="option" onclick="window.location.href='/Admin/Books'">📖 Gestionar Libros</div>
+        <div class="option" onclick="window.location.href='/Admin/Perfil'">👤 Mi Perfil</div>
     </div>
+
+    <script src="~/js/site.js"></script>
 
 </body>
 </html>

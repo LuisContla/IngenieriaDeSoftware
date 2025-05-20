@@ -1,0 +1,49 @@
+﻿@model Práctica_1.Models.Usuario
+
+@{
+    ViewBag.Title = "Editar Perfil";
+    Layout = null;
+}
+
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>@ViewData["Title"]</title>
+    <link rel="stylesheet" href="~/css/styles.css" asp-append-version="true" />
+    <script src="~/js/theme-toggle.js"></script>
+</head>
+<body>
+    @* <button class="back-button" onclick="history.back()">⬅️ Volver</button> *@
+    <button id="modoToggle" class="mode-button mode-nonIndex">
+        <span id="modoIcono">🌙</span>
+    </button>
+    <div class="container">
+        <h2>Editar mi perfil</h2>
+
+        <form asp-action="EditarPerfil" method="post">
+            <input type="hidden" asp-for="Id" />
+
+            <div class="mb-3">
+                <label class="form-label">Nombre</label>
+                <input asp-for="Nombre" class="form-control" />
+            </div>
+
+            <div class="mb-3">
+                <label class="form-label">Correo</label>
+                <input asp-for="Correo" class="form-control" type="email" />
+            </div>
+
+            <div class="mb-3">
+                <label class="form-label">Contraseña</label>
+                <input asp-for="Contraseña" class="form-control" type="password" />
+                <small class="form-text text-muted">Déjalo vacío para no cambiarla</small>
+            </div>
+
+            <button type="submit" class="btn btn-success">Guardar cambios</button>
+            <a asp-action="Perfil" class="btn btn-secondary">Cancelar</a>
+        </form>
+    </div>
+</body>
+</html>

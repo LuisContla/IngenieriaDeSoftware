@@ -1,0 +1,63 @@
+﻿@model Práctica_1.Models.Libro
+
+@{
+    ViewBag.Title = "Detalles del Libro";
+    Layout = null;
+    bool enFavoritos = ViewBag.EnFavoritos ?? false;
+    string usuarioId = ViewBag.UsuarioId;
+}
+
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>@ViewData["Title"]</title>
+    <link rel="stylesheet" href="~/css/styles.css" asp-append-version="true" />
+    <script src="~/js/theme-toggle.js"></script>
+</head>
+<body>
+    @* <button class="back-button" onclick="history.back()">⬅️ Volver</button> *@
+    <button id="modoToggle" class="mode-button mode-nonIndex">
+        <span id="modoIcono">🌙</span>
+    </button>
+    <div class="container">
+        <h2>@Model.Titulo</h2>
+
+        <div class="card shadow-sm p-4">
+            @if (!string.IsNullOrEmpty(Model.ImagenUrl))
+            {
+                <img src="@Model.ImagenUrl" alt="@Model.Titulo" class="mb-3" style="max-width:200px;" />
+            }
+
+            <p><strong>Autor:</strong> @Model.Autor</p>
+            <p><strong>Descripción:</strong></p>
+            <p>@Model.Descripcion</p>
+
+            @if (!string.IsNullOrEmpty(usuarioId))
+            {
+                @if (enFavoritos)
+                {
+                    <form asp-controller="Favoritos" asp-action="EliminarPorLibro" method="post">
+                        <input type="hidden" name="libroId" value="@Model.Id" />
+                        <input type="hidden" name="returnUrl" value="@Url.Action("Detalles", "Libros", new { id = Model.Id })" />
+                        <button type="submit" class="btn btn-quitarFavorito">💔 Quitar de favoritos</button>
+                    </form>
+
+                }
+                else
+                {
+                    <form asp-controller="Favoritos" asp-action="Agregar" method="post">
+                        <input type="hidden" name="libroId" value="@Model.Id" />
+                        <input type="hidden" name="returnUrl" value="@Url.Action("Detalles", "Libros", new { id = Model.Id })" />
+                        <button type="submit" class="btn btn-favorito">💖 Agregar a favoritos</button>
+                    </form>
+
+                }
+            }
+
+            <a asp-controller="Home" asp-action="Books" class="btn btn-secondary">Volver</a>
+        </div>
+    </div>
+</body>
+</html>
