@@ -3,32 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\luisc\\Documents\\ESCOM\\8vo Semestre\\Ingenier\u00EDa de Software\\IngenieriaDeSoftware\\Practica\\Pr\u00E1ctica 1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A0E5E479-42F5-436C-876D-4FC3611E8EBB}|Pr\u00E1ctica 1.csproj|c:\\users\\luisc\\documents\\escom\\8vo semestre\\ingenier\u00EDa de software\\ingenieriadesoftware\\practica\\pr\u00E1ctica 1\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{A0E5E479-42F5-436C-876D-4FC3611E8EBB}|Pr\u00E1ctica 1.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{A0E5E479-42F5-436C-876D-4FC3611E8EBB}|Pr\u00E1ctica 1.csproj|c:\\users\\luisc\\documents\\escom\\8vo semestre\\ingenier\u00EDa de software\\ingenieriadesoftware\\practica\\pr\u00E1ctica 1\\views\\libros\\detalles.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A0E5E479-42F5-436C-876D-4FC3611E8EBB}|Pr\u00E1ctica 1.csproj|solutionrelative:views\\libros\\detalles.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A0E5E479-42F5-436C-876D-4FC3611E8EBB}|Pr\u00E1ctica 1.csproj|c:\\users\\luisc\\documents\\escom\\8vo semestre\\ingenier\u00EDa de software\\ingenieriadesoftware\\practica\\pr\u00E1ctica 1\\views\\admin\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{A0E5E479-42F5-436C-876D-4FC3611E8EBB}|Pr\u00E1ctica 1.csproj|solutionrelative:views\\admin\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A0E5E479-42F5-436C-876D-4FC3611E8EBB}|Pr\u00E1ctica 1.csproj|c:\\users\\luisc\\documents\\escom\\8vo semestre\\ingenier\u00EDa de software\\ingenieriadesoftware\\practica\\pr\u00E1ctica 1\\views\\admin\\accessdenied.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{A0E5E479-42F5-436C-876D-4FC3611E8EBB}|Pr\u00E1ctica 1.csproj|solutionrelative:views\\admin\\accessdenied.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A0E5E479-42F5-436C-876D-4FC3611E8EBB}|Pr\u00E1ctica 1.csproj|c:\\users\\luisc\\documents\\escom\\8vo semestre\\ingenier\u00EDa de software\\ingenieriadesoftware\\practica\\pr\u00E1ctica 1\\views\\libros\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{A0E5E479-42F5-436C-876D-4FC3611E8EBB}|Pr\u00E1ctica 1.csproj|solutionrelative:views\\libros\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{A0E5E479-42F5-436C-876D-4FC3611E8EBB}|Pr\u00E1ctica 1.csproj|c:\\users\\luisc\\documents\\escom\\8vo semestre\\ingenier\u00EDa de software\\ingenieriadesoftware\\practica\\pr\u00E1ctica 1\\views\\admin\\perfil.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A0E5E479-42F5-436C-876D-4FC3611E8EBB}|Pr\u00E1ctica 1.csproj|solutionrelative:views\\admin\\perfil.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A0E5E479-42F5-436C-876D-4FC3611E8EBB}|Pr\u00E1ctica 1.csproj|c:\\users\\luisc\\documents\\escom\\8vo semestre\\ingenier\u00EDa de software\\ingenieriadesoftware\\practica\\pr\u00E1ctica 1\\wwwroot\\css\\styles.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
       "RelativeMoniker": "D:0:0:{A0E5E479-42F5-436C-876D-4FC3611E8EBB}|Pr\u00E1ctica 1.csproj|solutionrelative:wwwroot\\css\\styles.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A0E5E479-42F5-436C-876D-4FC3611E8EBB}|Pr\u00E1ctica 1.csproj|c:\\users\\luisc\\documents\\escom\\8vo semestre\\ingenier\u00EDa de software\\ingenieriadesoftware\\practica\\pr\u00E1ctica 1\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A0E5E479-42F5-436C-876D-4FC3611E8EBB}|Pr\u00E1ctica 1.csproj|solutionrelative:controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A0E5E479-42F5-436C-876D-4FC3611E8EBB}|Pr\u00E1ctica 1.csproj|c:\\users\\luisc\\documents\\escom\\8vo semestre\\ingenier\u00EDa de software\\ingenieriadesoftware\\practica\\pr\u00E1ctica 1\\wwwroot\\js\\theme-toggle.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
-      "RelativeMoniker": "D:0:0:{A0E5E479-42F5-436C-876D-4FC3611E8EBB}|Pr\u00E1ctica 1.csproj|solutionrelative:wwwroot\\js\\theme-toggle.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
     }
   ],
   "DocumentGroupContainers": [
@@ -51,92 +35,40 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\luisc\\Documents\\ESCOM\\8vo Semestre\\Ingenier\u00EDa de Software\\IngenieriaDeSoftware\\Practica\\Pr\u00E1ctica 1\\Views\\Home\\Index.cshtml",
-              "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
-              "ToolTip": "C:\\Users\\luisc\\Documents\\ESCOM\\8vo Semestre\\Ingenier\u00EDa de Software\\IngenieriaDeSoftware\\Practica\\Pr\u00E1ctica 1\\Views\\Home\\Index.cshtml",
-              "RelativeToolTip": "Views\\Home\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAABAAAAAAAAAAA==",
+              "Title": "Detalles.cshtml",
+              "DocumentMoniker": "C:\\Users\\luisc\\Documents\\ESCOM\\8vo Semestre\\Ingenier\u00EDa de Software\\IngenieriaDeSoftware\\Practica\\Pr\u00E1ctica 1\\Views\\Libros\\Detalles.cshtml",
+              "RelativeDocumentMoniker": "Views\\Libros\\Detalles.cshtml",
+              "ToolTip": "C:\\Users\\luisc\\Documents\\ESCOM\\8vo Semestre\\Ingenier\u00EDa de Software\\IngenieriaDeSoftware\\Practica\\Pr\u00E1ctica 1\\Views\\Libros\\Detalles.cshtml",
+              "RelativeToolTip": "Views\\Libros\\Detalles.cshtml",
+              "ViewState": "AgIAACEAAAAAAAAAAAAAACsAAABaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-20T23:15:33.178Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\luisc\\Documents\\ESCOM\\8vo Semestre\\Ingenier\u00EDa de Software\\IngenieriaDeSoftware\\Practica\\Pr\u00E1ctica 1\\Views\\Admin\\Index.cshtml",
-              "RelativeDocumentMoniker": "Views\\Admin\\Index.cshtml",
-              "ToolTip": "C:\\Users\\luisc\\Documents\\ESCOM\\8vo Semestre\\Ingenier\u00EDa de Software\\IngenieriaDeSoftware\\Practica\\Pr\u00E1ctica 1\\Views\\Admin\\Index.cshtml",
-              "RelativeToolTip": "Views\\Admin\\Index.cshtml",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAABwAAAAIAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-20T23:15:18.843Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Delete.cshtml",
-              "DocumentMoniker": "C:\\Users\\luisc\\Documents\\ESCOM\\8vo Semestre\\Ingenier\u00EDa de Software\\IngenieriaDeSoftware\\Practica\\Pr\u00E1ctica 1\\Views\\Libros\\Delete.cshtml",
-              "RelativeDocumentMoniker": "Views\\Libros\\Delete.cshtml",
-              "ToolTip": "C:\\Users\\luisc\\Documents\\ESCOM\\8vo Semestre\\Ingenier\u00EDa de Software\\IngenieriaDeSoftware\\Practica\\Pr\u00E1ctica 1\\Views\\Libros\\Delete.cshtml",
-              "RelativeToolTip": "Views\\Libros\\Delete.cshtml",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAABQAAAAbAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-20T23:10:18.861Z",
+              "WhenOpened": "2025-05-21T00:07:02.959Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "AccessDenied.cshtml",
-              "DocumentMoniker": "C:\\Users\\luisc\\Documents\\ESCOM\\8vo Semestre\\Ingenier\u00EDa de Software\\IngenieriaDeSoftware\\Practica\\Pr\u00E1ctica 1\\Views\\Admin\\AccessDenied.cshtml",
-              "RelativeDocumentMoniker": "Views\\Admin\\AccessDenied.cshtml",
-              "ToolTip": "C:\\Users\\luisc\\Documents\\ESCOM\\8vo Semestre\\Ingenier\u00EDa de Software\\IngenieriaDeSoftware\\Practica\\Pr\u00E1ctica 1\\Views\\Admin\\AccessDenied.cshtml",
-              "RelativeToolTip": "Views\\Admin\\AccessDenied.cshtml",
-              "ViewState": "AgIAAAcAAAAAAAAAAAAowBQAAAAuAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-20T23:09:44.492Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "AdminController.cs",
-              "DocumentMoniker": "C:\\Users\\luisc\\Documents\\ESCOM\\8vo Semestre\\Ingenier\u00EDa de Software\\IngenieriaDeSoftware\\Practica\\Pr\u00E1ctica 1\\Controllers\\AdminController.cs",
-              "RelativeDocumentMoniker": "Controllers\\AdminController.cs",
-              "ToolTip": "C:\\Users\\luisc\\Documents\\ESCOM\\8vo Semestre\\Ingenier\u00EDa de Software\\IngenieriaDeSoftware\\Practica\\Pr\u00E1ctica 1\\Controllers\\AdminController.cs",
-              "RelativeToolTip": "Controllers\\AdminController.cs",
-              "ViewState": "AgIAAB4BAAAAAAAAAAA2wBEBAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-20T23:07:37.124Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
               "Title": "styles.css",
               "DocumentMoniker": "C:\\Users\\luisc\\Documents\\ESCOM\\8vo Semestre\\Ingenier\u00EDa de Software\\IngenieriaDeSoftware\\Practica\\Pr\u00E1ctica 1\\wwwroot\\css\\styles.css",
               "RelativeDocumentMoniker": "wwwroot\\css\\styles.css",
               "ToolTip": "C:\\Users\\luisc\\Documents\\ESCOM\\8vo Semestre\\Ingenier\u00EDa de Software\\IngenieriaDeSoftware\\Practica\\Pr\u00E1ctica 1\\wwwroot\\css\\styles.css",
               "RelativeToolTip": "wwwroot\\css\\styles.css",
-              "ViewState": "AgIAABUAAAAAAAAAAAAAABoAAAAWAAAAAAAAAA==",
+              "ViewState": "AgIAALYBAAAAAAAAAAAAAMcBAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2025-05-20T22:58:58.062Z",
+              "WhenOpened": "2025-05-20T23:40:30.045Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "theme-toggle.js",
-              "DocumentMoniker": "C:\\Users\\luisc\\Documents\\ESCOM\\8vo Semestre\\Ingenier\u00EDa de Software\\IngenieriaDeSoftware\\Practica\\Pr\u00E1ctica 1\\wwwroot\\js\\theme-toggle.js",
-              "RelativeDocumentMoniker": "wwwroot\\js\\theme-toggle.js",
-              "ToolTip": "C:\\Users\\luisc\\Documents\\ESCOM\\8vo Semestre\\Ingenier\u00EDa de Software\\IngenieriaDeSoftware\\Practica\\Pr\u00E1ctica 1\\wwwroot\\js\\theme-toggle.js",
-              "RelativeToolTip": "wwwroot\\js\\theme-toggle.js",
-              "ViewState": "AgIAAA0AAAAAAAAAAAAQwAgAAAAqAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
-              "WhenOpened": "2025-05-20T22:57:04.2Z",
+              "DocumentIndex": 1,
+              "Title": "Perfil.cshtml",
+              "DocumentMoniker": "C:\\Users\\luisc\\Documents\\ESCOM\\8vo Semestre\\Ingenier\u00EDa de Software\\IngenieriaDeSoftware\\Practica\\Pr\u00E1ctica 1\\Views\\Admin\\Perfil.cshtml",
+              "RelativeDocumentMoniker": "Views\\Admin\\Perfil.cshtml",
+              "ToolTip": "C:\\Users\\luisc\\Documents\\ESCOM\\8vo Semestre\\Ingenier\u00EDa de Software\\IngenieriaDeSoftware\\Practica\\Pr\u00E1ctica 1\\Views\\Admin\\Perfil.cshtml",
+              "RelativeToolTip": "Views\\Admin\\Perfil.cshtml",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABkAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-20T23:34:08.148Z",
               "EditorCaption": ""
             }
           ]

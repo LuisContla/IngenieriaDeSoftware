@@ -5,6 +5,8 @@
     Layout = null;
     bool enFavoritos = ViewBag.EnFavoritos ?? false;
     string usuarioId = ViewBag.UsuarioId;
+    var rol = Context.Session.GetString("UsuarioRol");
+    var volverA = rol == "1" ? "Admin" : "Home";
 }
 
 <!DOCTYPE html>
@@ -21,42 +23,49 @@
     <button id="modoToggle" class="mode-button mode-nonIndex">
         <span id="modoIcono">🌙</span>
     </button>
-    <div class="container">
+    <div class="container contenedor-libros">
         <h2>@Model.Titulo</h2>
 
         <div class="card shadow-sm p-4">
-            @if (!string.IsNullOrEmpty(Model.ImagenUrl))
-            {
-                <img src="@Model.ImagenUrl" alt="@Model.Titulo" class="mb-3" style="max-width:200px;" />
-            }
 
-            <p><strong>Autor:</strong> @Model.Autor</p>
-            <p><strong>Descripción:</strong></p>
-            <p>@Model.Descripcion</p>
-
-            @if (!string.IsNullOrEmpty(usuarioId))
-            {
-                @if (enFavoritos)
+            <div class="detalles-libro">
+                @if (!string.IsNullOrEmpty(Model.ImagenUrl))
                 {
-                    <form asp-controller="Favoritos" asp-action="EliminarPorLibro" method="post">
-                        <input type="hidden" name="libroId" value="@Model.Id" />
-                        <input type="hidden" name="returnUrl" value="@Url.Action("Detalles", "Libros", new { id = Model.Id })" />
-                        <button type="submit" class="btn btn-quitarFavorito">💔 Quitar de favoritos</button>
-                    </form>
-
+                    <img src="@Model.ImagenUrl" alt="@Model.Titulo" class="mb-3" style="max-width:200px;" />
                 }
-                else
+                <div>
+                    <p><strong>Autor:</strong> @Model.Autor</p>
+                    <p><strong>Descripción:</strong></p>
+                    <p>@Model.Descripcion</p>
+                </div>
+            </div>
+            <br/>
+            <div class="botones-libros">
+                <button class="btn btn-secondary" onclick="history.back()">Volver</button>
+                @if (!string.IsNullOrEmpty(usuarioId))
                 {
-                    <form asp-controller="Favoritos" asp-action="Agregar" method="post">
-                        <input type="hidden" name="libroId" value="@Model.Id" />
-                        <input type="hidden" name="returnUrl" value="@Url.Action("Detalles", "Libros", new { id = Model.Id })" />
-                        <button type="submit" class="btn btn-favorito">💖 Agregar a favoritos</button>
-                    </form>
+                    @if (enFavoritos)
+                    {
+                        <form asp-controller="Favoritos" asp-action="EliminarPorLibro" method="post">
+                            <input type="hidden" name="libroId" value="@Model.Id" />
+                            <input type="hidden" name="returnUrl" value="@Url.Action("Detalles", "Libros", new { id = Model.Id })" />
+                            <button type="submit" class="btn btn-quitarFavorito">💔 Quitar de favoritos</button>
+                        </form>
 
+                    }
+                    else
+                    {
+                        <form asp-controller="Favoritos" asp-action="Agregar" method="post">
+                            <input type="hidden" name="libroId" value="@Model.Id" />
+                            <input type="hidden" name="returnUrl" value="@Url.Action("Detalles", "Libros", new { id = Model.Id })" />
+                            <button type="submit" class="btn btn-favorito">💖 Agregar a favoritos</button>
+                        </form>
+
+                    }
                 }
-            }
+            </div>
 
-            <a asp-controller="Home" asp-action="Books" class="btn btn-secondary">Volver</a>
+            
         </div>
     </div>
 </body>

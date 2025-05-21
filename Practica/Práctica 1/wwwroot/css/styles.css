@@ -29,7 +29,7 @@
 
 /* Tema Oscuro */
 [data-theme="dark"] {
-    --principal: #2A7468;
+    --principal: #1A453D;
     --principalContraste: #236156;
     --secundario: #45699026;
     --logOutButton: #AC413D;
@@ -446,4 +446,26 @@ th, td {
 /* Ocultar menú */
 .hidden {
     display: none;
+}
+
+.perfil-datos{
+    display: flex;
+    align-self: center;
+    justify-content: center;
+}
+
+.contenedor-libros{
+    width: 50%;
+}
+
+.detalles-libro{
+    display: flex;
+    gap: 3rem;
+    text-align: left;
+}
+
+.botones-libros{
+    display: flex;
+    text-align: center;
+    align-self: center;
 }
