@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "9vwPd10e6C5CDoUsr7+2+szbRJqRdoGEqIgB1mZwYJU=",
+  "Hash": "8/nN/uwUcdO/Q58/jfH8bNEj0a1l1W4JWOqBwmQvBZo=",
   "Source": "Práctica 1",
   "BasePath": "_content/Práctica 1",
   "Mode": "Default",
@@ -416,12 +416,12 @@
       "OriginalItemSpec": "C:\\Users\\luisc\\Documents\\ESCOM\\8vo Semestre\\Ingeniería de Software\\IngenieriaDeSoftware\\Practica\\Práctica 1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
     },
     {
-      "Identity": "C:\\Users\\luisc\\Documents\\ESCOM\\8vo Semestre\\Ingeniería de Software\\IngenieriaDeSoftware\\Practica\\Práctica 1\\obj\\Debug\\net9.0\\compressed\\7086wf8yml-qwk8mhjv3u.gz",
+      "Identity": "C:\\Users\\luisc\\Documents\\ESCOM\\8vo Semestre\\Ingeniería de Software\\IngenieriaDeSoftware\\Practica\\Práctica 1\\obj\\Debug\\net9.0\\compressed\\7086wf8yml-6wn1ltkkgn.gz",
       "SourceId": "Práctica 1",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\luisc\\Documents\\ESCOM\\8vo Semestre\\Ingeniería de Software\\IngenieriaDeSoftware\\Practica\\Práctica 1\\obj\\Debug\\net9.0\\compressed\\",
       "BasePath": "_content/Práctica 1",
-      "RelativePath": "css/styles#[.{fingerprint=qwk8mhjv3u}]?.css.gz",
+      "RelativePath": "css/styles#[.{fingerprint=6wn1ltkkgn}]?.css.gz",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Alternative",
@@ -430,8 +430,8 @@
       "RelatedAsset": "C:\\Users\\luisc\\Documents\\ESCOM\\8vo Semestre\\Ingeniería de Software\\IngenieriaDeSoftware\\Practica\\Práctica 1\\wwwroot\\css\\styles.css",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "v7jicrpvq4",
-      "Integrity": "NaYD3yv6icfV/Kbuv16ZV3G+/bqtngndHlnVCSIh6OM=",
+      "Fingerprint": "up49sdvqa6",
+      "Integrity": "IuDFAaFbSpsRnuWTLUCm5KmmCpHrGZu/0TnGvc9loGM=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "C:\\Users\\luisc\\Documents\\ESCOM\\8vo Semestre\\Ingeniería de Software\\IngenieriaDeSoftware\\Practica\\Práctica 1\\wwwroot\\css\\styles.css"
@@ -1459,8 +1459,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "qwk8mhjv3u",
-      "Integrity": "2sUBjROL2LI2Lf4o0xoHd+C6Ja0G6GsBhCBoO8TU/7I=",
+      "Fingerprint": "6wn1ltkkgn",
+      "Integrity": "NjgGnEeWMRIfezWWl1LSjavRtK9ylzJ5CjVvQ4Uo8ck=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\css\\styles.css"
@@ -3068,13 +3068,13 @@
       ]
     },
     {
-      "Route": "css/styles.css",
-      "AssetFile": "C:\\Users\\luisc\\Documents\\ESCOM\\8vo Semestre\\Ingeniería de Software\\IngenieriaDeSoftware\\Practica\\Práctica 1\\obj\\Debug\\net9.0\\compressed\\7086wf8yml-qwk8mhjv3u.gz",
+      "Route": "css/styles.6wn1ltkkgn.css",
+      "AssetFile": "C:\\Users\\luisc\\Documents\\ESCOM\\8vo Semestre\\Ingeniería de Software\\IngenieriaDeSoftware\\Practica\\Práctica 1\\obj\\Debug\\net9.0\\compressed\\7086wf8yml-6wn1ltkkgn.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000399520575"
+          "Quality": "0.000399361022"
         }
       ],
       "ResponseHeaders": [
@@ -3084,19 +3084,19 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "2502"
+          "Value": "2503"
         },
         {
           "Name": "ETag",
-          "Value": "\"NaYD3yv6icfV/Kbuv16ZV3G+/bqtngndHlnVCSIh6OM=\""
+          "Value": "\"IuDFAaFbSpsRnuWTLUCm5KmmCpHrGZu/0TnGvc9loGM=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 21 May 2025 00:14:51 GMT"
+          "Value": "Wed, 21 May 2025 00:39:39 GMT"
         },
         {
           "Name": "Cache-Control",
-          "Value": "no-cache"
+          "Value": "max-age=31536000, immutable"
         },
         {
           "Name": "Content-Encoding",
@@ -3112,18 +3112,26 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"2sUBjROL2LI2Lf4o0xoHd+C6Ja0G6GsBhCBoO8TU/7I=\""
+          "Value": "W/\"NjgGnEeWMRIfezWWl1LSjavRtK9ylzJ5CjVvQ4Uo8ck=\""
         }
       ],
       "EndpointProperties": [
         {
+          "Name": "fingerprint",
+          "Value": "6wn1ltkkgn"
+        },
+        {
+          "Name": "label",
+          "Value": "css/styles.css"
+        },
+        {
           "Name": "integrity",
-          "Value": "sha256-2sUBjROL2LI2Lf4o0xoHd+C6Ja0G6GsBhCBoO8TU/7I="
+          "Value": "sha256-NjgGnEeWMRIfezWWl1LSjavRtK9ylzJ5CjVvQ4Uo8ck="
         }
       ]
     },
     {
-      "Route": "css/styles.css",
+      "Route": "css/styles.6wn1ltkkgn.css",
       "AssetFile": "C:\\Users\\luisc\\Documents\\ESCOM\\8vo Semestre\\Ingeniería de Software\\IngenieriaDeSoftware\\Practica\\Práctica 1\\wwwroot\\css\\styles.css",
       "Selectors": [],
       "ResponseHeaders": [
@@ -3133,7 +3141,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "9835"
+          "Value": "9890"
         },
         {
           "Name": "Content-Type",
@@ -3141,121 +3149,21 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"2sUBjROL2LI2Lf4o0xoHd+C6Ja0G6GsBhCBoO8TU/7I=\""
+          "Value": "\"NjgGnEeWMRIfezWWl1LSjavRtK9ylzJ5CjVvQ4Uo8ck=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 21 May 2025 00:14:51 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-2sUBjROL2LI2Lf4o0xoHd+C6Ja0G6GsBhCBoO8TU/7I="
-        }
-      ]
-    },
-    {
-      "Route": "css/styles.css.gz",
-      "AssetFile": "C:\\Users\\luisc\\Documents\\ESCOM\\8vo Semestre\\Ingeniería de Software\\IngenieriaDeSoftware\\Practica\\Práctica 1\\obj\\Debug\\net9.0\\compressed\\7086wf8yml-qwk8mhjv3u.gz",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "2502"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"NaYD3yv6icfV/Kbuv16ZV3G+/bqtngndHlnVCSIh6OM=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Wed, 21 May 2025 00:14:51 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-NaYD3yv6icfV/Kbuv16ZV3G+/bqtngndHlnVCSIh6OM="
-        }
-      ]
-    },
-    {
-      "Route": "css/styles.qwk8mhjv3u.css",
-      "AssetFile": "C:\\Users\\luisc\\Documents\\ESCOM\\8vo Semestre\\Ingeniería de Software\\IngenieriaDeSoftware\\Practica\\Práctica 1\\obj\\Debug\\net9.0\\compressed\\7086wf8yml-qwk8mhjv3u.gz",
-      "Selectors": [
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip",
-          "Quality": "0.000399520575"
-        }
-      ],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "2502"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"NaYD3yv6icfV/Kbuv16ZV3G+/bqtngndHlnVCSIh6OM=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Wed, 21 May 2025 00:14:51 GMT"
+          "Value": "Wed, 21 May 2025 00:39:39 GMT"
         },
         {
           "Name": "Cache-Control",
           "Value": "max-age=31536000, immutable"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "W/\"2sUBjROL2LI2Lf4o0xoHd+C6Ja0G6GsBhCBoO8TU/7I=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "qwk8mhjv3u"
+          "Value": "6wn1ltkkgn"
         },
         {
           "Name": "label",
@@ -3263,13 +3171,13 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-2sUBjROL2LI2Lf4o0xoHd+C6Ja0G6GsBhCBoO8TU/7I="
+          "Value": "sha256-NjgGnEeWMRIfezWWl1LSjavRtK9ylzJ5CjVvQ4Uo8ck="
         }
       ]
     },
     {
-      "Route": "css/styles.qwk8mhjv3u.css",
-      "AssetFile": "C:\\Users\\luisc\\Documents\\ESCOM\\8vo Semestre\\Ingeniería de Software\\IngenieriaDeSoftware\\Practica\\Práctica 1\\wwwroot\\css\\styles.css",
+      "Route": "css/styles.6wn1ltkkgn.css.gz",
+      "AssetFile": "C:\\Users\\luisc\\Documents\\ESCOM\\8vo Semestre\\Ingeniería de Software\\IngenieriaDeSoftware\\Practica\\Práctica 1\\obj\\Debug\\net9.0\\compressed\\7086wf8yml-6wn1ltkkgn.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3278,7 +3186,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "9835"
+          "Value": "2503"
         },
         {
           "Name": "Content-Type",
@@ -3286,56 +3194,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"2sUBjROL2LI2Lf4o0xoHd+C6Ja0G6GsBhCBoO8TU/7I=\""
+          "Value": "\"IuDFAaFbSpsRnuWTLUCm5KmmCpHrGZu/0TnGvc9loGM=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 21 May 2025 00:14:51 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "qwk8mhjv3u"
-        },
-        {
-          "Name": "label",
-          "Value": "css/styles.css"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-2sUBjROL2LI2Lf4o0xoHd+C6Ja0G6GsBhCBoO8TU/7I="
-        }
-      ]
-    },
-    {
-      "Route": "css/styles.qwk8mhjv3u.css.gz",
-      "AssetFile": "C:\\Users\\luisc\\Documents\\ESCOM\\8vo Semestre\\Ingeniería de Software\\IngenieriaDeSoftware\\Practica\\Práctica 1\\obj\\Debug\\net9.0\\compressed\\7086wf8yml-qwk8mhjv3u.gz",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "2502"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"NaYD3yv6icfV/Kbuv16ZV3G+/bqtngndHlnVCSIh6OM=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Wed, 21 May 2025 00:14:51 GMT"
+          "Value": "Wed, 21 May 2025 00:39:39 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3353,7 +3216,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "qwk8mhjv3u"
+          "Value": "6wn1ltkkgn"
         },
         {
           "Name": "label",
@@ -3361,7 +3224,144 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-NaYD3yv6icfV/Kbuv16ZV3G+/bqtngndHlnVCSIh6OM="
+          "Value": "sha256-IuDFAaFbSpsRnuWTLUCm5KmmCpHrGZu/0TnGvc9loGM="
+        }
+      ]
+    },
+    {
+      "Route": "css/styles.css",
+      "AssetFile": "C:\\Users\\luisc\\Documents\\ESCOM\\8vo Semestre\\Ingeniería de Software\\IngenieriaDeSoftware\\Practica\\Práctica 1\\obj\\Debug\\net9.0\\compressed\\7086wf8yml-6wn1ltkkgn.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000399361022"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2503"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"IuDFAaFbSpsRnuWTLUCm5KmmCpHrGZu/0TnGvc9loGM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 21 May 2025 00:39:39 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"NjgGnEeWMRIfezWWl1LSjavRtK9ylzJ5CjVvQ4Uo8ck=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-NjgGnEeWMRIfezWWl1LSjavRtK9ylzJ5CjVvQ4Uo8ck="
+        }
+      ]
+    },
+    {
+      "Route": "css/styles.css",
+      "AssetFile": "C:\\Users\\luisc\\Documents\\ESCOM\\8vo Semestre\\Ingeniería de Software\\IngenieriaDeSoftware\\Practica\\Práctica 1\\wwwroot\\css\\styles.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "9890"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"NjgGnEeWMRIfezWWl1LSjavRtK9ylzJ5CjVvQ4Uo8ck=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 21 May 2025 00:39:39 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-NjgGnEeWMRIfezWWl1LSjavRtK9ylzJ5CjVvQ4Uo8ck="
+        }
+      ]
+    },
+    {
+      "Route": "css/styles.css.gz",
+      "AssetFile": "C:\\Users\\luisc\\Documents\\ESCOM\\8vo Semestre\\Ingeniería de Software\\IngenieriaDeSoftware\\Practica\\Práctica 1\\obj\\Debug\\net9.0\\compressed\\7086wf8yml-6wn1ltkkgn.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2503"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"IuDFAaFbSpsRnuWTLUCm5KmmCpHrGZu/0TnGvc9loGM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 21 May 2025 00:39:39 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-IuDFAaFbSpsRnuWTLUCm5KmmCpHrGZu/0TnGvc9loGM="
         }
       ]
     },
