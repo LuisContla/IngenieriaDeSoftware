@@ -1,0 +1,49 @@
+{% load static %}
+<!DOCTYPE html>
+<html lang="es">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Registro</title>
+    <link rel="stylesheet" href="{% static 'styles/registro.css' %}">
+</head>
+
+<body>
+    <div class="wrapper">
+        <h2>Registro</h2>
+        <form method="post">
+            {% csrf_token %}
+            {% if messages %}
+            {% for message in messages %}
+            <div>{{ message }}</div>
+            {% endfor %}
+            {% endif %}
+            <div class="input-box">
+                <input type="text" name="nombre" placeholder="Ingresa tu nombre" required>
+            </div>
+            <div class="input-box">
+                <input type="email" name="correo" placeholder="Ingresa tu correo" required>
+            </div>
+            <div class="input-box">
+                <input type="password" name="contraseña" placeholder="Crea una contraseña" required>
+            </div>
+            <div class="input-box">
+                <input type="password" name="confirmar_contraseña" placeholder="Confirma contraseña" required>
+            </div>
+            <div class="policy">
+                <input type="checkbox" name="acepta_terminos">
+                <h3>Acepto los términos y condiciones</h3>
+            </div>
+            <div class="input-box button">
+                <input type="submit" value="¡Regístrame!">
+            </div>
+            <div class="text">
+                <h3>¿Ya tienes una cuenta? <a href="/login">Iniciar Sesión</a></h3>
+            </div>
+        </form>
+    </div>
+
+</body>
+
+</html>

@@ -1,0 +1,39 @@
+{% load static %}
+<!DOCTYPE html>
+<html lang="es">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Iniciar Sesión</title>
+    <link rel="stylesheet" href="{% static 'styles/registro.css' %}">
+</head>
+
+<body>
+    <div class="wrapper">
+        <h2>Iniciar Sesión</h2>
+        <form method="post">
+            {% csrf_token %}
+            {% if messages %}
+            {% for message in messages %}
+            <div>{{ message }}</div>
+            {% endfor %}
+            {% endif %}
+            <div class="input-box">
+                <input type="text" name="correo" placeholder="Ingresa tu correo" required>
+            </div>
+            <div class="input-box">
+                <input type="password" name="contraseña" placeholder="Ingresa tu contraseña" required>
+            </div>
+            <div class="input-box button">
+                <input type="submit" value="Iniciar Sesión!">
+            </div>
+            <div class="text">
+                <h3>¿Aún no tienes una cuenta? <a href="/registro">Regístrate</a></h3>
+            </div>
+        </form>
+    </div>
+
+</body>
+
+</html>
