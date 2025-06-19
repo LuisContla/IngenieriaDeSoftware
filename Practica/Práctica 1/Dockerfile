@@ -23,6 +23,15 @@ FROM build AS publish
 ARG BUILD_CONFIGURATION=Release
 RUN dotnet publish "./Práctica 1.csproj" -c $BUILD_CONFIGURATION -o /app/publish /p:UseAppHost=false
 
+# --- INICIO DE LA CORRECCIÓN ---
+# Nos cambiamos al usuario 'root' para poder instalar paquetes del sistema.
+USER root
+# Actualizamos la lista de paquetes de Linux e instalamos la librería que te hacía falta.
+RUN apt-get update && apt-get install -y libgssapi-krb5-2
+# Es una buena práctica de seguridad volver al usuario 'app' por defecto de la imagen.
+USER app
+# --- FIN DE LA CORRECCIÓN ---
+
 # Esta fase se usa en producción o cuando se ejecuta desde VS en modo normal (valor predeterminado cuando no se usa la configuración de depuración)
 FROM base AS final
 WORKDIR /app
