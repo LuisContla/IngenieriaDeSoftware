@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\luisc\\Documents\\ESCOM\\8vo Semestre\\Ingenier\u00EDa de Software\\IngenieriaDeSoftware\\Practica\\Pr\u00E1ctica 1\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{A0E5E479-42F5-436C-876D-4FC3611E8EBB}|Pr\u00E1ctica 1.csproj|c:\\users\\luisc\\documents\\escom\\8vo semestre\\ingenier\u00EDa de software\\ingenieriadesoftware\\practica\\pr\u00E1ctica 1\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A0E5E479-42F5-436C-876D-4FC3611E8EBB}|Pr\u00E1ctica 1.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{A0E5E479-42F5-436C-876D-4FC3611E8EBB}|Pr\u00E1ctica 1.csproj|c:\\users\\luisc\\documents\\escom\\8vo semestre\\ingenier\u00EDa de software\\ingenieriadesoftware\\practica\\pr\u00E1ctica 1\\views\\admin\\perfil.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{A0E5E479-42F5-436C-876D-4FC3611E8EBB}|Pr\u00E1ctica 1.csproj|solutionrelative:views\\admin\\perfil.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
@@ -18,7 +22,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -30,7 +34,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\luisc\\Documents\\ESCOM\\8vo Semestre\\Ingenier\u00EDa de Software\\IngenieriaDeSoftware\\Practica\\Pr\u00E1ctica 1\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\luisc\\Documents\\ESCOM\\8vo Semestre\\Ingenier\u00EDa de Software\\IngenieriaDeSoftware\\Practica\\Pr\u00E1ctica 1\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-06-19T13:25:57.735Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "styles.css",
               "DocumentMoniker": "C:\\Users\\luisc\\Documents\\ESCOM\\8vo Semestre\\Ingenier\u00EDa de Software\\IngenieriaDeSoftware\\Practica\\Pr\u00E1ctica 1\\wwwroot\\css\\styles.css",
               "RelativeDocumentMoniker": "wwwroot\\css\\styles.css",
@@ -42,13 +59,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Perfil.cshtml",
               "DocumentMoniker": "C:\\Users\\luisc\\Documents\\ESCOM\\8vo Semestre\\Ingenier\u00EDa de Software\\IngenieriaDeSoftware\\Practica\\Pr\u00E1ctica 1\\Views\\Admin\\Perfil.cshtml",
               "RelativeDocumentMoniker": "Views\\Admin\\Perfil.cshtml",
               "ToolTip": "C:\\Users\\luisc\\Documents\\ESCOM\\8vo Semestre\\Ingenier\u00EDa de Software\\IngenieriaDeSoftware\\Practica\\Pr\u00E1ctica 1\\Views\\Admin\\Perfil.cshtml",
               "RelativeToolTip": "Views\\Admin\\Perfil.cshtml",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAAACIAAAAOAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAAOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-05-20T23:34:08.148Z",
               "EditorCaption": ""
