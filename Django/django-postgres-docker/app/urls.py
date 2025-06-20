@@ -10,9 +10,15 @@ urlpatterns = [
     path('registro/', views.registro, name='registro'),
     path('login/', views.login, name='login'),
     path('dashboard/', views.dashboard, name='dashboard'),
-    path('libros/', views.libros, name='libros'),
+    path('pokemon/', views.pokemon, name='pokemon'),
     path('registrar-usuario/', views.registrar_usuario, name='registrar_usuario'),
-    path('logout/', views.logout, name='logout')
+    path('logout/', views.logout, name='logout'),
+    path('perfil/', views.perfil, name='perfil'),
+    path('pokemon/<int:poke_id>/', views.pokemon_detalle, name='pokemon_detalle'),
+    path('toggle-favorito/', views.toggle_favorito, name='toggle_favorito'),
+    path('agregar-a-equipo/', views.agregar_a_equipo, name='agregar_a_equipo'),
+    path('cambiar-nombre-equipo/', views.cambiar_nombre_equipo, name='cambiar_nombre_equipo'),
+    path('eliminar-equipo/', views.eliminar_equipo, name='eliminar_equipo')
     # Administradores
     # path('admin/dashboard/', views.dashboard_usuarios, name='dashboard_usuarios'),
     # path('admin/crear/', views.crear_usuario, name='crear_usuario'),

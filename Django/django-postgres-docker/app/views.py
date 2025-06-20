@@ -1,14 +1,12 @@
-from django.contrib.auth.forms import UserCreationForm
-from django.contrib.auth.models import User
-from django.contrib.auth.decorators import user_passes_test
-from django.shortcuts import render, redirect, get_object_or_404
-from django.http import HttpResponse
 from django.shortcuts import render, redirect
 from django.contrib import messages
-from .forms import RegistroForm, LoginForm
-from .models import Usuario, Libro
+from .models import Usuario, Equipo
 from functools import wraps
 from django.shortcuts import redirect
+from django.http import JsonResponse
+from django.views.decorators.http import require_POST
+from django.http import JsonResponse
+import requests
 
 def login_requerido(vista_func):
     @wraps(vista_func)
@@ -42,7 +40,6 @@ def logout(request):
 
 def registro(request):
     if request.method == 'POST':
-        print("Formulario recibido")  # <-- Esto debe aparecer en la terminal
         nombre = request.POST.get('nombre')
         correo = request.POST.get('correo')
         contraseña = request.POST.get('contraseña')
@@ -63,7 +60,7 @@ def registro(request):
                 acepta_terminos=acepta_terminos
             )
             messages.success(request, "Usuario registrado correctamente.")
-            return redirect('login')  # Asegúrate que 'login' es el nombre de tu url de login
+            return redirect('login')
     return render(request, 'registro.html')
 
 def login(request):
@@ -94,10 +91,33 @@ def dashboard(request):
     })
 
 @login_requerido
-def libros(request):
+def pokemon(request):
     usuario = Usuario.objects.get(id=request.session['usuario_id'])
-    libros = Libro.objects.all()
-    return render(request, 'libros_dashboard.html', {'usuario': usuario, 'libros': libros})
+    offset = int(request.GET.get('offset', 0))
+    response = requests.get(f'https://pokeapi.co/api/v2/pokemon?limit=20&offset={offset}')
+    pokemon_list = []
+    next_offset = prev_offset = None
+    if response.status_code == 200:
+        data = response.json()
+        for poke in data['results']:
+            poke_data = requests.get(poke['url']).json()
+            pokemon_list.append({
+                'name': poke_data['name'],
+                'image': poke_data['sprites']['front_default'],
+                'types': [t['type']['name'] for t in poke_data['types']],
+                'id': poke_data['id'],
+            })
+        # Manejo de paginación
+        if data['next']:
+            next_offset = offset + 20
+        if data['previous']:
+            prev_offset = max(offset - 20, 0)
+    return render(request, 'pokemon_dashboard.html', {
+        'usuario': usuario,
+        'pokemon': pokemon_list,
+        'next_offset': next_offset,
+        'prev_offset': prev_offset,
+    })
 
 @login_requerido
 @admin_requerido
@@ -119,6 +139,121 @@ def registrar_usuario(request):
             messages.success(request, "Usuario registrado correctamente.")
             return redirect('dashboard')
     return render(request, 'registrar_usuario.html')
+
+@login_requerido
+def perfil(request):
+    usuario = Usuario.objects.get(id=request.session['usuario_id'])
+    favoritos_data = []
+    for poke_id in usuario.favoritos:
+        response = requests.get(f'https://pokeapi.co/api/v2/pokemon/{poke_id}')
+        if response.status_code == 200:
+            poke = response.json()
+            favoritos_data.append({
+                'id': poke['id'],
+                'name': poke['name'],
+                'image': poke['sprites']['front_default'],
+                'types': [t['type']['name'] for t in poke['types']],
+            })
+
+    equipos_data = []
+    for equipo in usuario.equipos.all():
+        pokemones = []
+        for poke_id in equipo.pokemones:
+            response = requests.get(f'https://pokeapi.co/api/v2/pokemon/{poke_id}')
+            if response.status_code == 200:
+                poke = response.json()
+                pokemones.append({
+                    'id': poke['id'],
+                    'name': poke['name'],
+                    'image': poke['sprites']['front_default'],
+                    'types': [t['type']['name'] for t in poke['types']],
+                })
+        equipos_data.append({
+            'nombre': equipo.nombre,
+            'pokemones': pokemones,
+        })
+
+    return render(request, 'perfil.html', {
+        'usuario': usuario,
+        'favoritos': favoritos_data,
+        'equipos': equipos_data,
+    })
+
+@login_requerido
+def pokemon_detalle(request, poke_id):
+    usuario = Usuario.objects.get(id=request.session['usuario_id'])
+    response = requests.get(f'https://pokeapi.co/api/v2/pokemon/{poke_id}')
+    if response.status_code == 200:
+        poke = response.json()
+    else:
+        poke = None
+    return render(request, 'pokemon.html', {'usuario': usuario, 'poke': poke})
+
+@login_requerido
+@require_POST
+def agregar_a_equipo(request):
+    usuario = Usuario.objects.get(id=request.session['usuario_id'])
+    poke_id = request.POST.get('poke_id')
+    equipo_id = request.POST.get('equipo_id')
+    nuevo_equipo = request.POST.get('nuevo_equipo', '').strip()
+
+    # Si el usuario quiere crear un nuevo equipo
+    if nuevo_equipo:
+        equipo = Equipo.objects.create(usuario=usuario, nombre=nuevo_equipo, pokemones=[poke_id])
+        return JsonResponse({'success': True, 'equipo': equipo.nombre})
+
+    # Si seleccionó un equipo existente
+    if equipo_id:
+        try:
+            equipo = Equipo.objects.get(id=equipo_id, usuario=usuario)
+            if poke_id in equipo.pokemones:
+                return JsonResponse({'success': False, 'error': 'Este Pokémon ya está en el equipo.'})
+            if len(equipo.pokemones) >= 6:
+                return JsonResponse({'success': False, 'error': 'El equipo ya tiene 6 Pokémon.'})
+            equipo.pokemones.append(poke_id)
+            equipo.save()
+            return JsonResponse({'success': True, 'equipo': equipo.nombre})
+        except Equipo.DoesNotExist:
+            return JsonResponse({'success': False, 'error': 'Equipo no encontrado.'})
+
+    return JsonResponse({'success': False, 'error': 'No se seleccionó equipo.'})
+
+@login_requerido
+@require_POST
+def cambiar_nombre_equipo(request):
+    equipo_id = request.POST.get('equipo_id')
+    nuevo_nombre = request.POST.get('nuevo_nombre')
+    equipo = Equipo.objects.get(nombre=equipo_id, usuario__id=request.session['usuario_id'])
+    equipo.nombre = nuevo_nombre
+    equipo.save()
+    return JsonResponse({'success': True})
+
+@login_requerido
+@require_POST
+def eliminar_equipo(request):
+    equipo_id = request.POST.get('equipo_id')
+    equipo = Equipo.objects.get(nombre=equipo_id, usuario__id=request.session['usuario_id'])
+    equipo.delete()
+    return JsonResponse({'success': True})
+
+@login_requerido
+@require_POST
+def toggle_favorito(request):
+    usuario = Usuario.objects.get(id=request.session['usuario_id'])
+    poke_id = request.POST.get('poke_id')
+    if not poke_id:
+        return JsonResponse({'success': False, 'error': 'No se proporcionó poke_id.'})
+
+    favoritos = usuario.favoritos or []
+    if poke_id in favoritos:
+        favoritos.remove(poke_id)
+        action = 'removed'
+    else:
+        favoritos.append(poke_id)
+        action = 'added'
+    usuario.favoritos = favoritos
+    usuario.save()
+    return JsonResponse({'success': True, 'action': action})
 
 # Vistas de Administradores
 
