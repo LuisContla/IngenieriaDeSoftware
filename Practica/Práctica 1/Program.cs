@@ -1,10 +1,10 @@
 using Microsoft.AspNetCore.Authentication.Cookies;
 using Microsoft.EntityFrameworkCore;
-using Práctica_1.Data;
+using PrÃ¡ctica_1.Data;
 
 var builder = WebApplication.CreateBuilder(args);
 
-// Configuración de la base de datos con Entity Framework
+// Configuraciï¿½n de la base de datos con Entity Framework
 builder.Services.AddDbContext<ApplicationDbContext>(options =>
     options.UseSqlServer(
         builder.Configuration.GetConnectionString("DefaultConnection"),
@@ -13,19 +13,19 @@ builder.Services.AddDbContext<ApplicationDbContext>(options =>
 );
 
 // Habilitar sesiones
-builder.Services.AddDistributedMemoryCache(); // Usa una caché en memoria para las sesiones
+builder.Services.AddDistributedMemoryCache(); // Usa una cachï¿½ en memoria para las sesiones
 builder.Services.AddSession(options =>
 {
-    options.IdleTimeout = TimeSpan.FromMinutes(30);  // Duración de la sesión
+    options.IdleTimeout = TimeSpan.FromMinutes(30);  // Duraciï¿½n de la sesiï¿½n
     options.Cookie.HttpOnly = true;  // La cookie solo es accesible desde HTTP
     options.Cookie.IsEssential = true;  // Necesario para el funcionamiento de sesiones
 });
 
-// Configuración de autenticación con cookies
+// Configuraciï¿½n de autenticaciï¿½n con cookies
 builder.Services.AddAuthentication(CookieAuthenticationDefaults.AuthenticationScheme)
     .AddCookie(options =>
     {
-        options.LoginPath = "/Auth/Login"; // Redirige si no está autenticado
+        options.LoginPath = "/Auth/Login"; // Redirige si no estï¿½ autenticado
         options.AccessDeniedPath = "/Auth/AccessDenied"; // Redirige si no tiene permisos
     });
 
@@ -34,11 +34,11 @@ builder.Services.AddControllersWithViews();
 
 var app = builder.Build();
 
-// Configuración de middleware
+// Configuraciï¿½n de middleware
 app.UseStaticFiles();
 app.UseRouting();
 
-// Habilitar autenticación, autorización y sesiones en la aplicación
+// Habilitar autenticaciï¿½n, autorizaciï¿½n y sesiones en la aplicaciï¿½n
 app.UseAuthentication();
 app.UseAuthorization();
 app.UseSession(); // Habilita el manejo de sesiones

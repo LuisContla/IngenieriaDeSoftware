@@ -320,7 +320,6 @@ C:\Users\luisc\Documents\ESCOM\8vo Semestre\Ingeniería de Software\IngenieriaDe
 C:\Users\luisc\Documents\ESCOM\8vo Semestre\Ingeniería de Software\IngenieriaDeSoftware\Practica\Práctica 1\obj\Debug\net9.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
 C:\Users\luisc\Documents\ESCOM\8vo Semestre\Ingeniería de Software\IngenieriaDeSoftware\Practica\Práctica 1\obj\Debug\net9.0\scopedcss\bundle\Práctica 1.styles.css
 C:\Users\luisc\Documents\ESCOM\8vo Semestre\Ingeniería de Software\IngenieriaDeSoftware\Practica\Práctica 1\obj\Debug\net9.0\scopedcss\projectbundle\Práctica 1.bundle.scp.css
-C:\Users\luisc\Documents\ESCOM\8vo Semestre\Ingeniería de Software\IngenieriaDeSoftware\Practica\Práctica 1\obj\Debug\net9.0\compressed\8srbz84ovd-b9sayid5wm.gz
 C:\Users\luisc\Documents\ESCOM\8vo Semestre\Ingeniería de Software\IngenieriaDeSoftware\Practica\Práctica 1\obj\Debug\net9.0\compressed\c3mkdes4oh-61n19gt1b8.gz
 C:\Users\luisc\Documents\ESCOM\8vo Semestre\Ingeniería de Software\IngenieriaDeSoftware\Practica\Práctica 1\obj\Debug\net9.0\compressed\nphkxnowdz-bqjiyaj88i.gz
 C:\Users\luisc\Documents\ESCOM\8vo Semestre\Ingeniería de Software\IngenieriaDeSoftware\Practica\Práctica 1\obj\Debug\net9.0\compressed\k6ziqogp2d-c2jlpeoesf.gz
@@ -368,19 +367,14 @@ C:\Users\luisc\Documents\ESCOM\8vo Semestre\Ingeniería de Software\IngenieriaDe
 C:\Users\luisc\Documents\ESCOM\8vo Semestre\Ingeniería de Software\IngenieriaDeSoftware\Practica\Práctica 1\obj\Debug\net9.0\compressed\mjxjsdzknw-0j3bgjxly4.gz
 C:\Users\luisc\Documents\ESCOM\8vo Semestre\Ingeniería de Software\IngenieriaDeSoftware\Practica\Práctica 1\obj\Debug\net9.0\compressed\3awuwlqtqr-47otxtyo56.gz
 C:\Users\luisc\Documents\ESCOM\8vo Semestre\Ingeniería de Software\IngenieriaDeSoftware\Practica\Práctica 1\obj\Debug\net9.0\compressed\se0472vao2-4v8eqarkd7.gz
-C:\Users\luisc\Documents\ESCOM\8vo Semestre\Ingeniería de Software\IngenieriaDeSoftware\Practica\Práctica 1\obj\Debug\net9.0\compressed\jymcek84od-356vix0kms.gz
-C:\Users\luisc\Documents\ESCOM\8vo Semestre\Ingeniería de Software\IngenieriaDeSoftware\Practica\Práctica 1\obj\Debug\net9.0\compressed\20b395byln-83jwlth58m.gz
-C:\Users\luisc\Documents\ESCOM\8vo Semestre\Ingeniería de Software\IngenieriaDeSoftware\Practica\Práctica 1\obj\Debug\net9.0\compressed\jr2h2t9aw1-mrlpezrjn3.gz
 C:\Users\luisc\Documents\ESCOM\8vo Semestre\Ingeniería de Software\IngenieriaDeSoftware\Practica\Práctica 1\obj\Debug\net9.0\compressed\i5mricpz8c-lzl9nlhx6b.gz
 C:\Users\luisc\Documents\ESCOM\8vo Semestre\Ingeniería de Software\IngenieriaDeSoftware\Practica\Práctica 1\obj\Debug\net9.0\compressed\kk3xg0na0l-ag7o75518u.gz
-C:\Users\luisc\Documents\ESCOM\8vo Semestre\Ingeniería de Software\IngenieriaDeSoftware\Practica\Práctica 1\obj\Debug\net9.0\compressed\c1vgmj3kco-x0q3zqp4vz.gz
 C:\Users\luisc\Documents\ESCOM\8vo Semestre\Ingeniería de Software\IngenieriaDeSoftware\Practica\Práctica 1\obj\Debug\net9.0\compressed\6f7msneebz-0i3buxo5is.gz
 C:\Users\luisc\Documents\ESCOM\8vo Semestre\Ingeniería de Software\IngenieriaDeSoftware\Practica\Práctica 1\obj\Debug\net9.0\compressed\5vb0sb1m58-o1o13a6vjx.gz
 C:\Users\luisc\Documents\ESCOM\8vo Semestre\Ingeniería de Software\IngenieriaDeSoftware\Practica\Práctica 1\obj\Debug\net9.0\compressed\rbanjrajss-ttgo8qnofa.gz
 C:\Users\luisc\Documents\ESCOM\8vo Semestre\Ingeniería de Software\IngenieriaDeSoftware\Practica\Práctica 1\obj\Debug\net9.0\compressed\09qc4rp6hn-2z0ns9nrw6.gz
 C:\Users\luisc\Documents\ESCOM\8vo Semestre\Ingeniería de Software\IngenieriaDeSoftware\Practica\Práctica 1\obj\Debug\net9.0\compressed\0q3stfvo59-muycvpuwrr.gz
 C:\Users\luisc\Documents\ESCOM\8vo Semestre\Ingeniería de Software\IngenieriaDeSoftware\Practica\Práctica 1\obj\Debug\net9.0\compressed\30nyy2cbh4-87fc7y1x7t.gz
-C:\Users\luisc\Documents\ESCOM\8vo Semestre\Ingeniería de Software\IngenieriaDeSoftware\Practica\Práctica 1\obj\Debug\net9.0\compressed\l02mdn0zmf-mlv21k5csn.gz
 C:\Users\luisc\Documents\ESCOM\8vo Semestre\Ingeniería de Software\IngenieriaDeSoftware\Practica\Práctica 1\obj\Debug\net9.0\compressed\gr5bwku88v-qxobfz05yl.gz
 C:\Users\luisc\Documents\ESCOM\8vo Semestre\Ingeniería de Software\IngenieriaDeSoftware\Practica\Práctica 1\obj\Debug\net9.0\compressed\o5l36a7hed-qxobfz05yl.gz
 C:\Users\luisc\Documents\ESCOM\8vo Semestre\Ingeniería de Software\IngenieriaDeSoftware\Practica\Práctica 1\obj\Debug\net9.0\staticwebassets.build.json
@@ -481,5 +475,11 @@ C:\Users\luisc\Documents\ESCOM\8vo Semestre\Ingeniería de Software\IngenieriaDe
 C:\Users\luisc\Documents\ESCOM\8vo Semestre\Ingeniería de Software\IngenieriaDeSoftware\Practica\Práctica 1\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
 C:\Users\luisc\Documents\ESCOM\8vo Semestre\Ingeniería de Software\IngenieriaDeSoftware\Practica\Práctica 1\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
 C:\Users\luisc\Documents\ESCOM\8vo Semestre\Ingeniería de Software\IngenieriaDeSoftware\Practica\Práctica 1\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
-C:\Users\luisc\Documents\ESCOM\8vo Semestre\Ingeniería de Software\IngenieriaDeSoftware\Practica\Práctica 1\obj\Debug\net9.0\compressed\9jsvq18j1o-0w7506pt23.gz
-C:\Users\luisc\Documents\ESCOM\8vo Semestre\Ingeniería de Software\IngenieriaDeSoftware\Practica\Práctica 1\obj\Debug\net9.0\compressed\7086wf8yml-6wn1ltkkgn.gz
+C:\Users\luisc\Documents\ESCOM\8vo Semestre\Ingeniería de Software\IngenieriaDeSoftware\Practica\Práctica 1\obj\Debug\net9.0\compressed\8srbz84ovd-lugek5hnai.gz
+C:\Users\luisc\Documents\ESCOM\8vo Semestre\Ingeniería de Software\IngenieriaDeSoftware\Practica\Práctica 1\obj\Debug\net9.0\compressed\7086wf8yml-h027xky5bm.gz
+C:\Users\luisc\Documents\ESCOM\8vo Semestre\Ingeniería de Software\IngenieriaDeSoftware\Practica\Práctica 1\obj\Debug\net9.0\compressed\9jsvq18j1o-fya3of9hio.gz
+C:\Users\luisc\Documents\ESCOM\8vo Semestre\Ingeniería de Software\IngenieriaDeSoftware\Practica\Práctica 1\obj\Debug\net9.0\compressed\jymcek84od-l3n5xuwxn8.gz
+C:\Users\luisc\Documents\ESCOM\8vo Semestre\Ingeniería de Software\IngenieriaDeSoftware\Practica\Práctica 1\obj\Debug\net9.0\compressed\20b395byln-ilo7uva0vt.gz
+C:\Users\luisc\Documents\ESCOM\8vo Semestre\Ingeniería de Software\IngenieriaDeSoftware\Practica\Práctica 1\obj\Debug\net9.0\compressed\jr2h2t9aw1-qlccset4i1.gz
+C:\Users\luisc\Documents\ESCOM\8vo Semestre\Ingeniería de Software\IngenieriaDeSoftware\Practica\Práctica 1\obj\Debug\net9.0\compressed\c1vgmj3kco-xzw0cte36n.gz
+C:\Users\luisc\Documents\ESCOM\8vo Semestre\Ingeniería de Software\IngenieriaDeSoftware\Practica\Práctica 1\obj\Debug\net9.0\compressed\l02mdn0zmf-jfsiqqwiad.gz

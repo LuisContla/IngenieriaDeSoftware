@@ -1,39 +1,35 @@
-# Consulte https://aka.ms/customizecontainer para aprender a personalizar su contenedor de depuración y cómo Visual Studio usa este Dockerfile para compilar sus imágenes para una depuración más rápida.
-
-# Esta fase se usa cuando se ejecuta desde VS en modo rápido (valor predeterminado para la configuración de depuración)
-FROM mcr.microsoft.com/dotnet/aspnet:9.0 AS base
-USER $APP_UID
-WORKDIR /app
-EXPOSE 8080
-EXPOSE 8081
-
-
-# Esta fase se usa para compilar el proyecto de servicio
+# --- Etapa 1: Compilación (Build) ---
+# Usamos la imagen del SDK de .NET 9 para compilar.
 FROM mcr.microsoft.com/dotnet/sdk:9.0 AS build
-ARG BUILD_CONFIGURATION=Release
-WORKDIR /src
+WORKDIR /source
+
+# Copiamos primero el archivo del proyecto para optimizar el caché de Docker
 COPY ["Práctica 1.csproj", "."]
-RUN dotnet restore "./Práctica 1.csproj"
+RUN dotnet restore "Práctica 1.csproj"
+
+# Copiamos el resto del código y publicamos la aplicación
 COPY . .
-WORKDIR "/src/."
-RUN dotnet build "./Práctica 1.csproj" -c $BUILD_CONFIGURATION -o /app/build
+RUN dotnet publish "Práctica 1.csproj" -c Release -o /app/publish
 
-# Esta fase se usa para publicar el proyecto de servicio que se copiará en la fase final.
-FROM build AS publish
-ARG BUILD_CONFIGURATION=Release
-RUN dotnet publish "./Práctica 1.csproj" -c $BUILD_CONFIGURATION -o /app/publish /p:UseAppHost=false
 
-# --- INICIO DE LA CORRECCIÓN ---
-# Nos cambiamos al usuario 'root' para poder instalar paquetes del sistema.
+# --- Etapa 2: Ejecución (Final) ---
+# Empezamos desde la imagen de runtime de ASP.NET 9.0, que es ligera.
+FROM mcr.microsoft.com/dotnet/aspnet:9.0
+
+# --- AQUÍ VA LA CORRECCIÓN, EN LA ETAPA FINAL ---
+# Nos cambiamos a usuario 'root' para poder instalar paquetes.
 USER root
-# Actualizamos la lista de paquetes de Linux e instalamos la librería que te hacía falta.
+# Actualizamos e instalamos la librería que falta.
 RUN apt-get update && apt-get install -y libgssapi-krb5-2
-# Es una buena práctica de seguridad volver al usuario 'app' por defecto de la imagen.
+# Volvemos al usuario 'app' por seguridad (buena práctica).
 USER app
 # --- FIN DE LA CORRECCIÓN ---
 
-# Esta fase se usa en producción o cuando se ejecuta desde VS en modo normal (valor predeterminado cuando no se usa la configuración de depuración)
-FROM base AS final
+# Establecemos el directorio de trabajo
 WORKDIR /app
-COPY --from=publish /app/publish .
+
+# Copiamos la aplicación ya compilada desde la etapa de 'build'.
+COPY --from=build /app/publish .
+
+# Definimos el punto de entrada para ejecutar la aplicación cuando el contenedor inicie.
 ENTRYPOINT ["dotnet", "Práctica 1.dll"]

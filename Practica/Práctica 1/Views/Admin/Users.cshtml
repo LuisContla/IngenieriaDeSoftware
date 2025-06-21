@@ -54,7 +54,7 @@
                     <td class="btn-container">
                         <button type="button" class="btn btn-primary btnEditar" data-toggle="modal" data-target="#modalEdit" data-id="@usuario.Id">✏️ Editar</button>
                         <form method="post" action="@Url.Action("Delete", "Admin", new { id = usuario.Id })" onsubmit="return confirm('¿Estás seguro de que deseas eliminar a este usuario?');">
-                            <button type="submit" class="btn btn-delete">🗑️ Eliminar</button>
+                            <button type="submit" class="btn btn-danger">🗑️ Eliminar</button>
                         </form>
                     </td>
                 </tr>

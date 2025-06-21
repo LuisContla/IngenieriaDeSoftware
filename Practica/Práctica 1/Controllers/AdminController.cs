@@ -18,9 +18,6 @@ namespace Práctica_1.Controllers
         {
             var userId = HttpContext.Session.GetString("UsuarioId");
 
-            if (userId != "1")
-                return View("AccessDenied");
-
             if (string.IsNullOrEmpty(userId))
             {
                 // Si no hay un usuario logueado, redirige al login
@@ -38,7 +35,8 @@ namespace Práctica_1.Controllers
             // Verificar si el usuario es un administrador
             if (usuario.Rol != 1)  // 1 significa Administrador
             {
-                return RedirectToAction("Index", "Home"); // Si no es admin, redirige a la página principal
+                return View("AccessDenied");
+                //return RedirectToAction("Index", "Home"); // Si no es admin, redirige a la página principal
             }
 
             // Pasar el nombre del usuario a la vista
@@ -51,9 +49,7 @@ namespace Práctica_1.Controllers
         public async Task<IActionResult> Users()
         {
             var userId = HttpContext.Session.GetString("UsuarioId");
-
-            if (userId != "1")
-                return View("AccessDenied");
+                
 
             if (string.IsNullOrEmpty(userId))
             {
@@ -66,7 +62,8 @@ namespace Práctica_1.Controllers
 
             if (usuario == null || usuario.Rol != 1)  // Solo permitir a administradores ver los usuarios
             {
-                return RedirectToAction("Index", "Home");
+                return View("AccessDenied");
+                //return RedirectToAction("Index", "Home");
             }
 
             // Obtener la lista de usuarios directamente desde la base de datos
@@ -191,9 +188,7 @@ namespace Práctica_1.Controllers
         public async Task<IActionResult> Books(string search, int page = 1, int pageSize = 14)
         {
             var userId = HttpContext.Session.GetString("UsuarioId");
-
-            if (userId != "1")
-                return View("AccessDenied");
+                
 
             if (string.IsNullOrEmpty(userId))
                 return RedirectToAction("Login", "Auth");
@@ -237,9 +232,7 @@ namespace Práctica_1.Controllers
         public async Task<IActionResult> Perfil()
         {
             var userId = HttpContext.Session.GetString("UsuarioId");
-
-            if (userId != "1")
-                return View("AccessDenied");
+                
 
             if (string.IsNullOrEmpty(userId))
                 return RedirectToAction("Login", "Auth");
@@ -248,7 +241,7 @@ namespace Práctica_1.Controllers
 
             var usuario = await _context.Usuarios.FindAsync(usuarioId);
             if (usuario == null || usuario.Rol != 1)
-                return RedirectToAction("Index", "Home");
+                return View("AccessDenied");
 
             var favoritos = await _context.Favoritos
                 .Where(f => f.UsuarioId == usuarioId)
@@ -269,15 +262,15 @@ namespace Práctica_1.Controllers
         {
             var userId = HttpContext.Session.GetString("UsuarioId");
 
-            if (userId != "1")
-                return View("AccessDenied");
-
             if (string.IsNullOrEmpty(userId))
                 return RedirectToAction("Login", "Auth");
 
             var usuario = await _context.Usuarios.FindAsync(int.Parse(userId));
             if (usuario == null)
                 return NotFound();
+
+            if(usuario.Rol != 1)
+                return View("AccessDenied");
 
             return View(usuario); // Usa una vista llamada EditarPerfil.cshtml
         }
